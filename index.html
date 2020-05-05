@@ -17,10 +17,8 @@
     <link href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
 
-
     <link rel="stylesheet" href="css/site.css">
     <link rel="stylesheet" href="css/vdl_logo_styles.css">
-
 
     <!-- Fav and touch icons -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -99,7 +97,7 @@
                                 </p>
                                 <p class="content">Browse through the techniques illustrated below, or use our wizard to
                                     find potential reasons for performing provenance analysis, the types of provenance
-                                    data and encodings, and how to analyze them!</p>
+                                    data and encodings, and finally how to analyze them!</p>
                                 <p class="content">
                                     <a href="mailto:k.xu@mdx.ac.uk">Get in touch</a> if you have
                                     questions or comments.
@@ -146,9 +144,6 @@
                         <article class="tile is-child notification has-background-white-bis">
                             <p class="title"> Learn about the techniques </p>
                             <p class="subtitle">Click on a layout or operation to learn more!</p>
-                            <!-- <figure>
-                              <img src="/mvnv/assets/images/taxonomy.png"/>
-                            </figure> -->
 
                             <div id='typologySVG'></div>
                             <div class="content">
@@ -224,7 +219,6 @@
             return await d3.text(path)
         }
 
-
         loadSVG().then(logo => {
             let div = d3.select("#typologySVG").html(logo);
 
@@ -255,14 +249,11 @@
                     }
                 });
 
-
             div.select('#adjmatrix')
                 .on('click', (d) => console.log('moused over adj_matrix'));
-
 
             console.log(div.select('#quilts').size())
         });
     </script>
 
 </body>
->
