@@ -3952,7 +3952,9 @@ footer .footer-list-social ul li a {
 footer .footer-list-institutions {
     float: right;
     position: relative;
-    left: -50%
+    left: -50%;
+    /* text-align: center;
+    display: inline-block */
 }
 
 footer .footer-list-institutions ul {
