@@ -2,28 +2,27 @@
 <html lang="en">
 
 <head>
- <meta charset="utf-8">
-<title>Wizard | Analysis of User Interactions and Visualization Provenance</title>
-<meta name="viewport" content="width=device-width">
-<meta name="description" content="Partner website for STAR on Visualization Multivariate Networks">
+  <meta charset="utf-8">
+  <title>Wizard | Analysis of User Interactions and Visualization Provenance</title>
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="Partner website for STAR on Visualization Multivariate Networks">
 
-<!-- Custom CSS -->
+  <!-- Custom CSS -->
 
-<!-- Bulma CSS and FontAwesome Icons -->
-<link rel="stylesheet" href="../css/bulma.css">
-<script defer src="../../../use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-
-
-<link href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="../css/site.css">
-
-<link rel="stylesheet" href="../css/vdl_logo_styles.css">
+  <!-- Bulma CSS and FontAwesome Icons -->
+  <link rel="stylesheet" href="../css/bulma.css">
+  <script defer src="css/fontawesome-free-5.13.0-web/css/all.css"></script>
 
 
-<!-- Fav and touch icons -->
-<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
-<link rel="apple-touch-icon" href="../favicon.png" />
+  <link href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../css/site.css">
 
+  <link rel="stylesheet" href="../css/vdl_logo_styles.css">
+  <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
+  
+  <!-- Fav and touch icons -->
+  <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+  <link rel="apple-touch-icon" href="../favicon.png" />
 
 </head>
 
@@ -31,1112 +30,1161 @@
 <body>
   <div class="wrap">
     <section class="hero ">
-  <div class="hero-body">
-    <!-- <div class="column"> -->
-      <h1 class="title">
-        <a href="../index.html" style="color: black;">
-        Analysis of User Interactions and Visualization Provenance
-    </a>
-    </h1>
-    <h2 class="subtitle">
-        <a href="index.html" style="color: black;">
-      A companion website for the STAR Report on the Analysis of User Interactions and Visualization Provenance.
-    </a>
-    </h2>
-    <div class="navigation">
+      <div class="hero-body">
+        <!-- <div class="column"> -->
+        <h1 class="title">
+          <a href="../index.html" style="color: black;">
+            Analysis of User Interactions and Visualization Provenance
+          </a>
+        </h1>
+        <h2 class="subtitle">
+          <a href="index.html" style="color: black;">
+            A companion website for the STAR Report on the Analysis of User Interactions and Visualization Provenance.
+          </a>
+        </h2>
+        <div class="navigation">
 
-      <div class="navigation-buttons">
-        <ul>
-          <!--  -->
-          
-          
-          
-          
-          
-          
+          <div class="navigation-buttons">
+            <ul>
+              <!--  -->
 
-          
-          <li class="home-button">
-            <a href="../index.html">
-              <span class="nav-text">HOME</span></a>
-          </li>
-          
-          
-          
-          
-          
-          
 
-          
-          <li class="techniques-button">
-            <a href="../techniques/index.html">
-              <span class="nav-text">TECHNIQUES</span></a>
-          </li>
-          
-          
-          
-          
-          
-          
 
-          
-          <li class="wizard-button">
-            <a class="active" href="index.html">
-              <span class="nav-text">WIZARD</span></a>
-          </li>
 
-          
-          
-        </ul>
+
+
+
+
+              <li class="home-button">
+                <a href="../index.html">
+                  <span class="nav-text">HOME</span></a>
+              </li>
+
+
+
+
+
+
+
+
+              <li class="techniques-button">
+                <a href="../techniques/index.html">
+                  <span class="nav-text">TECHNIQUES</span></a>
+              </li>
+
+
+
+
+
+
+
+
+              <li class="wizard-button">
+                <a class="active" href="index.html">
+                  <span class="nav-text">WIZARD</span></a>
+              </li>
+
+
+
+            </ul>
+          </div>
+        </div>
+
       </div>
-    </div>
 
-  </div>
-
-</section>
+    </section>
 
 
     <section class="section">
-    <div class="columns">
+      <div class="columns">
         <div class="column is-narrow">
-      
-            <!-- <div class="box" id="wizard_legend">
+
+          <!-- <div class="box" id="wizard_legend">
               <h2> Legend </h2>
               </div> -->
-      
-            <div class="box" id="wizard_panel">
-          
+
+          <div class="box" id="wizard_panel">
+
+          </div>
+
+        </div>
+
+        <div class="column" id="recommendations" style="visibility:hidden; height:820px; overflow-y:scroll;">
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
             </div>
-      
           </div>
-      
-          <div class="column" id="recommendations" style="visibility:hidden; height:820px; overflow-y:scroll;">
-        
-              <div class="box techniqueCard">
 
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
+          <div class="box techniqueCard">
 
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
               </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
               </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-              <div class="box techniqueCard">
-
-  <div class="columns">
-    <div class="column is-narrow">
-      <div class="box" id="mini_wizard_panel">
-
-      </div>
-    </div>
-    <div class="column rec ">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <h4>
-              <div class=" is-pulled-right is-inline-flex">
-                <figure class="image is-64x64">
-                  <img src="#" alt="Image">
-                </figure>
-              </div>
-              <div class="tags has-addons is-inline-flex">
-                <span class="tag is-medium totalScore"></span>
-              </div>
-              <span class='techniqueTitle'></span>
-            </h4>
-
-            <p>
-              <span class="icon has-text-info tooltip" data-tooltip="Description">
-                <i class="fas fa-info-circle"></i>
-              </span>
-              <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
-            </p>
-
-            <p class='scoreThree'>
-              <span class="icon score-three tooltip" data-tooltip="Optimized for">
-                <i class="fas fa-star"></i>
-
-              </span> <span class="optimal"></span>
-              <p class='threeTags'> </p>
-            </p>
-
-            <p class='scoreTwo'>
-              <span class="icon score-two tooltip" data-tooltip="Supports">
-                <i class="fas fa-check-square"></i>
-              </span> <span class="good"></span>
-
-              <p class='twoTags'></p>
-            </p>
-
-            <p class='scoreOne'>
-              <span class="icon score-one tooltip" data-tooltip="Weaknesses">
-                <i class="fas fa-exclamation-triangle"></i>
-              </span> <span class="adequate"> </span>
-
-              <p class='oneTags'> </p>
-            </p>
-
-            <p class='scoreZero'>
-              <span class="icon score-zero tooltip" data-tooltip="Limitations">
-                <i class="fas fa-ban"></i>
-              </span> <span class="bad"></span>
-
-              <p class="zeroTags"></p>
-
-            </p>
-            <!-- </nav> -->
-
-          </p>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-
-        
+            </div>
           </div>
-      
-            <script src="../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
-            <script src="../scripts/compute_scores.js"></script>
-      
-            <script> 
-            
-            let allScores = {};
-        let techniques = {};
-        let optionsObject = JSON.parse(('{"size"=>{"label"=>"Size", "options"=>["small", "medium", "large"]}, "type"=>{"label"=>"Type", "options"=>["sparse", "dense", "layered", "trees"]}, "node_attr_size"=>{"label"=>"Number of Node Attributes", "shortLabel"=>"# Node Attr.", "options"=>["few", "several"]}, "node_attr_type"=>{"label"=>"Type of Node Attributes", "shortLabel"=>"Type Node Attr.", "options"=>["homogeneous", "heterogeneous"]}, "edge_attr_size"=>{"label"=>"Number of Edge Attributes", "shortLabel"=>"# Edge Attr.", "options"=>["few", "several"]}, "edge_attr_type"=>{"label"=>"Type of Edge Attributes", "shortLabel"=>"Type Edge Attr.", "options"=>["homogeneous", "heterogeneous"]}, "structure"=>{"label"=>"Structures", "options"=>["single", "neighbor", "path", "cluster", "network"]}}'.replace(/=>/g, ':')));
-      
-      
-      ''
-        allScores['treemap']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>2, "large"=>2}, "type"=>{"sparse"=>0, "dense"=>0, "layered"=>0, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>0, "several"=>0}, "edge_attr_type"=>{"homogeneous"=>0, "heterogeneous"=>0}, "structure"=>{"single"=>3, "neighbor"=>2, "path"=>1, "cluster"=>0, "network"=>3}}'.replace(/=>/g, ':')));
-        allScores['treemap'].title='Implicit - Leaves Only';
-        allScores['treemap'].url='https://vdl.sci.utah.edu/techniques/treemap/';
-        allScores['treemap'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['treemap'].description='Leaf-centric layouts are those that only or predominantly allocate screen space for the leaves of a multivariate tree and encode the hierarchy by inclusion/nesting. The classical example of this type of layout is the Treemap, originally proposed by Johnson and Shneiderman.';
-        allScores['treemap'].image='treemap.html';
-        allScores['treemap'].totalScore = 0;
-        allScores['treemap'].optimal = 'Optimized for tree structures and tasks on single nodes and subnetworks.';
-        allScores['treemap'].good = 'Suports medium and large networks with over 1000 nodes, as well as tasks on neighbors.';
-        allScores['treemap'].adequate = 'Not ideal for several, heterogenous node attributes or tasks on paths.';
-        allScores['treemap'].bad = 'Does not support edge attributes or non-tree like networks, as well as tasks on clusters.';
-      ''
-        allScores['sunburst']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>0, "dense"=>0, "layered"=>0, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>0, "several"=>0}, "edge_attr_type"=>{"homogeneous"=>0, "heterogeneous"=>0}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>3, "cluster"=>0, "network"=>3}}'.replace(/=>/g, ':')));
-        allScores['sunburst'].title='Implicit - Inner Nodes + Leaves';
-        allScores['sunburst'].url='https://vdl.sci.utah.edu/techniques/sunburst/';
-        allScores['sunburst'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['sunburst'].description='Implicit layouts such as Sunburst and Icicle Plots show both the whole backbone of the tree with the intermediate nodes and the leafs. The hierarchy is encoded by adjacency, i.e a child node is adjacent to its root. The root-child relationship is encoded by the order (inner-to-outer for Sunburst, for example).';
-        allScores['sunburst'].image='sunburst.html';
-        allScores['sunburst'].totalScore = 0;
-        allScores['sunburst'].optimal = 'Optimized for trees and tasks on single nodes, neighbors, paths, and subnetworks.';
-        allScores['sunburst'].good = 'Suports medium networks, up to 1000 nodes.';
-        allScores['sunburst'].adequate = 'Not ideal for several, heterogenous node attributes, as well as large networks with over 1000 nodes.';
-        allScores['sunburst'].bad = 'Does not support edge attributes or non-tree like networks, as well as tasks on clusters.';
-      ''
-        allScores['quilts']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>3, "several"=>3}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>2, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['quilts'].title='Quilts';
-        allScores['quilts'].url='https://vdl.sci.utah.edu/techniques/quilts/';
-        allScores['quilts'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['quilts'].description='A quilt is a tabular layout optimized for layered networks. Quilts are similar to an adjacency matrix in that nodes are represented as either rows or columns, and edges are shown in the cells at the intersection of the source and target nodes.';
-        allScores['quilts'].image='quilts.html';
-        allScores['quilts'].totalScore = 0;
-        allScores['quilts'].optimal = 'Optimized for networks with several node or edge attributes. Also ideal for tasks on single nodes and neighbors.';
-        allScores['quilts'].good = 'Supports tasks on paths, clusters, and sub-networks.';
-        allScores['quilts'].adequate = 'Not ideal for networks with more than 100 nodes, or dense networks.';
-        allScores['quilts'].bad = '';
-      ''
-        allScores['overloaded']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>1, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>1, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>3, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['overloaded'].title='Overloaded';
-        allScores['overloaded'].url='https://vdl.sci.utah.edu/techniques/overloaded/';
-        allScores['overloaded'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['overloaded'].description='Overloaded views are those that display two encodings on top of each other. We distinguish overloading from on-node encoding in that it encodes shared properties of nodes by overlaying a visual feature on the whole view.';
-        allScores['overloaded'].image='overloaded.html';
-        allScores['overloaded'].totalScore = 0;
-        allScores['overloaded'].optimal = 'Optimized for networks with few, homogeneous, node attributes. Also ideal for layered networks, trees, and tasks on single nodes, neighbors, and clusters.';
-        allScores['overloaded'].good = 'Supports tasks on clusters and subnetworks.';
-        allScores['overloaded'].adequate = 'Not ideal for encoding edge attributes of any type, as well as severl heterogeneous node attributes.';
-        allScores['overloaded'].bad = '';
-      ''
-        allScores['node-link']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>2, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>2, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['node-link'].title='On-Node/On-Edge Encoding';
-        allScores['node-link'].url='https://vdl.sci.utah.edu/techniques/node-link/';
-        allScores['node-link'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['node-link'].description='On-node and on-edge encoding refers to modifying the visual appearance (size, color) of a node or an edge or embedding marks (bar charts, line charts, etc.) in a node or an edge in a node-link diagram.';
-        allScores['node-link'].image='topology-driven.html';
-        allScores['node-link'].totalScore = 0;
-        allScores['node-link'].optimal = 'Optimized for layered networks and trees. Also ideal for tasks on single nodes or immediate neighbors.';
-        allScores['node-link'].good = 'Supports tasks on paths, clusters, and subnetworks.';
-        allScores['node-link'].adequate = 'Not ideal for large or dense networks, as well as encoding several or heterogeneous edge attributes.';
-        allScores['node-link'].bad = '';
-      ''
-        allScores['juxtaposed']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>3, "several"=>3}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "structure"=>{"single"=>2, "neighbor"=>1, "path"=>1, "cluster"=>2, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['juxtaposed'].title='Juxtaposed';
-        allScores['juxtaposed'].url='https://vdl.sci.utah.edu/techniques/juxtaposed/';
-        allScores['juxtaposed'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['juxtaposed'].description='In the context of MCV visualization, juxtaposed views separate the topology visualization from the attribute visualization into two or more views. Links between the topology and the attributes are not encoded and typically are revealed through interaction by linking and brushing.';
-        allScores['juxtaposed'].image='juxtaposed.html';
-        allScores['juxtaposed'].totalScore = 0;
-        allScores['juxtaposed'].optimal = 'Optimized for networks with several, heterogenous, node or attributes. Also ideal for layered networks and trees.';
-        allScores['juxtaposed'].good = 'Supports medium networks, as well as tasks on clusters and subnetworks.';
-        allScores['juxtaposed'].adequate = 'Not ideal for large or dense networks, as well as tasks on neighbors and paths.';
-        allScores['juxtaposed'].bad = '';
-      ''
-        allScores['integrated']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>2, "several"=>2}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>3, "cluster"=>1, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['integrated'].title='Integrated';
-        allScores['integrated'].url='https://vdl.sci.utah.edu/techniques/integrated/';
-        allScores['integrated'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['integrated'].description='Unlike juxtaposed views, in integrated views the topology and the attribute visualizations are laid out with the other view in mind. Typically, integrated MCVs have an unambiguous spatial relationship between the topological features and their attributes.';
-        allScores['integrated'].image='integrated.html';
-        allScores['integrated'].totalScore = 0;
-        allScores['integrated'].optimal = 'Optimized for networks with several, heterogenous, node attributes. Also ideal for tasks on single nodes, neighbors, and paths.';
-        allScores['integrated'].good = 'Supports edge attributes both homogeneous and heterogeneous, and tasks on subnetworks.';
-        allScores['integrated'].adequate = 'Not ideal for large networks, or tasks on clusters.';
-        allScores['integrated'].bad = '';
-      ''
-        allScores['faceting']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>1}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>2, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>2, "path"=>1, "cluster"=>1, "network"=>1}}'.replace(/=>/g, ':')));
-        allScores['faceting'].title='Faceting';
-        allScores['faceting'].url='https://vdl.sci.utah.edu/techniques/faceting/';
-        allScores['faceting'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['faceting'].description='Attribute-driven faceting groups nodes according to one or more attributes and places the elements of a group in a shared region.';
-        allScores['faceting'].image='faceting.html';
-        allScores['faceting'].totalScore = 0;
-        allScores['faceting'].optimal = 'Optimized for networks with few, but homogeneous or heteregenous node attributes. Also ideal for layered sparse or layered graphs.';
-        allScores['faceting'].good = 'Supports few, homogenous edge attributes, and tasks on neighbors.';
-        allScores['faceting'].adequate = 'Not ideal for dense, layered or tree networks. Also, ill suited for tasks on paths or clusters.';
-        allScores['faceting'].bad = '';
-      ''
-        allScores['bioFabric']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>3, "layered"=>2, "trees"=>1}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>3, "several"=>3}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "structure"=>{"single"=>3, "neighbor"=>1, "path"=>1, "cluster"=>1, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['bioFabric'].title='BioFabric';
-        allScores['bioFabric'].url='https://vdl.sci.utah.edu/techniques/bioFabric/';
-        allScores['bioFabric'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['bioFabric'].description='Biofabric is a tabular layout that places each node in a row of the table and draws edges between the nodes in columns.';
-        allScores['bioFabric'].image='bioFabric.html';
-        allScores['bioFabric'].totalScore = 0;
-        allScores['bioFabric'].optimal = 'Optimized for showing node and edge attributes since it supports several attributes and of heterogeneous types.';
-        allScores['bioFabric'].good = 'Supports tasks on subnetworks and layered networks.';
-        allScores['bioFabric'].adequate = 'Not ideal for tasks on neighbors, paths,clusters, or for graphs with over 100 nodes.';
-        allScores['bioFabric'].bad = '';
-      ''
-        allScores['attr-driven']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>1, "trees"=>1}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>2, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>2, "path"=>1, "cluster"=>1, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['attr-driven'].title='Attribute Driven Positioning';
-        allScores['attr-driven'].url='https://vdl.sci.utah.edu/techniques/attr-driven/';
-        allScores['attr-driven'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['attr-driven'].description='Attribute-driven positioning (fixed layouts) assigns node or edge positions according to one or more attribute values.';
-        allScores['attr-driven'].image='attr-driven.html';
-        allScores['attr-driven'].totalScore = 0;
-        allScores['attr-driven'].optimal = 'Optimized for small and sparse networks. Is well suited for few node attributes, particular of homogenous types.';
-        allScores['attr-driven'].good = 'Supports few edge attributes, but only if of homogenous types. Can be used for tasks on neighbors and networks.';
-        allScores['attr-driven'].adequate = 'Not ideal for tasks on paths, clusters, and for large, dense, layered or tree networks.';
-        allScores['attr-driven'].bad = '';
-      ''
-        allScores['adj-matrix']=JSON.parse(('{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>2, "dense"=>3, "layered"=>2, "trees"=>1}, "node_attr_size"=>{"few"=>2, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "edge_attr_size"=>{"few"=>3, "several"=>2}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>1, "cluster"=>3, "network"=>2}}'.replace(/=>/g, ':')));
-        allScores['adj-matrix'].title='Adjacency Matrix';
-        allScores['adj-matrix'].url='https://vdl.sci.utah.edu/techniques/adj-matrix/';
-        allScores['adj-matrix'].baseUrl='https://vdl.sci.utah.edu/mvnv';
-        allScores['adj-matrix'].description='Adjacency matrices encode nodes as rows and columns, whereas the presence/absence of an edge between two nodes is encoded in the cell where the nodes rows and columns intersect.';
-        allScores['adj-matrix'].image='adj-matrix.html';
-        allScores['adj-matrix'].totalScore = 0;
-        allScores['adj-matrix'].optimal = 'Optimized for small and dense networks. Is well suited for several node attributes, preferably of homogenous types.';
-        allScores['adj-matrix'].good = 'Supports several edge attributes, and heterogenous node or edge attributes. Can be used for layered or sparse networks.';
-        allScores['adj-matrix'].adequate = 'Not ideal for tasks on paths and for visualizing trees.';
-        allScores['adj-matrix'].bad = '';
-      '' 
-      
-      console.log('allScores', allScores);
-            
-            create_panel(allScores);   
-            </script>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="box techniqueCard">
+
+            <div class="columns">
+              <div class="column is-narrow">
+                <div class="box" id="mini_wizard_panel">
+
+                </div>
+              </div>
+              <div class="column rec ">
+                <div class="media-content">
+                  <div class="content">
+                    <p>
+                      <h4>
+                        <div class=" is-pulled-right is-inline-flex">
+                          <figure class="image is-64x64">
+                            <img src="#" alt="Image">
+                          </figure>
+                        </div>
+                        <div class="tags has-addons is-inline-flex">
+                          <span class="tag is-medium totalScore"></span>
+                        </div>
+                        <span class='techniqueTitle'></span>
+                      </h4>
+
+                      <p>
+                        <span class="icon has-text-info tooltip" data-tooltip="Description">
+                          <i class="fas fa-info-circle"></i>
+                        </span>
+                        <span class="techniqueDescription"> </span><a class="moreLink"> More...</a>
+                      </p>
+
+                      <p class='scoreThree'>
+                        <span class="icon score-three tooltip" data-tooltip="Optimized for">
+                          <i class="fas fa-star"></i>
+
+                        </span> <span class="optimal"></span>
+                        <p class='threeTags'> </p>
+                      </p>
+
+                      <p class='scoreTwo'>
+                        <span class="icon score-two tooltip" data-tooltip="Supports">
+                          <i class="fas fa-check-square"></i>
+                        </span> <span class="good"></span>
+
+                        <p class='twoTags'></p>
+                      </p>
+
+                      <p class='scoreOne'>
+                        <span class="icon score-one tooltip" data-tooltip="Weaknesses">
+                          <i class="fas fa-exclamation-triangle"></i>
+                        </span> <span class="adequate"> </span>
+
+                        <p class='oneTags'> </p>
+                      </p>
+
+                      <p class='scoreZero'>
+                        <span class="icon score-zero tooltip" data-tooltip="Limitations">
+                          <i class="fas fa-ban"></i>
+                        </span> <span class="bad"></span>
+
+                        <p class="zeroTags"></p>
+
+                      </p>
+                      <!-- </nav> -->
+
+                    </p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+        <script src="../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+        <script src="../scripts/compute_scores.js"></script>
+
+        <script>
+          let allScores = {};
+          let techniques = {};
+          let optionsObject = JSON.parse((
+            '{"size"=>{"label"=>"Size", "options"=>["small", "medium", "large"]}, "type"=>{"label"=>"Type", "options"=>["sparse", "dense", "layered", "trees"]}, "node_attr_size"=>{"label"=>"Number of Node Attributes", "shortLabel"=>"# Node Attr.", "options"=>["few", "several"]}, "node_attr_type"=>{"label"=>"Type of Node Attributes", "shortLabel"=>"Type Node Attr.", "options"=>["homogeneous", "heterogeneous"]}, "edge_attr_size"=>{"label"=>"Number of Edge Attributes", "shortLabel"=>"# Edge Attr.", "options"=>["few", "several"]}, "edge_attr_type"=>{"label"=>"Type of Edge Attributes", "shortLabel"=>"Type Edge Attr.", "options"=>["homogeneous", "heterogeneous"]}, "structure"=>{"label"=>"Structures", "options"=>["single", "neighbor", "path", "cluster", "network"]}}'
+            .replace(/=>/g, ':')));
+
+
+          ''
+          allScores['treemap'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>2, "large"=>2}, "type"=>{"sparse"=>0, "dense"=>0, "layered"=>0, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>0, "several"=>0}, "edge_attr_type"=>{"homogeneous"=>0, "heterogeneous"=>0}, "structure"=>{"single"=>3, "neighbor"=>2, "path"=>1, "cluster"=>0, "network"=>3}}'
+            .replace(/=>/g, ':')));
+          allScores['treemap'].title = 'Implicit - Leaves Only';
+          allScores['treemap'].url = 'https://vdl.sci.utah.edu/techniques/treemap/';
+          allScores['treemap'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['treemap'].description =
+            'Leaf-centric layouts are those that only or predominantly allocate screen space for the leaves of a multivariate tree and encode the hierarchy by inclusion/nesting. The classical example of this type of layout is the Treemap, originally proposed by Johnson and Shneiderman.';
+          allScores['treemap'].image = 'treemap.html';
+          allScores['treemap'].totalScore = 0;
+          allScores['treemap'].optimal = 'Optimized for tree structures and tasks on single nodes and subnetworks.';
+          allScores['treemap'].good =
+            'Suports medium and large networks with over 1000 nodes, as well as tasks on neighbors.';
+          allScores['treemap'].adequate = 'Not ideal for several, heterogenous node attributes or tasks on paths.';
+          allScores['treemap'].bad =
+            'Does not support edge attributes or non-tree like networks, as well as tasks on clusters.';
+          ''
+          allScores['sunburst'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>0, "dense"=>0, "layered"=>0, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>0, "several"=>0}, "edge_attr_type"=>{"homogeneous"=>0, "heterogeneous"=>0}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>3, "cluster"=>0, "network"=>3}}'
+            .replace(/=>/g, ':')));
+          allScores['sunburst'].title = 'Implicit - Inner Nodes + Leaves';
+          allScores['sunburst'].url = 'https://vdl.sci.utah.edu/techniques/sunburst/';
+          allScores['sunburst'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['sunburst'].description =
+            'Implicit layouts such as Sunburst and Icicle Plots show both the whole backbone of the tree with the intermediate nodes and the leafs. The hierarchy is encoded by adjacency, i.e a child node is adjacent to its root. The root-child relationship is encoded by the order (inner-to-outer for Sunburst, for example).';
+          allScores['sunburst'].image = 'sunburst.html';
+          allScores['sunburst'].totalScore = 0;
+          allScores['sunburst'].optimal =
+            'Optimized for trees and tasks on single nodes, neighbors, paths, and subnetworks.';
+          allScores['sunburst'].good = 'Suports medium networks, up to 1000 nodes.';
+          allScores['sunburst'].adequate =
+            'Not ideal for several, heterogenous node attributes, as well as large networks with over 1000 nodes.';
+          allScores['sunburst'].bad =
+            'Does not support edge attributes or non-tree like networks, as well as tasks on clusters.';
+          ''
+          allScores['quilts'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>3, "several"=>3}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>2, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['quilts'].title = 'Quilts';
+          allScores['quilts'].url = 'https://vdl.sci.utah.edu/techniques/quilts/';
+          allScores['quilts'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['quilts'].description =
+            'A quilt is a tabular layout optimized for layered networks. Quilts are similar to an adjacency matrix in that nodes are represented as either rows or columns, and edges are shown in the cells at the intersection of the source and target nodes.';
+          allScores['quilts'].image = 'quilts.html';
+          allScores['quilts'].totalScore = 0;
+          allScores['quilts'].optimal =
+            'Optimized for networks with several node or edge attributes. Also ideal for tasks on single nodes and neighbors.';
+          allScores['quilts'].good = 'Supports tasks on paths, clusters, and sub-networks.';
+          allScores['quilts'].adequate = 'Not ideal for networks with more than 100 nodes, or dense networks.';
+          allScores['quilts'].bad = '';
+          ''
+          allScores['overloaded'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>1, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>1, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>3, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['overloaded'].title = 'Overloaded';
+          allScores['overloaded'].url = 'https://vdl.sci.utah.edu/techniques/overloaded/';
+          allScores['overloaded'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['overloaded'].description =
+            'Overloaded views are those that display two encodings on top of each other. We distinguish overloading from on-node encoding in that it encodes shared properties of nodes by overlaying a visual feature on the whole view.';
+          allScores['overloaded'].image = 'overloaded.html';
+          allScores['overloaded'].totalScore = 0;
+          allScores['overloaded'].optimal =
+            'Optimized for networks with few, homogeneous, node attributes. Also ideal for layered networks, trees, and tasks on single nodes, neighbors, and clusters.';
+          allScores['overloaded'].good = 'Supports tasks on clusters and subnetworks.';
+          allScores['overloaded'].adequate =
+            'Not ideal for encoding edge attributes of any type, as well as severl heterogeneous node attributes.';
+          allScores['overloaded'].bad = '';
+          ''
+          allScores['node-link'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>2, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>2, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['node-link'].title = 'On-Node/On-Edge Encoding';
+          allScores['node-link'].url = 'https://vdl.sci.utah.edu/techniques/node-link/';
+          allScores['node-link'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['node-link'].description =
+            'On-node and on-edge encoding refers to modifying the visual appearance (size, color) of a node or an edge or embedding marks (bar charts, line charts, etc.) in a node or an edge in a node-link diagram.';
+          allScores['node-link'].image = 'topology-driven.html';
+          allScores['node-link'].totalScore = 0;
+          allScores['node-link'].optimal =
+            'Optimized for layered networks and trees. Also ideal for tasks on single nodes or immediate neighbors.';
+          allScores['node-link'].good = 'Supports tasks on paths, clusters, and subnetworks.';
+          allScores['node-link'].adequate =
+            'Not ideal for large or dense networks, as well as encoding several or heterogeneous edge attributes.';
+          allScores['node-link'].bad = '';
+          ''
+          allScores['juxtaposed'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>3, "several"=>3}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "structure"=>{"single"=>2, "neighbor"=>1, "path"=>1, "cluster"=>2, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['juxtaposed'].title = 'Juxtaposed';
+          allScores['juxtaposed'].url = 'https://vdl.sci.utah.edu/techniques/juxtaposed/';
+          allScores['juxtaposed'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['juxtaposed'].description =
+            'In the context of MCV visualization, juxtaposed views separate the topology visualization from the attribute visualization into two or more views. Links between the topology and the attributes are not encoded and typically are revealed through interaction by linking and brushing.';
+          allScores['juxtaposed'].image = 'juxtaposed.html';
+          allScores['juxtaposed'].totalScore = 0;
+          allScores['juxtaposed'].optimal =
+            'Optimized for networks with several, heterogenous, node or attributes. Also ideal for layered networks and trees.';
+          allScores['juxtaposed'].good = 'Supports medium networks, as well as tasks on clusters and subnetworks.';
+          allScores['juxtaposed'].adequate =
+            'Not ideal for large or dense networks, as well as tasks on neighbors and paths.';
+          allScores['juxtaposed'].bad = '';
+          ''
+          allScores['integrated'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>2, "several"=>2}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>3, "cluster"=>1, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['integrated'].title = 'Integrated';
+          allScores['integrated'].url = 'https://vdl.sci.utah.edu/techniques/integrated/';
+          allScores['integrated'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['integrated'].description =
+            'Unlike juxtaposed views, in integrated views the topology and the attribute visualizations are laid out with the other view in mind. Typically, integrated MCVs have an unambiguous spatial relationship between the topological features and their attributes.';
+          allScores['integrated'].image = 'integrated.html';
+          allScores['integrated'].totalScore = 0;
+          allScores['integrated'].optimal =
+            'Optimized for networks with several, heterogenous, node attributes. Also ideal for tasks on single nodes, neighbors, and paths.';
+          allScores['integrated'].good =
+            'Supports edge attributes both homogeneous and heterogeneous, and tasks on subnetworks.';
+          allScores['integrated'].adequate = 'Not ideal for large networks, or tasks on clusters.';
+          allScores['integrated'].bad = '';
+          ''
+          allScores['faceting'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>1}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>2, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>2, "path"=>1, "cluster"=>1, "network"=>1}}'
+            .replace(/=>/g, ':')));
+          allScores['faceting'].title = 'Faceting';
+          allScores['faceting'].url = 'https://vdl.sci.utah.edu/techniques/faceting/';
+          allScores['faceting'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['faceting'].description =
+            'Attribute-driven faceting groups nodes according to one or more attributes and places the elements of a group in a shared region.';
+          allScores['faceting'].image = 'faceting.html';
+          allScores['faceting'].totalScore = 0;
+          allScores['faceting'].optimal =
+            'Optimized for networks with few, but homogeneous or heteregenous node attributes. Also ideal for layered sparse or layered graphs.';
+          allScores['faceting'].good = 'Supports few, homogenous edge attributes, and tasks on neighbors.';
+          allScores['faceting'].adequate =
+            'Not ideal for dense, layered or tree networks. Also, ill suited for tasks on paths or clusters.';
+          allScores['faceting'].bad = '';
+          ''
+          allScores['bioFabric'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>3, "layered"=>2, "trees"=>1}, "node_attr_size"=>{"few"=>3, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "edge_attr_size"=>{"few"=>3, "several"=>3}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>3}, "structure"=>{"single"=>3, "neighbor"=>1, "path"=>1, "cluster"=>1, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['bioFabric'].title = 'BioFabric';
+          allScores['bioFabric'].url = 'https://vdl.sci.utah.edu/techniques/bioFabric/';
+          allScores['bioFabric'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['bioFabric'].description =
+            'Biofabric is a tabular layout that places each node in a row of the table and draws edges between the nodes in columns.';
+          allScores['bioFabric'].image = 'bioFabric.html';
+          allScores['bioFabric'].totalScore = 0;
+          allScores['bioFabric'].optimal =
+            'Optimized for showing node and edge attributes since it supports several attributes and of heterogeneous types.';
+          allScores['bioFabric'].good = 'Supports tasks on subnetworks and layered networks.';
+          allScores['bioFabric'].adequate =
+            'Not ideal for tasks on neighbors, paths,clusters, or for graphs with over 100 nodes.';
+          allScores['bioFabric'].bad = '';
+          ''
+          allScores['attr-driven'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>1, "trees"=>1}, "node_attr_size"=>{"few"=>3, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>2, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>2, "path"=>1, "cluster"=>1, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['attr-driven'].title = 'Attribute Driven Positioning';
+          allScores['attr-driven'].url = 'https://vdl.sci.utah.edu/techniques/attr-driven/';
+          allScores['attr-driven'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['attr-driven'].description =
+            'Attribute-driven positioning (fixed layouts) assigns node or edge positions according to one or more attribute values.';
+          allScores['attr-driven'].image = 'attr-driven.html';
+          allScores['attr-driven'].totalScore = 0;
+          allScores['attr-driven'].optimal =
+            'Optimized for small and sparse networks. Is well suited for few node attributes, particular of homogenous types.';
+          allScores['attr-driven'].good =
+            'Supports few edge attributes, but only if of homogenous types. Can be used for tasks on neighbors and networks.';
+          allScores['attr-driven'].adequate =
+            'Not ideal for tasks on paths, clusters, and for large, dense, layered or tree networks.';
+          allScores['attr-driven'].bad = '';
+          ''
+          allScores['adj-matrix'] = JSON.parse((
+            '{"size"=>{"small"=>3, "medium"=>1, "large"=>1}, "type"=>{"sparse"=>2, "dense"=>3, "layered"=>2, "trees"=>1}, "node_attr_size"=>{"few"=>2, "several"=>3}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "edge_attr_size"=>{"few"=>3, "several"=>2}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>1, "cluster"=>3, "network"=>2}}'
+            .replace(/=>/g, ':')));
+          allScores['adj-matrix'].title = 'Adjacency Matrix';
+          allScores['adj-matrix'].url = 'https://vdl.sci.utah.edu/techniques/adj-matrix/';
+          allScores['adj-matrix'].baseUrl = 'https://vdl.sci.utah.edu/mvnv';
+          allScores['adj-matrix'].description =
+            'Adjacency matrices encode nodes as rows and columns, whereas the presence/absence of an edge between two nodes is encoded in the cell where the nodes rows and columns intersect.';
+          allScores['adj-matrix'].image = 'adj-matrix.html';
+          allScores['adj-matrix'].totalScore = 0;
+          allScores['adj-matrix'].optimal =
+            'Optimized for small and dense networks. Is well suited for several node attributes, preferably of homogenous types.';
+          allScores['adj-matrix'].good =
+            'Supports several edge attributes, and heterogenous node or edge attributes. Can be used for layered or sparse networks.';
+          allScores['adj-matrix'].adequate = 'Not ideal for tasks on paths and for visualizing trees.';
+          allScores['adj-matrix'].bad = '';
+          ''
+
+          console.log('allScores', allScores);
+
+          create_panel(allScores);
+        </script>
       </div>
-      
-</section>
+
+    </section>
 
 
     <footer>
-    <div class="footer-content">
+      <div class="footer-content">
         <div class="footer-list-social">
-            <ul>
-                
-                <li>
-                    <a href="mailto:cnobre@sci.utah.edu;alex@sci.utah.edu">
-                        <i class="fa fa-lg fa-envelope"></i>
-                        <span class="footer-text">Email</span>
-                    </a>
-                </li>
-                
-
-                
-                <li>
-                    <a href="https://twitter.com/visdesignlab">
-                        <i class="fab fa-lg fa-twitter"></i>
-                        <span class="footer-text">Twitter</span>
-                    </a>
-                </li>
-                
-
-                
-
-                
-                <li>
-                    <a href="https://github.com/visdesignlab/mvnv">
-                        <i class="fab fa-lg fa-github"></i>
-                        <span class="footer-text">GitHub</span>
-                    </a>
-                </li>
-                
-            </ul>
+          <ul>
+            <li>
+              <a href="mailto:k.xu@mdx.ac.uk">
+                <i class="fas fa-envelope"></i>
+                <span class="footer-text">Email</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/JKU-ICG/interaction-prov-star-website.git" target="_blank">
+                <i class="fab fa-lg fa-github"></i>
+                <span class="footer-text">GitHub</span>
+              </a>
+            </li>
+          </ul>
         </div>
-    </div>
-
-    <div class="footer-content">
-
-      <div id="svg" class="logo">
       </div>
+
+      <div class="footer-content">
         <div class="footer-list-institutions">
-            <ul>
-                
-            </ul>
+          <ul>
+            <li>
+              <a href="https://www.mdx.ac.uk/" target="_blank"><img
+                  src="../assets/images/affiliations/Middlesex_University_Logo.png" style="width:150px"></a>
+            </li>
+            <li>
+              <a href="https://wustl.edu/" target="_blank"><img
+                  src="../assets/images/affiliations/Washington_University_St_Louis.png" style="width:150px"></a>
+            </li>
+            <li>
+              <a href="https://www.jku.at/en/institute-of-computer-graphics/" target="_blank"><img
+                  src="../assets/images/affiliations/JKU_Linz.png" style="width:150px"></a>
+            </li>
+            <li>
+              <a href="https://www.tufts.edu/" target=" _blank"><img
+                  src="../assets/images/affiliations/Tufts_University_Logo.jpg" style="width:150px"></a>
+            </li>
+            <li><a href="https://vt.edu/" target="_blank"><img src="../assets/images/affiliations/Virginia_Tech.png"
+                  style="width:150px"></a>
+            </li>
+          </ul>
         </div>
-    </div>
+      </div>
 
-
-    <div class="footer-content">
+      <div class="footer-content">
         <div class="footer-disclaimer">
-            <p>
-                Copyright &copy; 2016-2019 The Visualization Design Lab. All content on this website is licensed under
-                the <br/>
-                <a href="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution license
-                    (CC BY)</a>. Copyright of the linked publications is with the publishers. Logo by <a
-                    href="http://www.antarctic-design.co.uk/">Antarctic Design</a>.
-            </p>
+          <p>
+            Copyright &copy; 2020 Johannes Kepler University Linz Institute of Computer Graphics.
+          </p>
         </div>
-
-    </div>
-
-</footer>
+      </div>
+    </footer>
 
   </div>
 
-  
+
   <script src="../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
   <script src="../scripts/vdl_logo_script.js"></script>
 </body>
