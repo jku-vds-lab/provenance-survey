@@ -2,7 +2,6 @@ const table = d3.select(".objecttable");
 
 all_data = [];
 
-
 d3.csv('../assets/data/table2-noCite.csv')
     .then((data) => { // wait until loading has finished, then ...
         // console.log(data);
