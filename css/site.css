@@ -141,7 +141,7 @@ cite:before {
     font-weight: 900;
     font-style: normal;
     font-size: 3em;
-    color: #3376A0
+    color: #d1b200
 }
 
 fieldset {
@@ -462,7 +462,7 @@ ul.publication-icon-list li a:hover {
 
 ul.publication-icon-list li a {
     font-weight: 700;
-    color: #3376A0
+    color: #d1b200
 }
 
 ul.publication-icon-list li .right-text {
@@ -521,7 +521,7 @@ ul.person-icon-list li a:after {
 
 ul.person-icon-list li:before {
     content: "";
-    color: #3376A0;
+    color: #d1b200;
     font-family: FontAwesome;
     font-size: 1.3em;
     margin-left: -2.2em;
@@ -904,7 +904,7 @@ input[type="submit"] {
 .banner .banner-image-title {
     font-family: "Roboto Condensed", Montserrat, sans-serif;
     font-weight: 500;
-    color: #3376A0;
+    color: #d1b200;
     margin-left: 2px;
     display: block;
     max-width: 95%;
@@ -1122,7 +1122,7 @@ body {
     height: 28px;
     padding: 3px 0px;
     color: #2C3E50;
-    border-bottom: 2px #C03A2B solid;
+    border-bottom: 2px #00d1b2 solid;
     height: 30px;
     transition-property: background-color, color;
     transition-duration: 500ms;
@@ -1135,7 +1135,7 @@ body {
 .home-button a:active,
 .home-button a.active {
     height: 30px;
-    border-bottom: 5px #C03A2B solid
+    border-bottom: 5px #00d1b2 solid
 }
 
 @media screen and (max-width: 749px) {
@@ -1166,7 +1166,7 @@ body {
     height: 28px;
     padding: 3px 0px;
     color: #2C3E50;
-    border-bottom: 2px #3376A0 solid;
+    border-bottom: 2px #d1b200 solid;
     height: 30px;
     transition-property: background-color, color;
     transition-duration: 500ms;
@@ -1179,7 +1179,7 @@ body {
 .techniques-button a:active,
 .techniques-button a.active {
     height: 30px;
-    border-bottom: 5px #3376A0 solid
+    border-bottom: 5px #d1b200 solid
 }
 
 @media screen and (max-width: 749px) {
@@ -1210,7 +1210,7 @@ body {
     height: 28px;
     padding: 3px 0px;
     color: #2C3E50;
-    border-bottom: 2px #33a054 solid;
+    border-bottom: 2px #b200d1 solid;
     height: 30px;
     transition-property: background-color, color;
     transition-duration: 500ms;
@@ -1223,7 +1223,7 @@ body {
 .wizard-button a:active,
 .wizard-button a.active {
     height: 30px;
-    border-bottom: 5px #33a054 solid
+    border-bottom: 5px #b200d1 solid
 }
 
 @media screen and (max-width: 749px) {
@@ -1254,7 +1254,7 @@ body {
     height: 28px;
     padding: 3px 0px;
     color: #2C3E50;
-    border-bottom: 2px #3376A0 solid;
+    border-bottom: 2px #d1b200 solid;
     height: 30px;
     transition-property: background-color, color;
     transition-duration: 500ms;
@@ -1267,7 +1267,7 @@ body {
 .team-button a:active,
 .team-button a.active {
     height: 30px;
-    border-bottom: 5px #3376A0 solid
+    border-bottom: 5px #d1b200 solid
 }
 
 @media screen and (max-width: 749px) {
@@ -1560,7 +1560,7 @@ body {
     margin-right: 2.3576515979%;
     width: 100%;
     margin-right: 0;
-    color: #3376A0;
+    color: #d1b200;
     padding: 30px 0px 0px 0px;
     margin-bottom: 20px
 }
@@ -1588,7 +1588,7 @@ body {
     margin-right: 2.3576515979%;
     width: 100%;
     margin-right: 0;
-    color: #3376A0;
+    color: #d1b200;
     padding: 30px 0px 0px 0px;
     margin-bottom: 20px
 }
@@ -1668,7 +1668,7 @@ body {
     margin-right: 2.3576515979%;
     width: 100%;
     margin-right: 0;
-    color: #C03A2B;
+    color: #00d1b2;
     padding: 30px 0px 0px 0px;
     margin-bottom: 20px
 }
@@ -1696,7 +1696,7 @@ body {
     margin-right: 2.3576515979%;
     width: 100%;
     margin-right: 0;
-    color: #C03A2B;
+    color: #00d1b2;
     padding: 30px 0px 0px 0px;
     margin-bottom: 20px
 }
@@ -1767,7 +1767,7 @@ body {
 }
 
 .publication-title h1 {
-    color: #3376A0
+    color: #d1b200
 }
 
 .download-title {
@@ -2889,12 +2889,12 @@ ul.post-list .post-list-item .right-text {
 }
 
 ul.post-list .post-list-item b {
-    color: #3376A0
+    color: #d1b200
 }
 
 ul.post-list .post-list-item .post-list-title {
     color: #F1F2F2;
-    background: #C03A2B;
+    background: #00d1b2;
     font-family: "Roboto Condensed", Montserrat, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -3801,7 +3801,7 @@ ul.post-list .post-list-item .post-list-title {
 }
 
 .paper-list-block p .paper-title a {
-    color: #3376A0;
+    color: #d1b200;
     font-weight: 700
 }
 
@@ -4075,7 +4075,7 @@ iframe {
 .publication-content-main .citation p .paper-title {
     font-weight: 700;
     font-family: "Roboto Condensed", Montserrat, sans-serif;
-    color: #3376A0
+    color: #d1b200
 }
 
 .publication-content-main .citation p .paper-citation {
@@ -4083,11 +4083,11 @@ iframe {
 }
 
 .publication-content-main i {
-    color: #3376A0
+    color: #d1b200
 }
 
 .publication-content-aside i {
-    color: #3376A0
+    color: #d1b200
 }
 
 .publication-content-aside h1 {
@@ -4096,7 +4096,7 @@ iframe {
 
 .publication-content-aside .video p {
     font-size: 0.9em;
-    color: #3376A0
+    color: #d1b200
 }
 
 .paper-image-small-aside {
@@ -4578,7 +4578,7 @@ pre.bibtex {
 
 .person-list-block.selected,
 .person-list-block.highlighted {
-    border: 2px solid #3376A0;
+    border: 2px solid #d1b200;
     background: #EEE
 }
 
@@ -4616,7 +4616,7 @@ pre.bibtex {
 }
 
 .person-img.color0 {
-    border-color: #C03A2B
+    border-color: #00d1b2
 }
 
 .person-img.color1 {
@@ -4759,7 +4759,7 @@ group+group {
 
 .inline-radio input:checked+label,
 .stacked-radio input:checked+label {
-    background: #3376A0;
+    background: #d1b200;
     font-weight: 500;
     color: #fff
 }
