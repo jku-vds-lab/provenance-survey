@@ -3046,7 +3046,7 @@ a.box:active {
   .image.is-9by16 .has-ratio, .image.is-1by2 img,
   .image.is-1by2 .has-ratio, .image.is-1by3 img,
   .image.is-1by3 .has-ratio {
-    height: 100%;
+    /* height: 100%; */
     width: 100%; }
   .image.is-square, .image.is-1by1 {
     padding-top: 100%; }
