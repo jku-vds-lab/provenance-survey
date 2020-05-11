@@ -11,7 +11,7 @@ d3.csv('../assets/data/header.csv')
                     const th_enter = enter.append('th');
                     th_enter.html((d, idx) => {
                         // <th scope="col" class="rotate-45"><div><label><span><input value="1" class="cbFilter" type="checkbox"><img src="../assets/images/techniques/color_icons/adaptivesystems_c.png" height="20">Adaptive Systems</span></label></div></th>
-                        return `<div><label><span><input value="${idx+1}" class="cbFilter" type="checkbox"> <img src="../assets/images/techniques/color_icons/${d.img_src}" height="20"> <text>${d.col_name}</text></span></label></div>`
+                        return `<div><span>${d.col_name}</span></div><p style="width:20px"><img src="../assets/images/techniques/color_icons/${d.img_src}" height="20"><input value="${idx+1}" class="cbFilter" type="checkbox"></p>`
                     });
                     th_enter.attr("class", (d,i) => `rotate-45 ${d.class}`);
                     th_enter.attr("scope", "col");
