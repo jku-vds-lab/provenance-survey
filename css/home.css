@@ -16,13 +16,24 @@
     margin-top: auto;
     padding-bottom: 100px;
     padding-top: 100px;
+    -webkit-text-stroke-width: thin;
 }
 
-#learnMoreDiv .cat:hover{
+/* #learnMoreDiv .cat:hover{
     background-color: lightgray;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     cursor: pointer;
+} */
+
+.WHYcolor{
+    color: rgb(51, 160, 84) !important;
+}
+.WHATcolor{
+    color: rgb(132, 60, 12) !important;
+}
+.HOWcolor{
+    color: rgb(68, 114, 196) !important;
 }
 
 #learnMoreDiv p:hover{
@@ -36,6 +47,27 @@
     margin-left: 20px;
 }
 
-.catHOW, .catWHAT, .catWHY{
-    border-left: lightgray solid 1px;
+.catHOW{
+    border-left: rgba(68, 114, 196, 0.5) solid 1px;
 }
+.catHOW:hover{
+    background-color: rgba(68, 114, 196, 0.1);
+    cursor: pointer;
+}
+
+.catWHAT{
+    border-left: rgba(132, 60, 12, 0.5) solid 1px;
+}
+.catWHAT:hover{
+    background-color: rgba(132, 60, 12, 0.1);
+    cursor: pointer;
+}
+
+.catWHY{
+    border-left: rgba(51, 160, 84, 0.5) solid 1px;
+}
+.catWHY:hover{
+    background-color: rgba(51, 160, 84, 0.1);
+    cursor: pointer;
+}
+
