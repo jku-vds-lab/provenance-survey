@@ -1,0 +1,41 @@
+#learnMoreDiv img{
+    height:15px;
+}
+
+#learnMoreDiv a{
+    text-decoration: none;
+}
+
+#learnMoreDiv h1{
+    transform: rotate(-90deg);
+    /* max-width: 100px; */
+}
+
+#learnMoreDiv .cat{
+    margin-bottom: auto;
+    margin-top: auto;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+#learnMoreDiv .cat:hover{
+    background-color: lightgray;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
+
+#learnMoreDiv p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#learnMoreDiv .subcat{
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: 20px;
+}
+
+.catHOW, .catWHAT, .catWHY{
+    border-left: lightgray solid 1px;
+}
