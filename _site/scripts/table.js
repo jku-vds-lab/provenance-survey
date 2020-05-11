@@ -2,6 +2,27 @@ const table = d3.select(".objecttable");
 
 all_data = [];
 
+d3.csv('../assets/data/header.csv')
+    .then((data) => {
+        tr = table.select(".sub-categories");
+        tr.selectAll("th").data(data)
+            .join(
+                (enter) => {
+                    const th_enter = enter.append('th');
+                    th_enter.html((d, idx) => {
+                        // <th scope="col" class="rotate-45"><div><label><span><input value="1" class="cbFilter" type="checkbox"><img src="../assets/images/techniques/color_icons/adaptivesystems_c.png" height="20">Adaptive Systems</span></label></div></th>
+                        return `<div><label><span><input value="${idx+1}" class="cbFilter" type="checkbox"> <img src="../assets/images/techniques/color_icons/${d.img_src}" height="20"> <text>${d.col_name}</text></span></label></div>`
+                    });
+                    th_enter.attr("class", (d,i) => `rotate-45 ${d.class}`);
+                    th_enter.attr("scope", "col");
+                    return th_enter;
+                }
+            )
+
+        // -----filter stuff-----
+        $('.cbFilter').click(update_filter_mask);
+    });
+
 d3.csv('../assets/data/table2-noCite.csv')
     .then((data) => { // wait until loading has finished, then ...
         // console.log(data);
@@ -81,7 +102,8 @@ function update_filter_mask() {
     filtered.fill(true);
 
     $.each($('.cbFilter:checked'), function () {
-        col_name = $(this).siblings('span:first').html();
+        // col_name = $(this).siblings('span:first text').html();
+        col_name = $(this).siblings('text').html();
 
         for (var idx = 0; idx < all_data.length; idx++) {
             row = all_data[idx];

@@ -50,15 +50,6 @@
 
                     <div class="navigation-buttons">
                         <ul>
-                            <!--  -->
-
-
-
-
-
-
-
-
                             <li class="home-button">
                                 <a href="../../index.html">
                                     <span class="nav-text">HOME</span></a>
@@ -74,12 +65,9 @@
                                 <a href="../../wizard/index.html">
                                     <span class="nav-text">OVERVIEW</span></a>
                             </li>
-
-
                         </ul>
                     </div>
                 </div>
-
             </div>
 
         </section>
@@ -87,7 +75,6 @@
 
         <section class="section">
             <!-- <div class="publications-content"> -->
-
 
             <div class="columns">
 
@@ -98,7 +85,7 @@
                         <h1>Model
                             <div class="media-right is-pulled-left">
                                 <figure class="image is-96x96" style="margin-top:-30px; margin-right:10px">
-                                    <img src="../../assets/images/techniques/BW_icons/Model3.png" alt="Model"> </figure>
+                                    <img src="../../assets/images/techniques/color_icons/model_c.png" alt="Model"> </figure>
                             </div>
                         </h1>
                     </header>
@@ -106,7 +93,21 @@
                     <!-- <div class="card-content"> -->
                     <div class="content">
 
-                        <p>TEXT.</p>
+                        <p>In visual analytics systems, the goal of provenance and
+                            interaction analysis is often expressed as the (machine
+                            learning) model that a user is constructing, steering, or
+                            exploring. In these cases, how the user interacts with
+                            the data or the visualization might not be the primary focus and
+                            are therefore not directly encoded. Instead, the visual analytics system
+                            performs inferencing over the user’s interactions that results in
+                            updates to the underlying models.
+                            Sometimes known as interactive model steering, in this section
+                            we identify publications that: (1) use a sequence of interactions to
+                            derive the model, (2) make explicit, quantitative, and recordable
+                            representations of these models, or (3) present novel inferencing
+                            techniques for analyzing a user’s interactions.We categorize papers
+                            in this section into two groups: Machine Learning Models and
+                            User Models.</p>
                     </div>
 
                     <div class="columns">
@@ -117,30 +118,36 @@
 
                                 <div class="card column is-narrow">
                                     <div class="card-image">
-                                        <figure class="image is-4by3">
-                                            <img src="../../assets/images/techniques/examples/neuweger_visualizing_2009.png"
-                                                alt="Placeholder image">
+                                        <figure class="image is-5by3">
+                                            <a href="http://www.fodava.gatech.edu/files/reports/FODAVA-11-20.pdf"
+                                                target="_blank">
+                                            <img src="../../assets/images/techniques/examples/model/endert_fodava_2011.PNG"
+                                                alt="Endert et al. 2011">
+                                            </a>
                                         </figure>
                                     </div>
                                     <div class="content" style="margin-top:5px; float:right">
 
                                         <em>
-                                            Neuweger et al. 2009
+                                            Endert et al. 2011
                                         </em>
                                     </div>
                                 </div>
 
                                 <div class="card column is-narrow">
                                     <div class="card-image">
-                                        <figure class="image is-4by3">
-                                            <img src="../../assets/images/techniques/examples/jankun-kelly_moiregraphs-_2003.png"
-                                                alt="Placeholder image">
+                                        <figure class="image is-5by3">
+                                            <a href="https://learningfromusersworkshop.github.io/papers/ModelSpace.pdf"
+                                                target="_blank">
+                                            <img src="../../assets/images/techniques/examples/model/brown_modelspace_2018.PNG"
+                                                alt="Brown et al. 2018">
+                                            </a>
                                         </figure>
                                     </div>
                                     <div class="content" style="margin-top:5px; float:right">
 
                                         <em>
-                                            Jankun-Kelly et al. 2003
+                                            Brown et al. 2018
                                         </em>
 
                                     </div>
@@ -148,15 +155,18 @@
 
                                 <div class="card column is-narrow">
                                     <div class="card-image">
-                                        <figure class="image is-4by3">
-                                            <img src="../../assets/images/techniques/examples/nielsen_abyss-explorer-_2009.png"
-                                                alt="Placeholder image">
+                                        <figure class="image is-5by3">
+                                            <a href="https://ieeexplore.ieee.org/document/8807354"
+                                                target="_blank">
+                                            <img src="../../assets/images/techniques/examples/model/nguyen_vasabi_2019.jpg"
+                                                alt="Nguyen et al. 2020">
+                                            </a>
                                         </figure>
                                     </div>
                                     <div class="content" style="margin-top:5px; float:right">
 
                                         <em>
-                                            Nielsen et al. 2009
+                                            Nguyen et al. 2020
                                         </em>
                                     </div>
                                 </div>
@@ -169,7 +179,7 @@
                 <div class="column is-one-fifth ">
 
                     <div class="box">
-                        <h1>WHY analyze provenance data</h1>
+                        <h1>WHAT</h1>
                         <svg id='technique_scores' , class='scores'> </svg>
                     </div>
                 </div>
@@ -177,25 +187,6 @@
             </div>
 
             <div class="column is-full">
-
-                <!-- main markdown content -->
-                <!-- <h1 id="reccommended-usage">Reccommended Usage</h1>
-    
-                    <p>On-node/edge encoding supports the integration of topology and attribute-based tasks well, and
-                        supports all kinds of MVN tasks on all structures. On-node/edge encoding is easily understood by
-                        most users, and works well for sparse complex networks, layered networks, and trees. However, it
-                        comes with scalability trade-offs. Even for a modest number of nodes in a node-link layout, node
-                        size has to be limited; hence little space is available to encode attributes. When details about
-                        nodes are shown, as for example in MoireGraphs , the number of nodes that can be displayed
-                        simultaneously is limited. We recommend on-node layouts when only a few (usually under 5) attributes
-                        on the nodes are shown. On-node encoding generally works well for networks with different node
-                        types. On-edge encoding is even more limited than on-node encoding. First, most node-link layouts
-                        guarantee that nodes do not overlap; however edges commonly cross even in fairly sparse networks,
-                        interfering with on-edge encoding. Second, the nature of the link mark as a slim line limits the
-                        discriminability of any modulation of the visual channel. We recommend on-edge encoding for a single
-                        numerical or categorical attribute only.</p> -->
-
-
 
                 <h1>Example Papers</h1>
 
@@ -205,12 +196,9 @@
                     <div class="citation">
                         <p>
                             <!-- Only use initial of first Name -->
-
                             Jankun-Kelly&nbsp;T.,
                             <!-- Only use initial of first Name -->
-
                             Ma&nbsp;K.,
-
 
                             <!-- <br/> -->
                             <span class="paper-title">
@@ -222,42 +210,26 @@
                             <!-- <br/> -->
 
                             <span class="paper-citation">
-
                                 (2003),
-
                                 pp. 59-66,
-
                                 <a
                                     href="http://dx.doi.org/10.1109/INFVIS.2003.1249009">doi:10.1109/INFVIS.2003.1249009</a>.
-
-
                             </span>
                     </div>
-
                     </a>
-
                 </ul>
 
                 <ul>
                     <div class="citation">
                         <p>
-
                             <!-- Only use initial of first Name -->
-
                             Auber&nbsp;D.,
-
                             <!-- Only use initial of first Name -->
-
                             Chiricota&nbsp;Y.,
-
                             <!-- Only use initial of first Name -->
-
                             Jourdan&nbsp;F.,
-
                             <!-- Only use initial of first Name -->
-
                             Melancon&nbsp;G.,
-
                             <!-- <br/> -->
                             <span class="paper-title">
                                 <b>Multiscale visualization of small world networks.</b>
@@ -267,35 +239,22 @@
                             <!-- <br/> -->
 
                             <span class="paper-citation">
-
-
                                 (2003),
-
-
                                 pp. 75-81,
-
                                 <a
                                     href="http://dx.doi.org/10.1109/INFVIS.2003.1249011">doi:10.1109/INFVIS.2003.1249011</a>.
-
-
                             </span>
                     </div>
-
                     </a>
-
                 </ul>
 
                 <ul>
                     <div class="citation">
                         <p>
                             <!-- Only use initial of first Name -->
-
                             Heer&nbsp;J.,
-
                             <!-- Only use initial of first Name -->
-
                             Boyd&nbsp;D.,
-
                             <!-- <br/> -->
                             <span class="paper-title">
                                 <b>Vizster: visualizing online social networks.</b>
@@ -305,48 +264,24 @@
                             <!-- <br/> -->
 
                             <span class="paper-citation">
-
-
                                 (2005),
-
-
                                 pp. 32-39,
-
                                 <a
                                     href="http://dx.doi.org/10.1109/INFVIS.2005.1532126">doi:10.1109/INFVIS.2005.1532126</a>.
-
-
                             </span>
                     </div>
-
                     </a>
-
                 </ul>
 
                 <ul>
                     <div class="citation">
                         <p>
-
-
                             <!-- Only use initial of first Name -->
-
                             Junker&nbsp;B.,
-
-
-
                             <!-- Only use initial of first Name -->
-
                             Klukas&nbsp;C.,
-
-
-
                             <!-- Only use initial of first Name -->
-
                             Schreiber&nbsp;F.,
-
-
-
-
                             <!-- <br/> -->
                             <span class="paper-title">
                                 <b>VANTED: A system for advanced data analysis and visualization in the context of
@@ -357,21 +292,14 @@
                             <!-- <br/> -->
 
                             <span class="paper-citation">
-
-
                                 (2006),
                                 vol. 7,
                                 no. 1,
                                 pp. 109,
-
                                 <a href="http://dx.doi.org/10.1186/1471-2105-7-109">doi:10.1186/1471-2105-7-109</a>.
-
-
                             </span>
                     </div>
-
                     </a>
-
                 </ul>
 
                 <ul>

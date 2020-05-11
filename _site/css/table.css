@@ -1,27 +1,21 @@
 /* adapted from: https://codepen.io/placenamehere/pen/ZBQrzm */
 
-td{ 
-    text-align: left; 
-    padding: 0; 
-    margin: 0;
-}
+/* 
 th{ 
     height:160px;  
     font-size: 12px;
     vertical-align: bottom; 
-    /* padding: 10px 5px 0;  */
     padding-bottom: 20px;
     font-weight: 200;
-    
     min-width: 2em;
     max-width: 2em;
-}
-th span { 
-    writing-mode: vertical-rl; /* +90°: use 'tb-rl' */
-    transform: rotate(180deg);
-    text-align: left;          /* +90°: use 'right' */
-}
-tr{
+} */
+/* th span { 
+    writing-mode: vertical-rl; 
+    transform: rotate(225deg);
+    text-align: left;         
+} */
+/* tr{
     font-size: 12px;
     padding:0px;
 }
@@ -29,21 +23,93 @@ table{
     border-collapse: collapse;
     width:500px;
     padding:0px;
+} */
+
+.objecttable{
+    border-spacing: 0px;
 }
-tbody tr td:first-child {
+
+.objecttable td{ 
+    text-align: left; 
+    padding: 0; 
+    margin: 0;
+}
+
+.objecttable tbody tr td:first-child {
     text-align: right; 
     min-width: 17em;
-    padding-right:20px
+    padding-right:20px;
+    font-size: 12px;
 }
-.categories th{
+
+.objecttable .categories th{
     font-weight: bold;
-    /* margin:20px; */
     padding:0px;
     height: auto;
 }
-table .pad{
-    padding-right: 20px;
+
+.objecttable .pad{
+    padding-right: 20px !important;
 }
-tbody td{
+/* .objecttable tbody td{
     padding-left:5px;
-}
+} */
+
+
+/* adapted from: https://www.jimmybonney.com/articles/column_header_rotation_css/*/
+.table-header-rotated th.row-header{
+    width: auto;
+  }
+  
+  .table-header-rotated td{
+    padding:0px;
+    width: 40px;
+    vertical-align: middle;
+    /* text-align: center; */
+  }
+  
+  .table-header-rotated th.rotate-45{
+    height: 200px;
+    width: 40px;
+    min-width: 40px;
+    max-width: 40px;
+    position: relative;
+    vertical-align: bottom;
+    padding: 0;
+    font-size: 12px;
+    line-height: 0.8;
+    left: 40px; /*corresponds to one cell width*/    
+    bottom:10px;
+  }
+  
+  .table-header-rotated th.rotate-45 > div{
+    position: relative;
+    top: 0px;
+    left: 28px; /* 80 * tan(45) / 2 = 40 where 80 is the height on the cell and 45 is the transform angle*/
+    height: 100%;
+    -ms-transform:skew(-45deg,0deg);
+    -moz-transform:skew(-45deg,0deg);
+    -webkit-transform:skew(-45deg,0deg);
+    -o-transform:skew(-45deg,0deg);
+    transform:skew(-45deg,0deg);
+    overflow: hidden;
+  }
+  
+  .table-header-rotated th.rotate-45 span {
+    -ms-transform:skew(45deg,0deg) rotate(315deg);
+    -moz-transform:skew(45deg,0deg) rotate(315deg);
+    -webkit-transform:skew(45deg,0deg) rotate(315deg);
+    -o-transform:skew(45deg,0deg) rotate(315deg);
+    transform:skew(45deg,0deg) rotate(315deg);
+    position: absolute;
+    bottom: 30px; /* 40 cos(45) = 28 with an additional 2px margin*/
+    left: -25px; /*Because it looked good, but there is probably a mathematical link here as well*/
+    display: inline-block;
+    width: 100px;/*85px;*/ /* 80 / cos(45) - 40 cos (45) = 85 where 80 is the height of the cell, 40 the width of the cell and 45 the transform angle*/
+    text-align: left;
+    white-space: nowrap;
+  }
+
+  .cbFilter{
+      transform: rotate(45deg);
+  }

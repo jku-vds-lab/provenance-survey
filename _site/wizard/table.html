@@ -5,11 +5,54 @@
     <meta charset="UTF-8">
     <title>InfoVis Lab Project Template</title>
     <link rel="stylesheet" href="../css/table.css">
+        
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <!-- include D3 library -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- include the main script -->
+    <script src="../scripts/table.js" defer async></script>
 </head>
 
 <body>
 
-    <table class="objecttable">
+
+
+
+    <table class="objecttable table-header-rotated">
+        <col>
+        <colgroup span="2"></colgroup>
+        <colgroup span="2"></colgroup>
+        <thead>
+            <tr class="categories">
+                <td rowspan="1"></td>
+                <th colspan="6" scope="colgroup">WHY</th>
+                <th colspan="4" scope="colgroup">WHAT</th>
+                <th colspan="5" scope="colgroup">HOW</th>
+            </tr>
+            <tr class="sub-categories">
+                <td scope="col" class="rotate-45"></td>
+                <!-- <th scope="col" class="rotate-45"><div><label><span><input value="1" class="cbFilter" type="checkbox"><img src="../assets/images/techniques/color_icons/adaptivesystems_c.png" height="20">Adaptive Systems</span></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span><img src="../assets/images/techniques/color_icons/evaluation_c.png" height="20"><input value="2" class="cbFilter" type="checkbox">Evaluation of Systems and Algorithms</span></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span><img src="../assets/images/techniques/color_icons/modelsteering_c.png" height="20"><input value="3" class="cbFilter" type="checkbox">Model Steering and Active Learning</span></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Replication</span><img src="../assets/images/techniques/color_icons/replication_c.png" height="20"><input value="4" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Report Generation</span><img src="../assets/images/techniques/color_icons/ReportGeneration_c.png" height="20"><input value="5" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="pad rotate-45"><div><label><span>Understanding the User</span><img src="../assets/images/techniques/color_icons/user_c.png" height="20"><input value="6" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Grammar</span><img src="../assets/images/techniques/color_icons/grammar_c.png" height="20"><input value="7" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Graph</span><img src="../assets/images/techniques/color_icons/graph_c.png" height="20"><input value="8" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Model</span><img src="../assets/images/techniques/color_icons/model_c.png" height="20"><input value="9" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="pad rotate-45"><div><label><span>Sequence</span><img src="../assets/images/techniques/color_icons/sequence_c.png" height="20"><input value="10" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Classification Models</span><img src="../assets/images/techniques/color_icons/classification_c.png" height="20"><input value="11" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Pattern Analysis</span><img src="../assets/images/techniques/color_icons/pattern_c.png" height="20"><input value="12" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Probabilistic Models/Prediction</span><img src="../assets/images/techniques/color_icons/prediciton_c.png" height="20"><input value="13" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Program Synthesis</span><img src="../assets/images/techniques/color_icons/programsynthesis_c.png" height="20"><input value="14" class="cbFilter" type="checkbox"></label></div></th>
+                <th scope="col" class="rotate-45"><div><label><span>Interactive Visual Analysis</span><img src="../assets/images/techniques/color_icons/interactivevisualanalysis_c.png" height="20"><input value="15" class="cbFilter" type="checkbox"></label></div></th> -->
+            </tr>
+        </thead>
+    <tbody>
+    </tbody>
+    </table>
+
+    <!-- <table class="objecttable">
         <col>
         <colgroup span="2"></colgroup>
         <colgroup span="2"></colgroup>
@@ -22,57 +65,26 @@
             </tr>
             <tr>
                 <th scope="col"></th>
-                <th scope="col"><label><span>Adaptive Systems</span><img src="../assets/images/techniques/BW_icons/AdaptiveSystems2.png" height="20"><input value="1" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Evaluation of Systems and Algorithms</span><img src="../assets/images/techniques/BW_icons/EvaluationToolAlgorithm3.png" height="20"><input value="2" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Model Steering and Active Learning</span><img src="../assets/images/techniques/BW_icons/ModelSteering2.png" height="20"><input value="3" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Replication</span><img src="../assets/images/techniques/BW_icons/Replication.png" height="20"><input value="4" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Report Generation</span><img src="../assets/images/techniques/BW_icons/ReportGeneration2.png" height="20"><input value="5" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col" class="pad"><label><span>Understanding the User</span><img src="../assets/images/techniques/BW_icons/User.png" height="20"><input value="6" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Grammar</span><img src="../assets/images/techniques/BW_icons/Grammar2.png" height="20"><input value="7" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Graph</span><img src="../assets/images/techniques/BW_icons/Graph.png" height="20"><input value="8" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Model</span><img src="../assets/images/techniques/BW_icons/Model3.png" height="20"><input value="9" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col" class="pad"><label><span>Sequence</span><img src="../assets/images/techniques/BW_icons/Sequence2.png" height="20"><input value="10" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Classification Models</span><img src="../assets/images/techniques/BW_icons/Classification.png" height="20"><input value="11" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Pattern Analysis</span><img src="../assets/images/techniques/BW_icons/pattern2.png" height="20"><input value="12" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Probabilistic Models/Prediction</span><img src="../assets/images/techniques/BW_icons/prediction.png" height="20"><input value="13" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Program Synthesis</span><img src="../assets/images/techniques/BW_icons/program_synthesis2.png" height="20"><input value="14" class="cbFilter" type="checkbox"></label></th>
-                <th scope="col"><label><span>Interactive Visual Analysis</span><img src="../assets/images/techniques/BW_icons/InteractiveVisualAnalysis2.png" height="20"><input value="15" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Adaptive Systems</span><img src="../assets/images/techniques/color_icons/adaptivesystems_c.png" height="20"><input value="1" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Evaluation of Systems and Algorithms</span><img src="../assets/images/techniques/color_icons/evaluation_c.png" height="20"><input value="2" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Model Steering and Active Learning</span><img src="../assets/images/techniques/color_icons/modelsteering_c.png" height="20"><input value="3" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Replication</span><img src="../assets/images/techniques/color_icons/replication_c.png" height="20"><input value="4" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Report Generation</span><img src="../assets/images/techniques/color_icons/ReportGeneration_c.png" height="20"><input value="5" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col" class="pad"><label><span>Understanding the User</span><img src="../assets/images/techniques/color_icons/user_c.png" height="20"><input value="6" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Grammar</span><img src="../assets/images/techniques/color_icons/grammar_c.png" height="20"><input value="7" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Graph</span><img src="../assets/images/techniques/color_icons/graph_c.png" height="20"><input value="8" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Model</span><img src="../assets/images/techniques/color_icons/model_c.png" height="20"><input value="9" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col" class="pad"><label><span>Sequence</span><img src="../assets/images/techniques/color_icons/sequence_c.png" height="20"><input value="10" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Classification Models</span><img src="../assets/images/techniques/color_icons/classification_c.png" height="20"><input value="11" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Pattern Analysis</span><img src="../assets/images/techniques/color_icons/pattern_c.png" height="20"><input value="12" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Probabilistic Models/Prediction</span><img src="../assets/images/techniques/color_icons/prediciton_c.png" height="20"><input value="13" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Program Synthesis</span><img src="../assets/images/techniques/color_icons/programsynthesis_c.png" height="20"><input value="14" class="cbFilter" type="checkbox"></label></th>
+                <th scope="col"><label><span>Interactive Visual Analysis</span><img src="../assets/images/techniques/color_icons/interactivevisualanalysis_c.png" height="20"><input value="15" class="cbFilter" type="checkbox"></label></th>
             </tr>
         </thead>
     <tbody>
     </tbody>
-    </table>
-
-    <!-- <table class="objecttable">
-        <thead>
-            <tr>
-                <th></th>
-                <th><span>Adaptive Systems</span><img src="images/icons/AdaptiveSystems2.png" height="20"></th>
-                <th><span>Evaluation of Systems and Algorithms</span><img src="images/icons/EvaluationToolAlgorithm3.png" height="20"></th>
-                <th><span>Model Steering and Active Learning</span><img src="images/icons/ModelSteering2.png" height="20"></th>
-                <th><span>Replication</span><img src="images/icons/Replication.png" height="20"></th>
-                <th><span>Report Generation</span><img src="images/icons/ReportGeneration2.png" height="20"></th>
-                <th><span>Understanding the User</span><img src="images/icons/User.png" height="20"></th>
-                <th><span>Grammar</span><img src="images/icons/Grammar2.png" height="20"></th>
-                <th><span>Graph</span><img src="images/icons/Graph.png" height="20"></th>
-                <th><span>Model</span><img src="images/icons/Model3.png" height="20"></th>
-                <th><span>Sequence</span><img src="images/icons/Sequence2.png" height="20"></th>
-                <th><span>Classification Models</span><img src="images/icons/Classification.png" height="20"></th>
-                <th><span>Pattern Analysis</span><img src="images/icons/pattern2.png" height="20"></th>
-                <th><span>Probabilistic Models/Prediction</span><img src="images/icons/prediction.png" height="20"></th>
-                <th><span>Program Synthesis</span><img src="images/icons/program_synthesis2.png" height="20"></th>
-                <th><span>Interactive Visual Analysis</span><img src="images/icons/InteractiveVisualAnalysis2.png" height="20"></th>                    
-            </tr>
-        </thead>
-        <tbody></tbody>
     </table> -->
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-    <!-- include D3 library -->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-    <!-- include the main script -->
-    <script src="../scripts/table.js" defer async></script>
-
 
 </body>
 
