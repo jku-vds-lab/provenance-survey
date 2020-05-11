@@ -1,16 +1,16 @@
-col_name,img_src,class
-Adaptive Systems,adaptivesystems_c.png,
-Evaluation of Systems and Algorithms,evaluation_c.png,
-Model Steering and Active Learning,modelsteering_c.png,
-Replication,replication_c.png,
-Report Generation,ReportGeneration_c.png,
-Understanding the User,user_c.png,pad
-Grammar,grammar_c.png,
-Graph,graph_c.png,
-Model,model_c.png,
-Sequence,sequence_c.png,pad
-Classification Models,classification_c.png,
-Pattern Analysis,pattern_c.png,
-Probabilistic Models/Prediction,prediciton_c.png,
-Program Synthesis,programsynthesis_c.png,
-Interactive Visual Analysis,interactivevisualanalysis_c.png,
+col_name,img_src,class,category
+Adaptive Systems,adaptivesystems_c.png,,WHY
+Evaluation of Systems and Algorithms,evaluation_c.png,,WHY
+Model Steering and Active Learning,modelsteering_c.png,,WHY
+Replication,replication_c.png,,WHY
+Report Generation,ReportGeneration_c.png,,WHY
+Understanding the User,user_c.png,pad,WHY
+Grammar,grammar_c.png,,WHAT
+Graph,graph_c.png,,WHAT
+Model,model_c.png,,WHAT
+Sequence,sequence_c.png,pad,WHAT
+Classification Models,classification_c.png,,HOW
+Pattern Analysis,pattern_c.png,,HOW
+Probabilistic Models/Prediction,prediciton_c.png,,HOW
+Program Synthesis,programsynthesis_c.png,,HOW
+Interactive Visual Analysis,interactivevisualanalysis_c.png,,HOW
