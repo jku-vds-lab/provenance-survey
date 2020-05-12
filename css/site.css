@@ -1198,7 +1198,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .wizard-button:last-child {
