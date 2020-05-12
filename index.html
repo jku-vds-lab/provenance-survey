@@ -31,7 +31,7 @@
 
     <script src="../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
     <script src="scripts/vdl_logo_script.js"></script>
-    <script src="scripts/video.js"></script>
+    <!-- <script src="scripts/video.js"></script> -->
 
     <div>
         <section class="hero ">
@@ -133,18 +133,14 @@
                                     <article class="tile is-child notification is-link">
                                         <p class="title">Slides from the EuroVis 2020 Tutorial</p>
                                         <div id="headerPopup" class="mfp-hide embed-responsive embed-responsive-21by9">
-                                            <video width=“560″ height=“315″ controls>
-                                                <source src="assets/video/EV-STAR1002.mp4" type=”video/mp4″>
-                                                </video>
-                                            
-                                            <!-- <iframe class="embed-responsive-item" width="854" height="480" controls
-                                                src="assets/video/EV-STAR1002.mp4"
-                                                frameborder="0" allow="autoplay; encrypted-media"
-                                                allowfullscreen></iframe> -->
+
+                                                <video controls style="width:auto;height:auto;" poster="assets/video/movie.png">
+                                                    <source src="assets/video/EV-STAR1002.webm" 
+                                                            type='video/webm;codecs="vp8, vorbis"' />
+                                                    <source src="assets/video/EV-STAR1002.mp4" 
+                                                            type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
+                                                  </video>
                                             </div>
-                                        <!-- <p class="title">Slides from the EuroVis 2020 Tutorial</p>
-                                        <p><b><a href="https://www.google.com">Keynote
-                                                    Video</a></b> <br> -->
                                             <b><a href="assets/presentation/2020_STAR_interaction_provenance_slides.pdf" target="_blank">PDF
                                                     Format</a></b> <br>
                                     </article>
