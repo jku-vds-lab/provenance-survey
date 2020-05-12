@@ -1110,7 +1110,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .home-button:last-child {
@@ -1242,7 +1242,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .team-button:last-child {
@@ -1286,7 +1286,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .project-button:last-child {
@@ -1330,8 +1330,8 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px;
-    width: 120px
+    /* width: 110px; */
+    /* width: 120px */
 }
 
 .publications-button:last-child {
@@ -1375,7 +1375,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .download-button:last-child {
@@ -1419,7 +1419,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .positions-button:last-child {
@@ -1463,7 +1463,7 @@ body {
     float: left;
     text-align: left;
     margin-right: 30px;
-    width: 110px
+    /* width: 110px */
 }
 
 .culture-button:last-child {
