@@ -2,4 +2,4 @@
 
 This is a companion website for a review article on the analysis of user interactions and visualization provenance.
 
-The website is currently released [here](https://jku-icg.github.io/survey-uivp/index.html).
+The website is released [here](http://provenance-survey.caleydo.org/index.html).
