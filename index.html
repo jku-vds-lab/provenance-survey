@@ -123,7 +123,8 @@
                                 <div class="tile is-parent">
                                     <article class="tile is-child notification is-warning">
                                         <p class="title">Read the Article</p>
-                                        <p><b><a href="https://osf.io/jux76/download">Survey on the Analysis of User
+                                        <p><b><a href="assets/Survey on the Analysis of User Interactions and Visualization Provenance.pdf"
+                                                    target="_blank">Survey on the Analysis of User
                                                     Interactions and Visualization Provenance</a></b> <br>
                                             Kai Xu, Alvitta Ottley, Conny Walchshofer, Marc Streit, Remco Chang, and
                                             John Wenskovitch <br>
@@ -133,9 +134,11 @@
                                 </div>
                                 <div class="tile is-parent">
                                     <article class="tile is-child notification is-link">
-                                        <p class="title">Slides from the Keynote <a style="font-size:12px; font-weight: 100;" href="assets/presentation/2020_STAR_interaction_provenance_slides.pdf"
-                                            target="_blank">PDF
-                                            Format</a></p>
+                                        <p class="title">Slides from the Keynote <a
+                                                style="font-size:12px; font-weight: 100;"
+                                                href="assets/presentation/2020_STAR_interaction_provenance_slides.pdf"
+                                                target="_blank">PDF
+                                                Format</a></p>
                                         <div id="headerPopup" class="mfp-hide embed-responsive embed-responsive-21by9">
 
                                             <video controls style="width:auto;height:auto;"
@@ -223,61 +226,58 @@
             <div class="footer-content">
                 <div class="footer-disclaimer">
                     <p>
-                        Copyright &copy; 2020 Johannes Kepler University Linz Institute of Computer Graphics.
-                    </p>
-                </div>
-            </div>
-        </footer>
-    </div>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-    <!-- include D3 library -->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-    <!-- include the main script -->
-    <script src="scripts/home.js" defer async></script>
+                        Copyright &copy; 2020 Johannes Kepler University Linz Institute of Computer Graphics. <br>
+                        All content on this website is licensed under the <a
+                            href"https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution
+                            license (CC BY)</a>. </p> </div> </div> </footer> </div> <script
+                            src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+                            <!-- include D3 library -->
+                            <script src="https://d3js.org/d3.v5.min.js"></script>
+                            <!-- include the main script -->
+                            <script src="scripts/home.js" defer async></script>
 
 
-    <script>
-        async function loadSVG() {
-            let path = 'assets/images/typology.svg';
-            return await d3.text(path)
-        }
+                            <script>
+                                async function loadSVG() {
+                                    let path = 'assets/images/typology.svg';
+                                    return await d3.text(path)
+                                }
 
-        loadSVG().then(logo => {
-            let div = d3.select("#typologySVG").html(logo);
+                                loadSVG().then(logo => {
+                                    let div = d3.select("#typologySVG").html(logo);
 
-            //  div.select('svg').attr('viewBox',"0 0 240 100");
+                                    //  div.select('svg').attr('viewBox',"0 0 240 100");
 
-            d3.selectAll("[id^='hoverBox']")
-                .attr('class', 'tooltip')
-                .attr('data-tooltip', 'hover tooltip')
-                //  .append('a')
-                //  .attr('href','google.com')
-                .on('mouseover', function (d) {
-                    d3.select(this).style('opacity', .5);
-                })
-                .on('mouseout', function (d) {
-                    d3.select(this).style('opacity', 0)
-                })
-                .on('click', function (d) {
+                                    d3.selectAll("[id^='hoverBox']")
+                                        .attr('class', 'tooltip')
+                                        .attr('data-tooltip', 'hover tooltip')
+                                        //  .append('a')
+                                        //  .attr('href','google.com')
+                                        .on('mouseover', function (d) {
+                                            d3.select(this).style('opacity', .5);
+                                        })
+                                        .on('mouseout', function (d) {
+                                            d3.select(this).style('opacity', 0)
+                                        })
+                                        .on('click', function (d) {
 
-                    let groupId = d3.select(this.parentNode).attr('id');
-                    console.log('groupId is ', groupId);
+                                            let groupId = d3.select(this.parentNode).attr('id');
+                                            console.log('groupId is ', groupId);
 
-                    if (groupId.includes('label')) {
-                        window.location = 'techniques/index.html';
-                    } else if (groupId.includes('Layer_1')) {
-                        //do nothing
-                    } else {
-                        window.location = '/mvnv/techniques/' + groupId + '/';
-                    }
-                });
+                                            if (groupId.includes('label')) {
+                                                window.location = 'techniques/index.html';
+                                            } else if (groupId.includes('Layer_1')) {
+                                                //do nothing
+                                            } else {
+                                                window.location = '/mvnv/techniques/' + groupId + '/';
+                                            }
+                                        });
 
-            div.select('#adjmatrix')
-                .on('click', (d) => console.log('moused over adj_matrix'));
+                                    div.select('#adjmatrix')
+                                        .on('click', (d) => console.log('moused over adj_matrix'));
 
-            console.log(div.select('#quilts').size())
-        });
-    </script>
+                                    console.log(div.select('#quilts').size())
+                                });
+                            </script>
 
 </body>
