@@ -1,0 +1,9099 @@
+[
+	{
+		"id": "http://zotero.org/users/5824505/items/RGXHI7X3",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2744843",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "226-235",
+		"source": "DOI.org (Crossref)",
+		"title": "Graphiti: Interactive Specification of Attribute-Based Edges for Network Modeling and Visualization",
+		"title-short": "Graphiti",
+		"URL": "http://ieeexplore.ieee.org/document/8019835/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Srinivasan",
+				"given": "Arjun"
+			},
+			{
+				"family": "Park",
+				"given": "Hyunwoo"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Basole",
+				"given": "Rahul C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/ZLBRWV6T",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 29th Annual Symposium on User Interface Software and Technology",
+		"DOI": "10.1145/2984511.2984588",
+		"event": "UIST '16: The 29th Annual ACM Symposium on User Interface Software and Technology",
+		"event-place": "Tokyo Japan",
+		"ISBN": "978-1-4503-4189-9",
+		"language": "en",
+		"page": "365-377",
+		"publisher": "ACM",
+		"publisher-place": "Tokyo Japan",
+		"source": "DOI.org (Crossref)",
+		"title": "Eviza: A Natural Language Interface for Visual Analysis",
+		"title-short": "Eviza",
+		"URL": "https://dl.acm.org/doi/10.1145/2984511.2984588",
+		"author": [
+			{
+				"family": "Setlur",
+				"given": "Vidya"
+			},
+			{
+				"family": "Battersby",
+				"given": "Sarah E."
+			},
+			{
+				"family": "Tory",
+				"given": "Melanie"
+			},
+			{
+				"family": "Gossweiler",
+				"given": "Rich"
+			},
+			{
+				"family": "Chang",
+				"given": "Angel X."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/JW73WHI6",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2598471",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "41-50",
+		"source": "DOI.org (Crossref)",
+		"title": "A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process",
+		"URL": "http://ieeexplore.ieee.org/document/7534759/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Dabek",
+				"given": "Filip"
+			},
+			{
+				"family": "Caban",
+				"given": "Jesus J"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KSUN2DYH",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/2983923",
+		"ISSN": "2160-6455, 2160-6463",
+		"issue": "4",
+		"journalAbbreviation": "ACM Trans. Interact. Intell. Syst.",
+		"language": "en",
+		"page": "1-39",
+		"source": "DOI.org (Crossref)",
+		"title": "VizRec: Recommending Personalized Visualizations",
+		"title-short": "VizRec",
+		"URL": "https://dl.acm.org/doi/10.1145/2983923",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Mutlu",
+				"given": "Belgin"
+			},
+			{
+				"family": "Veas",
+				"given": "Eduardo"
+			},
+			{
+				"family": "Trattner",
+				"given": "Christoph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QHJVQK6L",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/2591510",
+		"ISSN": "2160-6455, 2160-6463",
+		"issue": "1",
+		"journalAbbreviation": "ACM Trans. Interact. Intell. Syst.",
+		"language": "en",
+		"page": "1-32",
+		"source": "DOI.org (Crossref)",
+		"title": "Employing a Parametric Model for Analytic Provenance",
+		"URL": "https://dl.acm.org/doi/10.1145/2591510",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Yingjie Victor"
+			},
+			{
+				"family": "Qian",
+				"given": "Zhenyu Cheryl"
+			},
+			{
+				"family": "Woodbury",
+				"given": "Robert"
+			},
+			{
+				"family": "Dill",
+				"given": "John"
+			},
+			{
+				"family": "Shaw",
+				"given": "Chris D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/V676W7IQ",
+		"type": "paper-conference",
+		"container-title": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2009.5333564",
+		"event": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"event-place": "Atlantic City, NJ, USA",
+		"ISBN": "978-1-4244-5283-5",
+		"page": "203-210",
+		"publisher": "IEEE",
+		"publisher-place": "Atlantic City, NJ, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Iterative integration of visual insights during patent search and analysis",
+		"URL": "http://ieeexplore.ieee.org/document/5333564/",
+		"author": [
+			{
+				"family": "Koch",
+				"given": "Steffen"
+			},
+			{
+				"family": "Bosch",
+				"given": "Harald"
+			},
+			{
+				"family": "Giereth",
+				"given": "Mark"
+			},
+			{
+				"family": "Ertl",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/9YN7BS7M",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12631",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "191-200",
+		"source": "DOI.org (Crossref)",
+		"title": "Rationale Visualization for Safety and Security",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12631",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Scheepens",
+				"given": "Roeland"
+			},
+			{
+				"family": "Michels",
+				"given": "Steffen"
+			},
+			{
+				"family": "Wetering",
+				"given": "Huub",
+				"non-dropping-particle": "van de"
+			},
+			{
+				"family": "Wijk",
+				"given": "Jarke J.",
+				"non-dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/FCS2V457",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2009.87",
+		"ISSN": "0272-1716",
+		"issue": "5",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "34-43",
+		"source": "DOI.org (Crossref)",
+		"title": "Supporting Exploration Awareness in Information Visualization",
+		"URL": "http://ieeexplore.ieee.org/document/5210068/",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Shrinivasan",
+				"given": "Y.B."
+			},
+			{
+				"family": "Wijk",
+				"given": "J.J.",
+				"non-dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/U2PILWLY",
+		"type": "paper-conference",
+		"container-title": "Proceedingsc of the 13th international conference on Intelligent user interfaces - IUI '09",
+		"DOI": "10.1145/1502650.1502695",
+		"event": "Proceedingsc of the 13th international conference",
+		"event-place": "Sanibel Island, Florida, USA",
+		"ISBN": "978-1-60558-168-2",
+		"language": "en",
+		"page": "315",
+		"publisher": "ACM Press",
+		"publisher-place": "Sanibel Island, Florida, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Behavior-driven visualization recommendation",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1502650.1502695",
+		"author": [
+			{
+				"family": "Gotz",
+				"given": "David"
+			},
+			{
+				"family": "Wen",
+				"given": "Zhen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/IKTBZGDP",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2014.73",
+		"ISSN": "0272-1716",
+		"issue": "4",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "8-15",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantic Interaction for Visual Analytics: Toward Coupling Cognition and Computation",
+		"title-short": "Semantic Interaction for Visual Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/6855271/",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/NXKKXLPH",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.260",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2879-2888",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering",
+		"title-short": "Semantic Interaction for Sensemaking",
+		"URL": "http://ieeexplore.ieee.org/document/6327294/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Endert",
+				"given": "A."
+			},
+			{
+				"family": "Fiaux",
+				"given": "P."
+			},
+			{
+				"family": "North",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/8AH3YAIT",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2010.18",
+		"ISSN": "0272-1716",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "8-14",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual Classification: Expert Knowledge Guides Machine Learning",
+		"title-short": "Visual Classification",
+		"URL": "http://ieeexplore.ieee.org/document/5370737/",
+		"volume": "30",
+		"author": [
+			{
+				"family": "MacInnes",
+				"given": "J."
+			},
+			{
+				"family": "Santosa",
+				"given": "S."
+			},
+			{
+				"family": "Wright",
+				"given": "W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EQ9N5WMA",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12090",
+		"ISSN": "01677055",
+		"issue": "3pt1",
+		"language": "en",
+		"page": "31-40",
+		"source": "DOI.org (Crossref)",
+		"title": "Evolutionary Visual Exploration: Evaluation With Expert Users",
+		"title-short": "Evolutionary Visual Exploration",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12090",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Boukhelifa",
+				"given": "N."
+			},
+			{
+				"family": "Cancino",
+				"given": "W."
+			},
+			{
+				"family": "Bezerianos",
+				"given": "A."
+			},
+			{
+				"family": "Lutton",
+				"given": "E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/ED33BT8U",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2015.91",
+		"ISSN": "0272-1716, 1558-1756",
+		"issue": "4",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "94-99",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantic Interaction: Coupling Cognition and Computation through Usable Interactive Analytics",
+		"title-short": "Semantic Interaction",
+		"URL": "https://ieeexplore.ieee.org/document/7160906/",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			},
+			{
+				"family": "North",
+				"given": "Chris"
+			},
+			{
+				"family": "Zhou",
+				"given": "Michelle"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/HNAWLERW",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13670",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "41-52",
+		"source": "DOI.org (Crossref)",
+		"title": "Follow The Clicks: Learning and Anticipating Mouse Interactions During Exploratory Data Analysis",
+		"title-short": "Follow The Clicks",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13670",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Garnett",
+				"given": "Roman"
+			},
+			{
+				"family": "Wan",
+				"given": "Ran"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3KWJPTB4",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 21st International Conference on Intelligent User Interfaces - IUI '16",
+		"DOI": "10.1145/2856767.2856779",
+		"event": "the 21st International Conference",
+		"event-place": "Sonoma, California, USA",
+		"ISBN": "978-1-4503-4137-0",
+		"language": "en",
+		"page": "85-95",
+		"publisher": "ACM Press",
+		"publisher-place": "Sonoma, California, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Adaptive Contextualization: Combating Bias During High-Dimensional Visualization and Data Selection",
+		"title-short": "Adaptive Contextualization",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2856767.2856779",
+		"author": [
+			{
+				"family": "Gotz",
+				"given": "David"
+			},
+			{
+				"family": "Sun",
+				"given": "Shun"
+			},
+			{
+				"family": "Cao",
+				"given": "Nan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/7F3I4DLN",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.23",
+		"ISSN": "1077-2626",
+		"issue": "10",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1744-1756",
+		"source": "DOI.org (Crossref)",
+		"title": "Interest Driven Navigation in Visualization",
+		"URL": "http://ieeexplore.ieee.org/document/6133283/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Healey",
+				"given": "Christopher G."
+			},
+			{
+				"family": "Dennis",
+				"given": "Brent M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/E2ZNXVEV",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems  - CHI '19",
+		"DOI": "10.1145/3290605.3300358",
+		"event": "the 2019 CHI Conference",
+		"event-place": "Glasgow, Scotland Uk",
+		"ISBN": "978-1-4503-5970-2",
+		"language": "en",
+		"page": "1-12",
+		"publisher": "ACM Press",
+		"publisher-place": "Glasgow, Scotland Uk",
+		"source": "DOI.org (Crossref)",
+		"title": "VizML: A Machine Learning Approach to Visualization Recommendation",
+		"title-short": "VizML",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3290605.3300358",
+		"author": [
+			{
+				"family": "Hu",
+				"given": "Kevin"
+			},
+			{
+				"family": "Bakker",
+				"given": "Michiel A."
+			},
+			{
+				"family": "Li",
+				"given": "Stephen"
+			},
+			{
+				"family": "Kraska",
+				"given": "Tim"
+			},
+			{
+				"family": "Hidalgo",
+				"given": "César"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/LSFUBTEL",
+		"type": "paper-conference",
+		"container-title": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2016.7883519",
+		"event": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Baltimore, MD, USA",
+		"ISBN": "978-1-5090-5661-3",
+		"page": "131-140",
+		"publisher": "IEEE",
+		"publisher-place": "Baltimore, MD, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "The semantics of sketch: Flexibility in visual query systems for time series data",
+		"title-short": "The semantics of sketch",
+		"URL": "http://ieeexplore.ieee.org/document/7883519/",
+		"author": [
+			{
+				"family": "Correll",
+				"given": "Michael"
+			},
+			{
+				"family": "Gleicher",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/2K7GDFTD",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 24th International Conference on Intelligent User Interfaces",
+		"DOI": "10.1145/3301275.3302270",
+		"event": "IUI '19: 24th International Conference on Intelligent User Interfaces",
+		"event-place": "Marina del Ray California",
+		"ISBN": "978-1-4503-6272-6",
+		"language": "en",
+		"page": "40-51",
+		"publisher": "ACM",
+		"publisher-place": "Marina del Ray California",
+		"source": "DOI.org (Crossref)",
+		"title": "Inferencing underspecified natural language utterances in visual analysis",
+		"URL": "https://dl.acm.org/doi/10.1145/3301275.3302270",
+		"author": [
+			{
+				"family": "Setlur",
+				"given": "Vidya"
+			},
+			{
+				"family": "Tory",
+				"given": "Melanie"
+			},
+			{
+				"family": "Djalali",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/V9MC4W62",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/2633043",
+		"ISSN": "2160-6455, 2160-6463",
+		"issue": "2",
+		"journalAbbreviation": "ACM Trans. Interact. Intell. Syst.",
+		"language": "en",
+		"page": "1-29",
+		"source": "DOI.org (Crossref)",
+		"title": "Inferring Visualization Task Properties, User Performance, and User Cognitive Abilities from Eye Gaze Data",
+		"URL": "https://dl.acm.org/doi/10.1145/2633043",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PP263ZZK",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems  - CHI '19",
+		"DOI": "10.1145/3290605.3300803",
+		"event": "the 2019 CHI Conference",
+		"event-place": "Glasgow, Scotland Uk",
+		"ISBN": "978-1-4503-5970-2",
+		"language": "en",
+		"page": "1-12",
+		"publisher": "ACM Press",
+		"publisher-place": "Glasgow, Scotland Uk",
+		"source": "DOI.org (Crossref)",
+		"title": "Visualizing Uncertainty and Alternatives in Event Sequence Predictions",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3290605.3300803",
+		"author": [
+			{
+				"family": "Guo",
+				"given": "Shunan"
+			},
+			{
+				"family": "Du",
+				"given": "Fan"
+			},
+			{
+				"family": "Malik",
+				"given": "Sana"
+			},
+			{
+				"family": "Koh",
+				"given": "Eunyee"
+			},
+			{
+				"family": "Kim",
+				"given": "Sungchul"
+			},
+			{
+				"family": "Liu",
+				"given": "Zhicheng"
+			},
+			{
+				"family": "Kim",
+				"given": "Donghyun"
+			},
+			{
+				"family": "Zha",
+				"given": "Hongyuan"
+			},
+			{
+				"family": "Cao",
+				"given": "Nan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/DEAZAH27",
+		"type": "paper-conference",
+		"container-title": "2014 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2014.7042486",
+		"event": "2014 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Paris, France",
+		"ISBN": "978-1-4799-6227-3",
+		"page": "103-112",
+		"publisher": "IEEE",
+		"publisher-place": "Paris, France",
+		"source": "DOI.org (Crossref)",
+		"title": "A visual reasoning approach for data-driven transport assessment on urban roads",
+		"URL": "http://ieeexplore.ieee.org/document/7042486/",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Fei"
+			},
+			{
+				"family": "Chen",
+				"given": "Wei"
+			},
+			{
+				"family": "Wu",
+				"given": "Feiran"
+			},
+			{
+				"family": "Zhao",
+				"given": "Ye"
+			},
+			{
+				"family": "Hong",
+				"given": "Han"
+			},
+			{
+				"family": "Gu",
+				"given": "Tianyu"
+			},
+			{
+				"family": "Wang",
+				"given": "Long"
+			},
+			{
+				"family": "Liang",
+				"given": "Ronghua"
+			},
+			{
+				"family": "Bao",
+				"given": "Hujun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PNPP9ST3",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 24th International Conference on Intelligent User Interfaces",
+		"DOI": "10.1145/3301275.3302307",
+		"event": "IUI '19: 24th International Conference on Intelligent User Interfaces",
+		"event-place": "Marina del Ray California",
+		"ISBN": "978-1-4503-6272-6",
+		"language": "en",
+		"page": "186-196",
+		"publisher": "ACM",
+		"publisher-place": "Marina del Ray California",
+		"source": "DOI.org (Crossref)",
+		"title": "Avoiding drill-down fallacies with <i>VisPilot</i>: assisted exploration of data subsets",
+		"title-short": "Avoiding drill-down fallacies with <i>VisPilot</i>",
+		"URL": "https://dl.acm.org/doi/10.1145/3301275.3302307",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Doris Jung-Lin"
+			},
+			{
+				"family": "Dev",
+				"given": "Himel"
+			},
+			{
+				"family": "Hu",
+				"given": "Huizi"
+			},
+			{
+				"family": "Elmeleegy",
+				"given": "Hazem"
+			},
+			{
+				"family": "Parameswaran",
+				"given": "Aditya"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/VYZVVW9A",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13730",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "861-879",
+		"source": "DOI.org (Crossref)",
+		"title": "A Review of Guidance Approaches in Visual Data Analysis: A Multifocal Perspective",
+		"title-short": "A Review of Guidance Approaches in Visual Data Analysis",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13730",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Ceneda",
+				"given": "Davide"
+			},
+			{
+				"family": "Gschwandtner",
+				"given": "Theresia"
+			},
+			{
+				"family": "Miksch",
+				"given": "Silvia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KQ5QYSEH",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467551",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "31-40",
+		"source": "DOI.org (Crossref)",
+		"title": "Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes",
+		"title-short": "Characterizing Provenance in Visualization and Data Analysis",
+		"URL": "http://ieeexplore.ieee.org/document/7192714/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Ragan",
+				"given": "Eric D."
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Sanyal",
+				"given": "Jibonananda"
+			},
+			{
+				"family": "Chen",
+				"given": "Jian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/9VRHFQQ2",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 22nd International Conference on Intelligent User Interfaces",
+		"DOI": "10.1145/3025171.3025181",
+		"event": "IUI'17: 22nd International Conference on Intelligent User Interfaces",
+		"event-place": "Limassol Cyprus",
+		"ISBN": "978-1-4503-4348-0",
+		"language": "en",
+		"page": "547-552",
+		"publisher": "ACM",
+		"publisher-place": "Limassol Cyprus",
+		"source": "DOI.org (Crossref)",
+		"title": "Interactive Elicitation of Knowledge on Feature Relevance Improves Predictions in Small Data Sets",
+		"URL": "https://dl.acm.org/doi/10.1145/3025171.3025181",
+		"author": [
+			{
+				"family": "Micallef",
+				"given": "Luana"
+			},
+			{
+				"family": "Sundin",
+				"given": "Iiris"
+			},
+			{
+				"family": "Marttinen",
+				"given": "Pekka"
+			},
+			{
+				"family": "Ammad-ud-din",
+				"given": "Muhammad"
+			},
+			{
+				"family": "Peltola",
+				"given": "Tomi"
+			},
+			{
+				"family": "Soare",
+				"given": "Marta"
+			},
+			{
+				"family": "Jacucci",
+				"given": "Giulio"
+			},
+			{
+				"family": "Kaski",
+				"given": "Samuel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/NKCRW296",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2018 Conference on Human Information Interaction&Retrieval - IUI 18",
+		"DOI": "10.1145/3172944.3172979",
+		"event": "23rd International Conference",
+		"event-place": "Tokyo, Japan",
+		"ISBN": "978-1-4503-4945-1",
+		"language": "en",
+		"page": "521-533",
+		"publisher": "ACM Press",
+		"publisher-place": "Tokyo, Japan",
+		"source": "DOI.org (Crossref)",
+		"title": "Interactive Storytelling for Movie Recommendation through Latent Semantic Analysis",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3172944.3172979",
+		"author": [
+			{
+				"family": "Wegba",
+				"given": "Kodzo"
+			},
+			{
+				"family": "Lu",
+				"given": "Aidong"
+			},
+			{
+				"family": "Li",
+				"given": "Yuemeng"
+			},
+			{
+				"family": "Wang",
+				"given": "Wencheng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/BS55T5ZS",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 19th international conference on Intelligent User Interfaces - IUI '14",
+		"DOI": "10.1145/2557500.2557524",
+		"event": "the 19th international conference",
+		"event-place": "Haifa, Israel",
+		"ISBN": "978-1-4503-2184-6",
+		"language": "en",
+		"page": "105-114",
+		"publisher": "ACM Press",
+		"publisher-place": "Haifa, Israel",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards facilitating user skill acquisition: identifying untrained visualization users through eye tracking",
+		"title-short": "Towards facilitating user skill acquisition",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2557500.2557524",
+		"author": [
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Gingerich",
+				"given": "Matthew"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/INSEJCQU",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2013 international conference on Intelligent user interfaces - IUI '13",
+		"DOI": "10.1145/2449396.2449439",
+		"event": "the 2013 international conference",
+		"event-place": "Santa Monica, California, USA",
+		"ISBN": "978-1-4503-1965-2",
+		"language": "en",
+		"page": "317",
+		"publisher": "ACM Press",
+		"publisher-place": "Santa Monica, California, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "User-adaptive information visualization: using eye gaze data to infer visualization tasks and user cognitive abilities",
+		"title-short": "User-adaptive information visualization",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2449396.2449439",
+		"author": [
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/7I97WMYU",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 24th International Conference on Intelligent User Interfaces",
+		"DOI": "10.1145/3301275.3302291",
+		"event": "IUI '19: 24th International Conference on Intelligent User Interfaces",
+		"event-place": "Marina del Ray California",
+		"ISBN": "978-1-4503-6272-6",
+		"language": "en",
+		"page": "177-185",
+		"publisher": "ACM",
+		"publisher-place": "Marina del Ray California",
+		"source": "DOI.org (Crossref)",
+		"title": "Flux capacitors for JavaScript deloreans: approximate caching for physics-based data interaction",
+		"title-short": "Flux capacitors for JavaScript deloreans",
+		"URL": "https://dl.acm.org/doi/10.1145/3301275.3302291",
+		"author": [
+			{
+				"family": "Khan",
+				"given": "Meraj Ahmed"
+			},
+			{
+				"family": "Nandi",
+				"given": "Arnab"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/NBR25CIW",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2744805",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "120-130",
+		"source": "DOI.org (Crossref)",
+		"title": "SOMFlow: Guided Exploratory Cluster Analysis with Self-Organizing Maps and Analytic Provenance",
+		"title-short": "SOMFlow",
+		"URL": "http://ieeexplore.ieee.org/document/8019867/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Sacha",
+				"given": "Dominik"
+			},
+			{
+				"family": "Kraus",
+				"given": "Matthias"
+			},
+			{
+				"family": "Bernard",
+				"given": "Jurgen"
+			},
+			{
+				"family": "Behrisch",
+				"given": "Michael"
+			},
+			{
+				"family": "Schreck",
+				"given": "Tobias"
+			},
+			{
+				"family": "Asano",
+				"given": "Yuki"
+			},
+			{
+				"family": "Keim",
+				"given": "Daniel A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3YPQL4MC",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2019.2934658",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1-1",
+		"source": "DOI.org (Crossref)",
+		"title": "LightGuider: Guiding Interactive Lighting Design using Suggestions, Provenance, and Quality Visualization",
+		"title-short": "LightGuider",
+		"URL": "https://ieeexplore.ieee.org/document/8807288/",
+		"author": [
+			{
+				"family": "Walch",
+				"given": "Andreas"
+			},
+			{
+				"family": "Schwarzler",
+				"given": "Michael"
+			},
+			{
+				"family": "Luksch",
+				"given": "Christian"
+			},
+			{
+				"family": "Eisemann",
+				"given": "Elmar"
+			},
+			{
+				"family": "Gschwandtner",
+				"given": "Theresia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KCZ6HA82",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13715",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "623-634",
+		"source": "DOI.org (Crossref)",
+		"title": "Segmentifier: Interactive Refinement of Clickstream Data",
+		"title-short": "Segmentifier",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13715",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Dextras‐Romagnino",
+				"given": "K."
+			},
+			{
+				"family": "Munzner",
+				"given": "T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/E5LEI9YV",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2018.2865158",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "789-799",
+		"source": "DOI.org (Crossref)",
+		"title": "Charticulator: Interactive Construction of Bespoke Chart Layouts",
+		"title-short": "Charticulator",
+		"URL": "https://ieeexplore.ieee.org/document/8440827/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Ren",
+				"given": "Donghao"
+			},
+			{
+				"family": "Lee",
+				"given": "Bongshin"
+			},
+			{
+				"family": "Brehmer",
+				"given": "Matthew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EQSZ7SBT",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2019.2941856",
+		"ISSN": "0272-1716, 1558-1756",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "61-75",
+		"source": "DOI.org (Crossref)",
+		"title": "Capturing and Visualizing Provenance From Data Wrangling",
+		"URL": "https://ieeexplore.ieee.org/document/8843909/",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Bors",
+				"given": "Christian"
+			},
+			{
+				"family": "Gschwandtner",
+				"given": "Theresia"
+			},
+			{
+				"family": "Miksch",
+				"given": "Silvia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QE2HCYLN",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.220",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2070-2079",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual Analysis of Higher-Order Conjunctive Relationships in Multidimensional Data Using a Hypergraph Query System",
+		"URL": "http://ieeexplore.ieee.org/document/6634154/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Shadoan",
+				"given": "Rachel"
+			},
+			{
+				"family": "Weaver",
+				"given": "Chris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/9VKCFY9H",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems - CHI '12",
+		"DOI": "10.1145/2207676.2208412",
+		"event": "the 2012 ACM annual conference",
+		"event-place": "Austin, Texas, USA",
+		"ISBN": "978-1-4503-1015-4",
+		"language": "en",
+		"page": "2465",
+		"publisher": "ACM Press",
+		"publisher-place": "Austin, Texas, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Modeling task performance for a crowd of users from interaction histories",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2207676.2208412",
+		"author": [
+			{
+				"family": "Gomez",
+				"given": "Steven"
+			},
+			{
+				"family": "Laidlaw",
+				"given": "David"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3V8Q22ZU",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2598797",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "321-330",
+		"source": "DOI.org (Crossref)",
+		"title": "Patterns and Sequences: Interactive Exploration of Clickstreams to Understand Common Visitor Paths",
+		"title-short": "Patterns and Sequences",
+		"URL": "http://ieeexplore.ieee.org/document/7539341/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Zhicheng"
+			},
+			{
+				"family": "Wang",
+				"given": "Yang"
+			},
+			{
+				"family": "Dontcheva",
+				"given": "Mira"
+			},
+			{
+				"family": "Hoffman",
+				"given": "Matthew"
+			},
+			{
+				"family": "Walker",
+				"given": "Seth"
+			},
+			{
+				"family": "Wilson",
+				"given": "Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/E5NQI22K",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2009.53",
+		"ISSN": "0272-1716",
+		"issue": "3",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "29-38",
+		"source": "DOI.org (Crossref)",
+		"title": "To Score or Not to Score? Tripling Insights for Participatory Design",
+		"title-short": "To Score or Not to Score?",
+		"URL": "http://ieeexplore.ieee.org/document/4909116/",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Smuc",
+				"given": "Michael"
+			},
+			{
+				"family": "Mayr",
+				"given": "Eva"
+			},
+			{
+				"family": "Lammarsch",
+				"given": "Tim"
+			},
+			{
+				"family": "Aigner",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Miksch",
+				"given": "Silvia"
+			},
+			{
+				"family": "Gärtner",
+				"given": "Johannes"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/V29B6PWV",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+		"DOI": "10.1145/3126594.3126653",
+		"event": "UIST '17: The 30th Annual ACM Symposium on User Interface Software and Technology",
+		"event-place": "Québec City QC Canada",
+		"ISBN": "978-1-4503-4981-9",
+		"language": "en",
+		"page": "57-69",
+		"publisher": "ACM",
+		"publisher-place": "Québec City QC Canada",
+		"source": "DOI.org (Crossref)",
+		"title": "Learning Visual Importance for Graphic Designs and Data Visualizations",
+		"URL": "https://dl.acm.org/doi/10.1145/3126594.3126653",
+		"author": [
+			{
+				"family": "Bylinskii",
+				"given": "Zoya"
+			},
+			{
+				"family": "Kim",
+				"given": "Nam Wook"
+			},
+			{
+				"family": "O'Donovan",
+				"given": "Peter"
+			},
+			{
+				"family": "Alsheikh",
+				"given": "Sami"
+			},
+			{
+				"family": "Madan",
+				"given": "Spandan"
+			},
+			{
+				"family": "Pfister",
+				"given": "Hanspeter"
+			},
+			{
+				"family": "Durand",
+				"given": "Fredo"
+			},
+			{
+				"family": "Russell",
+				"given": "Bryan"
+			},
+			{
+				"family": "Hertzmann",
+				"given": "Aaron"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QKRIRBKI",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12895",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "191-200",
+		"source": "DOI.org (Crossref)",
+		"title": "GEMSe: Visualization-Guided Exploration of Multi-channel Segmentation Algorithms",
+		"title-short": "GEMSe",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12895",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Fröhler",
+				"given": "B."
+			},
+			{
+				"family": "Möller",
+				"given": "T."
+			},
+			{
+				"family": "Heinzl",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/UFWTHT75",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467871",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "61-70",
+		"source": "DOI.org (Crossref)",
+		"title": "VA2: A Visual Analytics Approach for Evaluating Visual Analytics Applications",
+		"title-short": "VA <sup>2</sup>",
+		"URL": "https://ieeexplore.ieee.org/document/7192649/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Blascheck",
+				"given": "Tanja"
+			},
+			{
+				"family": "John",
+				"given": "Markus"
+			},
+			{
+				"family": "Kurzhals",
+				"given": "Kuno"
+			},
+			{
+				"family": "Koch",
+				"given": "Steffen"
+			},
+			{
+				"family": "Ertl",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/H76LSXQH",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12619",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "71-80",
+		"source": "DOI.org (Crossref)",
+		"title": "Perfopticon: Visual Query Analysis for Distributed Databases",
+		"title-short": "Perfopticon",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12619",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Moritz",
+				"given": "Dominik"
+			},
+			{
+				"family": "Halperin",
+				"given": "Daniel"
+			},
+			{
+				"family": "Howe",
+				"given": "Bill"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/U47GRW4J",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467191",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "649-658",
+		"source": "DOI.org (Crossref)",
+		"title": "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations",
+		"title-short": "Voyager",
+		"URL": "http://ieeexplore.ieee.org/document/7192728/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Wongsuphasawat",
+				"given": "Kanit"
+			},
+			{
+				"family": "Moritz",
+				"given": "Dominik"
+			},
+			{
+				"family": "Anand",
+				"given": "Anushka"
+			},
+			{
+				"family": "Mackinlay",
+				"given": "Jock"
+			},
+			{
+				"family": "Howe",
+				"given": "Bill"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/LPHXG32B",
+		"type": "paper-conference",
+		"container-title": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2016.7883518",
+		"event": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Baltimore, MD, USA",
+		"ISBN": "978-1-5090-5661-3",
+		"page": "121-130",
+		"publisher": "IEEE",
+		"publisher-place": "Baltimore, MD, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Shape grammar extraction for efficient query-by-sketch pattern matching in long time series",
+		"URL": "http://ieeexplore.ieee.org/document/7883518/",
+		"author": [
+			{
+				"family": "Muthumanickam",
+				"given": "Prithiviraj K."
+			},
+			{
+				"family": "Vrotsou",
+				"given": "Katerina"
+			},
+			{
+				"family": "Cooper",
+				"given": "Matthew"
+			},
+			{
+				"family": "Johansson",
+				"given": "Jimmy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/E6T356LJ",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2744684",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "309-318",
+		"source": "DOI.org (Crossref)",
+		"title": "Applying Pragmatics Principles for Interaction with Visual Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/8019833/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Hoque",
+				"given": "Enamul"
+			},
+			{
+				"family": "Setlur",
+				"given": "Vidya"
+			},
+			{
+				"family": "Tory",
+				"given": "Melanie"
+			},
+			{
+				"family": "Dykeman",
+				"given": "Isaac"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PQMLCJSP",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2009.129",
+		"ISSN": "1077-2626",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "929-936",
+		"source": "DOI.org (Crossref)",
+		"title": "Conjunctive Visual Forms",
+		"URL": "http://ieeexplore.ieee.org/document/5290696/",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Weaver",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/B2ARTX48",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.226",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2149-2158",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips",
+		"title-short": "Visual Exploration of Big Spatio-Temporal Urban Data",
+		"URL": "http://ieeexplore.ieee.org/document/6634127/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Ferreira",
+				"given": "Nivan"
+			},
+			{
+				"family": "Poco",
+				"given": "Jorge"
+			},
+			{
+				"family": "Vo",
+				"given": "Huy T."
+			},
+			{
+				"family": "Freire",
+				"given": "Juliana"
+			},
+			{
+				"family": "Silva",
+				"given": "Claudio T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/7Z8TRCT8",
+		"type": "paper-conference",
+		"container-title": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2009.5333020",
+		"event": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"event-place": "Atlantic City, NJ, USA",
+		"ISBN": "978-1-4244-5283-5",
+		"page": "131-138",
+		"publisher": "IEEE",
+		"publisher-place": "Atlantic City, NJ, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Capturing and supporting the analysis process",
+		"URL": "http://ieeexplore.ieee.org/document/5333020/",
+		"author": [
+			{
+				"family": "Kadivar",
+				"given": "Nazanin"
+			},
+			{
+				"family": "Chen",
+				"given": "Victor"
+			},
+			{
+				"family": "Dunsmuir",
+				"given": "Dustin"
+			},
+			{
+				"family": "Lee",
+				"given": "Eric"
+			},
+			{
+				"family": "Qian",
+				"given": "Cheryl"
+			},
+			{
+				"family": "Dill",
+				"given": "John"
+			},
+			{
+				"family": "Shaw",
+				"given": "Christopher"
+			},
+			{
+				"family": "Woodbury",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/N4WNSJPN",
+		"type": "paper-conference",
+		"container-title": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2009.5333023",
+		"event": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"event-place": "Atlantic City, NJ, USA",
+		"ISBN": "978-1-4244-5283-5",
+		"page": "123-130",
+		"publisher": "IEEE",
+		"publisher-place": "Atlantic City, NJ, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Connecting the dots in visual analysis",
+		"URL": "http://ieeexplore.ieee.org/document/5333023/",
+		"author": [
+			{
+				"family": "Shrinivasan",
+				"given": "Yedendra B."
+			},
+			{
+				"family": "Gotzy",
+				"given": "David"
+			},
+			{
+				"family": "Lu",
+				"given": "Jie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/YPUI6A4X",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.296",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1005-1019",
+		"source": "DOI.org (Crossref)",
+		"title": "Multiverse Data-Flow Control",
+		"URL": "https://ieeexplore.ieee.org/document/6329370/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Schindler",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Waser",
+				"given": "Jurgen"
+			},
+			{
+				"family": "Ribicic",
+				"given": "Hrvoje"
+			},
+			{
+				"family": "Fuchs",
+				"given": "Raphael"
+			},
+			{
+				"family": "Peikert",
+				"given": "Ronald"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/2G8Q7TN6",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2598446",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "221-230",
+		"source": "DOI.org (Crossref)",
+		"title": "AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings",
+		"title-short": "AxiSketcher",
+		"URL": "http://ieeexplore.ieee.org/document/7534876/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Kwon",
+				"given": "Bum Chul"
+			},
+			{
+				"family": "Kim",
+				"given": "Hannah"
+			},
+			{
+				"family": "Wall",
+				"given": "Emily"
+			},
+			{
+				"family": "Choo",
+				"given": "Jaegul"
+			},
+			{
+				"family": "Park",
+				"given": "Haesun"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/R26CWHUC",
+		"type": "paper-conference",
+		"container-title": "2014 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2014.7042492",
+		"event": "2014 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Paris, France",
+		"ISBN": "978-1-4799-6227-3",
+		"page": "163-172",
+		"publisher": "IEEE",
+		"publisher-place": "Paris, France",
+		"source": "DOI.org (Crossref)",
+		"title": "Multi-model semantic interaction for text analytics",
+		"URL": "http://ieeexplore.ieee.org/document/7042492/",
+		"author": [
+			{
+				"family": "Bradel",
+				"given": "Lauren"
+			},
+			{
+				"family": "North",
+				"given": "Chris"
+			},
+			{
+				"family": "House",
+				"given": "Leanna"
+			},
+			{
+				"family": "Leman",
+				"given": "Scotland"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/JGVV4JK3",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.175",
+		"ISSN": "1077-2626",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1062-1075",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual Analysis and Steering of Flooding Simulations",
+		"URL": "http://ieeexplore.ieee.org/document/6280550/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Ribicic",
+				"given": "H."
+			},
+			{
+				"family": "Waser",
+				"given": "J."
+			},
+			{
+				"family": "Fuchs",
+				"given": "R."
+			},
+			{
+				"family": "Bloschl",
+				"given": "G."
+			},
+			{
+				"family": "Groller",
+				"given": "E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QX6ZTMBL",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2570755",
+		"ISSN": "1077-2626",
+		"issue": "7",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1739-1752",
+		"source": "DOI.org (Crossref)",
+		"title": "Approximated and User Steerable tSNE for Progressive Visual Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/7473883/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Pezzotti",
+				"given": "Nicola"
+			},
+			{
+				"family": "Lelieveldt",
+				"given": "Boudewijn P. F."
+			},
+			{
+				"family": "Maaten",
+				"given": "Laurens",
+				"dropping-particle": "van der"
+			},
+			{
+				"family": "Hollt",
+				"given": "Thomas"
+			},
+			{
+				"family": "Eisemann",
+				"given": "Elmar"
+			},
+			{
+				"family": "Vilanova",
+				"given": "Anna"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/C53PABJ7",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems - CHI '12",
+		"DOI": "10.1145/2207676.2207741",
+		"event": "the 2012 ACM annual conference",
+		"event-place": "Austin, Texas, USA",
+		"ISBN": "978-1-4503-1015-4",
+		"language": "en",
+		"page": "473",
+		"publisher": "ACM Press",
+		"publisher-place": "Austin, Texas, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantic interaction for visual text analytics",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2207676.2207741",
+		"author": [
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Fiaux",
+				"given": "Patrick"
+			},
+			{
+				"family": "North",
+				"given": "Chris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/8TLX5VAD",
+		"type": "paper-conference",
+		"container-title": "2012 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2012.6400486",
+		"event": "2012 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Seattle, WA, USA",
+		"ISBN": "978-1-4673-4753-2",
+		"page": "83-92",
+		"publisher": "IEEE",
+		"publisher-place": "Seattle, WA, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Dis-function: Learning distance functions interactively",
+		"title-short": "Dis-function",
+		"URL": "http://ieeexplore.ieee.org/document/6400486/",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Eli T."
+			},
+			{
+				"family": "Liu",
+				"given": "Jingjing"
+			},
+			{
+				"family": "Brodley",
+				"given": "Carla E."
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/MDNHBVY6",
+		"type": "paper-conference",
+		"container-title": "2015 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2015.7347625",
+		"event": "2015 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Chicago, IL, USA",
+		"ISBN": "978-1-4673-9783-4",
+		"page": "9-16",
+		"publisher": "IEEE",
+		"publisher-place": "Chicago, IL, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Mixed-initiative visual analytics using task-driven recommendations",
+		"URL": "http://ieeexplore.ieee.org/document/7347625/",
+		"author": [
+			{
+				"family": "Cook",
+				"given": "Kristin"
+			},
+			{
+				"family": "Cramer",
+				"given": "Nick"
+			},
+			{
+				"family": "Israel",
+				"given": "David"
+			},
+			{
+				"family": "Wolverton",
+				"given": "Michael"
+			},
+			{
+				"family": "Bruce",
+				"given": "Joe"
+			},
+			{
+				"family": "Burtner",
+				"given": "Russ"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/VST4SLQH",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 22nd International Conference on Intelligent User Interfaces",
+		"DOI": "10.1145/3025171.3025189",
+		"event": "IUI'17: 22nd International Conference on Intelligent User Interfaces",
+		"event-place": "Limassol Cyprus",
+		"ISBN": "978-1-4503-4348-0",
+		"language": "en",
+		"page": "3-15",
+		"publisher": "ACM",
+		"publisher-place": "Limassol Cyprus",
+		"source": "DOI.org (Crossref)",
+		"title": "A 3D Item Space Visualization for Presenting and Manipulating User Preferences in Collaborative Filtering",
+		"URL": "https://dl.acm.org/doi/10.1145/3025171.3025189",
+		"author": [
+			{
+				"family": "Kunkel",
+				"given": "Johannes"
+			},
+			{
+				"family": "Loepp",
+				"given": "Benedikt"
+			},
+			{
+				"family": "Ziegler",
+				"given": "Jürgen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/IBX4QNCT",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467615",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "131-140",
+		"source": "DOI.org (Crossref)",
+		"title": "InterAxis: Steering Scatterplot Axes via Observation-Level Interaction",
+		"title-short": "InterAxis",
+		"URL": "http://ieeexplore.ieee.org/document/7192671/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Hannah"
+			},
+			{
+				"family": "Choo",
+				"given": "Jaegul"
+			},
+			{
+				"family": "Park",
+				"given": "Haesun"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/XCR27ASF",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2009.199",
+		"ISSN": "1077-2626",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1327-1334",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual Human+Machine Learning",
+		"URL": "http://ieeexplore.ieee.org/document/5290745/",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Fuchs",
+				"given": "R."
+			},
+			{
+				"family": "Waser",
+				"given": "J."
+			},
+			{
+				"family": "Groller",
+				"given": "M.E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/D2LSEWVB",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2014.2346575",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1663-1672",
+		"source": "DOI.org (Crossref)",
+		"title": "Finding Waldo: Learning about Users from their Interactions",
+		"title-short": "Finding Waldo",
+		"URL": "http://ieeexplore.ieee.org/document/6875913/",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Eli T"
+			},
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Zhao",
+				"given": "Helen"
+			},
+			{
+				"family": "Lin",
+				"given": "Quan"
+			},
+			{
+				"family": "Souvenir",
+				"given": "Richard"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/HG2IUVX7",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13424",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "339-349",
+		"source": "DOI.org (Crossref)",
+		"title": "Track Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions",
+		"title-short": "Track Xplorer",
+		"URL": "http://doi.wiley.com/10.1111/cgf.13424",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Cavallo",
+				"given": "Marco"
+			},
+			{
+				"family": "Demiralp",
+				"given": "Çağatay"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/2KWCN9LW",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.258",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2829-2838",
+		"source": "DOI.org (Crossref)",
+		"title": "Scatter/Gather Clustering: Flexibly Incorporating User Feedback to Steer Clustering Results",
+		"title-short": "Scatter/Gather Clustering",
+		"URL": "http://ieeexplore.ieee.org/document/6327289/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Hossain",
+				"given": "M. Shahriar"
+			},
+			{
+				"family": "Ojili",
+				"given": "Praveen Kumar Reddy"
+			},
+			{
+				"family": "Grimm",
+				"given": "Cindy"
+			},
+			{
+				"family": "Muller",
+				"given": "Rolf"
+			},
+			{
+				"family": "Watson",
+				"given": "Layne T."
+			},
+			{
+				"family": "Ramakrishnan",
+				"given": "Naren"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/48IKB24F",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2018 Conference on Human Information Interaction&Retrieval - IUI 18",
+		"DOI": "10.1145/3172944.3172964",
+		"event": "23rd International Conference",
+		"event-place": "Tokyo, Japan",
+		"ISBN": "978-1-4503-4945-1",
+		"language": "en",
+		"page": "281-292",
+		"publisher": "ACM Press",
+		"publisher-place": "Tokyo, Japan",
+		"source": "DOI.org (Crossref)",
+		"title": "Interactive Document Clustering Revisited: A Visual Analytics Approach",
+		"title-short": "Interactive Document Clustering Revisited",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3172944.3172964",
+		"author": [
+			{
+				"family": "Sherkat",
+				"given": "Ehsan"
+			},
+			{
+				"family": "Nourashrafeddin",
+				"given": "Seyednaser"
+			},
+			{
+				"family": "Milios",
+				"given": "Evangelos E."
+			},
+			{
+				"family": "Minghim",
+				"given": "Rosane"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3BM8YZA5",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology - UIST '15",
+		"DOI": "10.1145/2807442.2807478",
+		"event": "the 28th Annual ACM Symposium",
+		"event-place": "Daegu, Kyungpook, Republic of Korea",
+		"ISBN": "978-1-4503-3779-3",
+		"language": "en",
+		"page": "489-500",
+		"publisher": "ACM Press",
+		"publisher-place": "Daegu, Kyungpook, Republic of Korea",
+		"source": "DOI.org (Crossref)",
+		"title": "DataTone: Managing Ambiguity in Natural Language Interfaces for Data Visualization",
+		"title-short": "DataTone",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2807442.2807478",
+		"author": [
+			{
+				"family": "Gao",
+				"given": "Tong"
+			},
+			{
+				"family": "Dontcheva",
+				"given": "Mira"
+			},
+			{
+				"family": "Adar",
+				"given": "Eytan"
+			},
+			{
+				"family": "Liu",
+				"given": "Zhicheng"
+			},
+			{
+				"family": "Karahalios",
+				"given": "Karrie G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/T6W8KYQH",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 27th annual ACM symposium on User interface software and technology - UIST '14",
+		"DOI": "10.1145/2642918.2647378",
+		"event": "the 27th annual ACM symposium",
+		"event-place": "Honolulu, Hawaii, USA",
+		"ISBN": "978-1-4503-3069-5",
+		"language": "en",
+		"page": "231-241",
+		"publisher": "ACM Press",
+		"publisher-place": "Honolulu, Hawaii, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Programming by manipulation for layout",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2642918.2647378",
+		"author": [
+			{
+				"family": "Hottelier",
+				"given": "Thibaud"
+			},
+			{
+				"family": "Bodik",
+				"given": "Ras"
+			},
+			{
+				"family": "Ryokai",
+				"given": "Kimiko"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/YMXE2ERI",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2006 ACM SIGMOD international conference on Management of data  - SIGMOD '06",
+		"DOI": "10.1145/1142473.1142574",
+		"event": "the 2006 ACM SIGMOD international conference",
+		"event-place": "Chicago, IL, USA",
+		"ISBN": "978-1-59593-434-5",
+		"language": "en",
+		"page": "745",
+		"publisher": "ACM Press",
+		"publisher-place": "Chicago, IL, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "VisTrails: visualization meets data management",
+		"title-short": "VisTrails",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1142473.1142574",
+		"author": [
+			{
+				"family": "Callahan",
+				"given": "Steven P."
+			},
+			{
+				"family": "Freire",
+				"given": "Juliana"
+			},
+			{
+				"family": "Santos",
+				"given": "Emanuele"
+			},
+			{
+				"family": "Scheidegger",
+				"given": "Carlos E."
+			},
+			{
+				"family": "Silva",
+				"given": "Cláudio T."
+			},
+			{
+				"family": "Vo",
+				"given": "Huy T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/ZWURRSGQ",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2744479",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1025-1035",
+		"source": "DOI.org (Crossref)",
+		"title": "BASTet: Shareable and Reproducible Analysis and Visualization of Mass Spectrometry Imaging Data via OpenMSI",
+		"title-short": "BASTet",
+		"URL": "http://ieeexplore.ieee.org/document/8017614/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Rubel",
+				"given": "Oliver"
+			},
+			{
+				"family": "Bowen",
+				"given": "Benjamin P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/93PMHRB4",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2011 annual conference on Human factors in computing systems - CHI '11",
+		"DOI": "10.1145/1978942.1979444",
+		"event": "the 2011 annual conference",
+		"event-place": "Vancouver, BC, Canada",
+		"ISBN": "978-1-4503-0228-9",
+		"language": "en",
+		"page": "3363",
+		"publisher": "ACM Press",
+		"publisher-place": "Vancouver, BC, Canada",
+		"source": "DOI.org (Crossref)",
+		"title": "Wrangler: interactive visual specification of data transformation scripts",
+		"title-short": "Wrangler",
+		"URL": "http://dl.acm.org/citation.cfm?doid=1978942.1979444",
+		"author": [
+			{
+				"family": "Kandel",
+				"given": "Sean"
+			},
+			{
+				"family": "Paepcke",
+				"given": "Andreas"
+			},
+			{
+				"family": "Hellerstein",
+				"given": "Joseph"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/9MS8EZDR",
+		"type": "paper-conference",
+		"container-title": "2010 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2010.5652932",
+		"event": "2010 IEEE Symposium on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Salt Lake City, UT, USA",
+		"ISBN": "978-1-4244-9488-0",
+		"page": "107-114",
+		"publisher": "IEEE",
+		"publisher-place": "Salt Lake City, UT, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "VizCept: Supporting synchronous collaboration for constructing visualizations in intelligence analysis",
+		"title-short": "VizCept",
+		"URL": "http://ieeexplore.ieee.org/document/5652932/",
+		"author": [
+			{
+				"family": "Chung",
+				"given": "Haeyong"
+			},
+			{
+				"family": "Yang",
+				"given": "Seungwon"
+			},
+			{
+				"family": "Massjouni",
+				"given": "Naveed"
+			},
+			{
+				"family": "Andrews",
+				"given": "Christopher"
+			},
+			{
+				"family": "Kanna",
+				"given": "Rahul"
+			},
+			{
+				"family": "North",
+				"given": "Chris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QWR9N3YA",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/3009973",
+		"ISSN": "2160-6455, 2160-6463",
+		"issue": "4",
+		"journalAbbreviation": "ACM Trans. Interact. Intell. Syst.",
+		"language": "en",
+		"page": "1-23",
+		"source": "DOI.org (Crossref)",
+		"title": "Adaptive Contextualization Methods for Combating Selection Bias during High-Dimensional Visualization",
+		"URL": "https://dl.acm.org/doi/10.1145/3009973",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Gotz",
+				"given": "David"
+			},
+			{
+				"family": "Sun",
+				"given": "Shun"
+			},
+			{
+				"family": "Cao",
+				"given": "Nan"
+			},
+			{
+				"family": "Kundu",
+				"given": "Rita"
+			},
+			{
+				"family": "Meyer",
+				"given": "Anne-Marie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EL25LM58",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13402",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "75-86",
+		"source": "DOI.org (Crossref)",
+		"title": "Chart Constellations: Effective Chart Summarization for Collaborative and Multi-User Analyses",
+		"title-short": "Chart Constellations",
+		"URL": "http://doi.wiley.com/10.1111/cgf.13402",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Xu",
+				"given": "Shenyu"
+			},
+			{
+				"family": "Bryan",
+				"given": "Chris"
+			},
+			{
+				"family": "Li",
+				"given": "Jianping Kelvin"
+			},
+			{
+				"family": "Zhao",
+				"given": "Jian"
+			},
+			{
+				"family": "Ma",
+				"given": "Kwan-Liu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EDE2JQIA",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13400",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "51-62",
+		"source": "DOI.org (Crossref)",
+		"title": "ChangeCatcher: Increasing Inter-author Awareness for Visualization Development",
+		"title-short": "ChangeCatcher",
+		"URL": "http://doi.wiley.com/10.1111/cgf.13400",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Loorak",
+				"given": "M."
+			},
+			{
+				"family": "Tory",
+				"given": "M."
+			},
+			{
+				"family": "Carpendale",
+				"given": "S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/XQRRRL2Y",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/3185524",
+		"ISSN": "2160-6455, 2160-6463",
+		"issue": "2",
+		"journalAbbreviation": "ACM Trans. Interact. Intell. Syst.",
+		"language": "en",
+		"page": "1-30",
+		"source": "DOI.org (Crossref)",
+		"title": "Predicting User Confidence During Visual Decision Making",
+		"URL": "https://dl.acm.org/doi/10.1145/3185524",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Jim"
+			},
+			{
+				"family": "Legg",
+				"given": "Phil"
+			},
+			{
+				"family": "Matovic",
+				"given": "Milos"
+			},
+			{
+				"family": "Kinsey",
+				"given": "Kristofer"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PW3BIEXI",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2018.2865024",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "120-130",
+		"source": "DOI.org (Crossref)",
+		"title": "KnowledgePearls: Provenance-Based Visualization Retrieval",
+		"title-short": "KnowledgePearls",
+		"URL": "https://ieeexplore.ieee.org/document/8440831/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Stitz",
+				"given": "Holger"
+			},
+			{
+				"family": "Gratzl",
+				"given": "Samuel"
+			},
+			{
+				"family": "Piringer",
+				"given": "Harald"
+			},
+			{
+				"family": "Zichner",
+				"given": "Thomas"
+			},
+			{
+				"family": "Streit",
+				"given": "Marc"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KCBNWBND",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2011.153",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "5",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "675-688",
+		"source": "DOI.org (Crossref)",
+		"title": "Identifying Place Histories from Activity Traces with an Eye to Parameter Impact",
+		"URL": "https://ieeexplore.ieee.org/document/6018964/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Andrienko",
+				"given": "Gennady"
+			},
+			{
+				"family": "Andrienko",
+				"given": "Natalia"
+			},
+			{
+				"family": "Mladenov",
+				"given": "Martin"
+			},
+			{
+				"family": "Mock",
+				"given": "Michael"
+			},
+			{
+				"family": "Politz",
+				"given": "Christian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/GQUBH7PC",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2745278",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "532-541",
+		"source": "DOI.org (Crossref)",
+		"title": "Exploring Multivariate Event Sequences Using Rules, Aggregations, and Selections",
+		"URL": "http://ieeexplore.ieee.org/document/8019837/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Cappers",
+				"given": "Bram C.M."
+			},
+			{
+				"family": "Wijk",
+				"given": "Jarke J.",
+				"non-dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/LXFR6HIF",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems - CHI '15",
+		"DOI": "10.1145/2702123.2702262",
+		"event": "the 33rd Annual ACM Conference",
+		"event-place": "Seoul, Republic of Korea",
+		"ISBN": "978-1-4503-3145-6",
+		"language": "en",
+		"page": "2683-2692",
+		"publisher": "ACM Press",
+		"publisher-place": "Seoul, Republic of Korea",
+		"source": "DOI.org (Crossref)",
+		"title": "(s|qu)eries: Visual Regular Expressions for Querying and Exploring Event Sequences",
+		"title-short": "(s|qu)eries",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2702123.2702262",
+		"author": [
+			{
+				"family": "Zgraggen",
+				"given": "Emanuel"
+			},
+			{
+				"family": "Drucker",
+				"given": "Steven M."
+			},
+			{
+				"family": "Fisher",
+				"given": "Danyel"
+			},
+			{
+				"family": "DeLine",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/44RDA3W7",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems - CHI '15",
+		"DOI": "10.1145/2702123.2702376",
+		"event": "the 33rd Annual ACM Conference",
+		"event-place": "Seoul, Republic of Korea",
+		"ISBN": "978-1-4503-3145-6",
+		"language": "en",
+		"page": "2711-2720",
+		"publisher": "ACM Press",
+		"publisher-place": "Seoul, Republic of Korea",
+		"source": "DOI.org (Crossref)",
+		"title": "Evaluating How Level of Detail of Visual History Affects Process Memory",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2702123.2702376",
+		"author": [
+			{
+				"family": "Ragan",
+				"given": "Eric D."
+			},
+			{
+				"family": "Goodall",
+				"given": "John R."
+			},
+			{
+				"family": "Tung",
+				"given": "Albert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/7J3C2AK6",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.132",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2139-2148",
+		"source": "DOI.org (Crossref)",
+		"title": "An Extensible Framework for Provenance in Human Terrain Visual Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/6634110/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Walker",
+				"given": "Rick"
+			},
+			{
+				"family": "Slingsby",
+				"given": "Aiden"
+			},
+			{
+				"family": "Dykes",
+				"given": "Jason"
+			},
+			{
+				"literal": "Kai Xu"
+			},
+			{
+				"family": "Wood",
+				"given": "Jo"
+			},
+			{
+				"family": "Nguyen",
+				"given": "Phong H."
+			},
+			{
+				"family": "Stephens",
+				"given": "Derek"
+			},
+			{
+				"family": "Wong",
+				"given": "B. L. William"
+			},
+			{
+				"literal": "Yongjun Zheng"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3XZBKY9C",
+		"type": "article-journal",
+		"container-title": "ACM Transactions on Intelligent Systems and Technology",
+		"DOI": "10.1145/1869397.1869399",
+		"ISSN": "2157-6904, 2157-6912",
+		"issue": "2",
+		"journalAbbreviation": "ACM Trans. Intell. Syst. Technol.",
+		"language": "en",
+		"page": "1-21",
+		"source": "DOI.org (Crossref)",
+		"title": "Applying planning to interactive storytelling: Narrative control using state constraints",
+		"title-short": "Applying planning to interactive storytelling",
+		"URL": "https://dl.acm.org/doi/10.1145/1869397.1869399",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Porteous",
+				"given": "Julie"
+			},
+			{
+				"family": "Cavazza",
+				"given": "Marc"
+			},
+			{
+				"family": "Charles",
+				"given": "Fred"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/TIFVFITN",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13717",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "649-661",
+		"source": "DOI.org (Crossref)",
+		"title": "InsideInsights: Integrating Data‐Driven Reporting in Collaborative Visual Analytics",
+		"title-short": "InsideInsights",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13717",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Mathisen",
+				"given": "A."
+			},
+			{
+				"family": "Horak",
+				"given": "T."
+			},
+			{
+				"family": "Klokmose",
+				"given": "C. N."
+			},
+			{
+				"family": "Grønbæk",
+				"given": "K."
+			},
+			{
+				"family": "Elmqvist",
+				"given": "N."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/YMWU3VES",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12925",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "491-500",
+		"source": "DOI.org (Crossref)",
+		"title": "From Visual Exploration to Storytelling and Back Again",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12925",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Gratzl",
+				"given": "S."
+			},
+			{
+				"family": "Lex",
+				"given": "A."
+			},
+			{
+				"family": "Gehlenborg",
+				"given": "N."
+			},
+			{
+				"family": "Cosgrove",
+				"given": "N."
+			},
+			{
+				"family": "Streit",
+				"given": "M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/RD9RMI8J",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2015.51",
+		"ISSN": "0272-1716, 1558-1756",
+		"issue": "4",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "28-37",
+		"source": "DOI.org (Crossref)",
+		"title": "Characterizing Visualization Insights from Quantified Selfers' Personal Data Presentations",
+		"URL": "https://ieeexplore.ieee.org/document/7106391/",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Choe",
+				"given": "Eun Kyoung"
+			},
+			{
+				"family": "Lee",
+				"given": "Bongshin"
+			},
+			{
+				"family": "schraefel",
+				"given": "m.c."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/MH9PS9PA",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.164",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2198-2206",
+		"source": "DOI.org (Crossref)",
+		"title": "Identifying Redundancy and Exposing Provenance in Crowdsourced Data Analysis",
+		"URL": "http://ieeexplore.ieee.org/document/6634191/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Willett",
+				"given": "Wesley"
+			},
+			{
+				"family": "Ginosar",
+				"given": "Shiry"
+			},
+			{
+				"family": "Steinitz",
+				"given": "Avital"
+			},
+			{
+				"family": "Hartmann",
+				"given": "Bjorn"
+			},
+			{
+				"family": "Agrawala",
+				"given": "Maneesh"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/W9NVM37Z",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2019.2945720",
+		"ISSN": "0272-1716, 1558-1756",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "46-60",
+		"source": "DOI.org (Crossref)",
+		"title": "A Provenance Task Abstraction Framework",
+		"URL": "https://ieeexplore.ieee.org/document/8864010/",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Bors",
+				"given": "Christian"
+			},
+			{
+				"family": "Wenskovitch",
+				"given": "John"
+			},
+			{
+				"family": "Dowling",
+				"given": "Michelle"
+			},
+			{
+				"family": "Attfield",
+				"given": "Simon"
+			},
+			{
+				"family": "Battle",
+				"given": "Leilani"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Kulyk",
+				"given": "Olga"
+			},
+			{
+				"family": "Laramee",
+				"given": "Robert S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/4WTJ9LXH",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2745078",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "288-297",
+		"source": "DOI.org (Crossref)",
+		"title": "Podium: Ranking Data Using Mixed-Initiative Visual Analytics",
+		"title-short": "Podium",
+		"URL": "http://ieeexplore.ieee.org/document/8019863/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Wall",
+				"given": "Emily"
+			},
+			{
+				"family": "Das",
+				"given": "Subhajit"
+			},
+			{
+				"family": "Chawla",
+				"given": "Ravish"
+			},
+			{
+				"family": "Kalidindi",
+				"given": "Bharath"
+			},
+			{
+				"family": "Brown",
+				"given": "Eli T."
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/BCS5J4JW",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13208",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "527-538",
+		"source": "DOI.org (Crossref)",
+		"title": "CoreFlow: Extracting and Visualizing Branching Patterns from Event Sequences",
+		"title-short": "CoreFlow",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13208",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Zhicheng"
+			},
+			{
+				"family": "Kerr",
+				"given": "Bernard"
+			},
+			{
+				"family": "Dontcheva",
+				"given": "Mira"
+			},
+			{
+				"family": "Grover",
+				"given": "Justin"
+			},
+			{
+				"family": "Hoffman",
+				"given": "Matthew"
+			},
+			{
+				"family": "Wilson",
+				"given": "Alan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/XQEXTQW6",
+		"type": "paper-conference",
+		"container-title": "2017 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2017.8585665",
+		"event": "2017 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Phoenix, AZ",
+		"ISBN": "978-1-5386-3163-8",
+		"page": "116-126",
+		"publisher": "IEEE",
+		"publisher-place": "Phoenix, AZ",
+		"source": "DOI.org (Crossref)",
+		"title": "The Anchoring Effect in Decision-Making with Visual Analytics",
+		"URL": "https://ieeexplore.ieee.org/document/8585665/",
+		"author": [
+			{
+				"family": "Cho",
+				"given": "Isaac"
+			},
+			{
+				"family": "Wesslen",
+				"given": "Ryan"
+			},
+			{
+				"family": "Karduni",
+				"given": "Alireza"
+			},
+			{
+				"family": "Santhanam",
+				"given": "Sashank"
+			},
+			{
+				"family": "Shaikh",
+				"given": "Samira"
+			},
+			{
+				"family": "Dou",
+				"given": "Wenwen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/ZSPP2VUD",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2018.2802520",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "2",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1407-1420",
+		"source": "DOI.org (Crossref)",
+		"title": "Exploration Strategies for Discovery of Interactivity in Visualizations",
+		"URL": "https://ieeexplore.ieee.org/document/8281629/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Blascheck",
+				"given": "Tanja"
+			},
+			{
+				"family": "Vermeulen",
+				"given": "Lindsay MacDonald"
+			},
+			{
+				"family": "Vermeulen",
+				"given": "Jo"
+			},
+			{
+				"family": "Perin",
+				"given": "Charles"
+			},
+			{
+				"family": "Willett",
+				"given": "Wesley"
+			},
+			{
+				"family": "Ertl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Carpendale",
+				"given": "Sheelagh"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EHPSNKBD",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2009.49",
+		"ISSN": "0272-1716",
+		"issue": "3",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "52-61",
+		"source": "DOI.org (Crossref)",
+		"title": "Recovering Reasoning Processes from User Interactions",
+		"URL": "http://ieeexplore.ieee.org/document/4909118/",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Dou",
+				"given": "Wenwen"
+			},
+			{
+				"family": "Jeong",
+				"given": "Dong Hyun"
+			},
+			{
+				"family": "Stukes",
+				"given": "Felesia"
+			},
+			{
+				"family": "Ribarsky",
+				"given": "William"
+			},
+			{
+				"family": "Lipford",
+				"given": "Heather Richter"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/6Q6E2Q39",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems  - CHI '19",
+		"DOI": "10.1145/3290605.3300874",
+		"event": "the 2019 CHI Conference",
+		"event-place": "Glasgow, Scotland Uk",
+		"ISBN": "978-1-4503-5970-2",
+		"language": "en",
+		"page": "1-14",
+		"publisher": "ACM Press",
+		"publisher-place": "Glasgow, Scotland Uk",
+		"source": "DOI.org (Crossref)",
+		"title": "An Exploratory Study on Visual Exploration of Model Simulations by Multiple Types of Experts",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3290605.3300874",
+		"author": [
+			{
+				"family": "Boukhelifa",
+				"given": "Nadia"
+			},
+			{
+				"family": "Bezerianos",
+				"given": "Anastasia"
+			},
+			{
+				"family": "Trelea",
+				"given": "Ioan Cristian"
+			},
+			{
+				"family": "Perrot",
+				"given": "Nathalie Méjean"
+			},
+			{
+				"family": "Lutton",
+				"given": "Evelyne"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/D7YXW7QW",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467613",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "51-60",
+		"source": "DOI.org (Crossref)",
+		"title": "A Case Study Using Visualization Interaction Logs and Insight Metrics to Understand How Analysts Arrive at Insights",
+		"URL": "http://ieeexplore.ieee.org/document/7192662/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Guo",
+				"given": "Hua"
+			},
+			{
+				"family": "Gomez",
+				"given": "Steven R."
+			},
+			{
+				"family": "Ziemkiewicz",
+				"given": "Caroline"
+			},
+			{
+				"family": "Laidlaw",
+				"given": "David H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/VVI899IG",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2018.2865117",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "501-511",
+		"source": "DOI.org (Crossref)",
+		"title": "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web",
+		"title-short": "Patterns and Pace",
+		"URL": "https://ieeexplore.ieee.org/document/8454489/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Feng",
+				"given": "Mi"
+			},
+			{
+				"family": "Peck",
+				"given": "Evan"
+			},
+			{
+				"family": "Harrison",
+				"given": "Lane"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/N6NU7D2L",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13678",
+		"ISSN": "0167-7055, 1467-8659",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "145-159",
+		"source": "DOI.org (Crossref)",
+		"title": "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau",
+		"title-short": "Characterizing Exploratory Visual Analysis",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13678",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Battle",
+				"given": "Leilani"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/RZDXH9PW",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2018.2859969",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "9",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2838-2852",
+		"source": "DOI.org (Crossref)",
+		"title": "Understanding User Behaviour through Action Sequences: From the Usual to the Unusual",
+		"title-short": "Understanding User Behaviour through Action Sequences",
+		"URL": "https://ieeexplore.ieee.org/document/8419283/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Nguyen",
+				"given": "Phong H."
+			},
+			{
+				"family": "Turkay",
+				"given": "Cagatay"
+			},
+			{
+				"family": "Andrienko",
+				"given": "Gennady"
+			},
+			{
+				"family": "Andrienko",
+				"given": "Natalia"
+			},
+			{
+				"family": "Thonnard",
+				"given": "Olivier"
+			},
+			{
+				"family": "Zouaoui",
+				"given": "Jihane"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/YL9XZFNS",
+		"type": "paper-conference",
+		"container-title": "2012 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2012.6400494",
+		"event": "2012 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Seattle, WA, USA",
+		"ISBN": "978-1-4673-4753-2",
+		"page": "3-12",
+		"publisher": "IEEE",
+		"publisher-place": "Seattle, WA, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual cluster exploration of web clickstream data",
+		"URL": "http://ieeexplore.ieee.org/document/6400494/",
+		"author": [
+			{
+				"family": "Wei",
+				"given": "Jishang"
+			},
+			{
+				"family": "Shen",
+				"given": "Zeqian"
+			},
+			{
+				"family": "Sundaresan",
+				"given": "Neel"
+			},
+			{
+				"family": "Ma",
+				"given": "Kwan-Liu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/XWY72EPW",
+		"type": "paper-conference",
+		"container-title": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2016.7883520",
+		"event": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Baltimore, MD, USA",
+		"ISBN": "978-1-5090-5661-3",
+		"page": "141-150",
+		"publisher": "IEEE",
+		"publisher-place": "Baltimore, MD, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual analysis and coding of data-rich user behavior",
+		"URL": "http://ieeexplore.ieee.org/document/7883520/",
+		"author": [
+			{
+				"family": "Blascheck",
+				"given": "Tanja"
+			},
+			{
+				"family": "Beck",
+				"given": "Fabian"
+			},
+			{
+				"family": "Baltes",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Ertl",
+				"given": "Thomas"
+			},
+			{
+				"family": "Weiskopf",
+				"given": "Daniel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/WVRN8R2T",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 22nd International Conference on Intelligent User Interfaces",
+		"DOI": "10.1145/3025171.3025187",
+		"event": "IUI'17: 22nd International Conference on Intelligent User Interfaces",
+		"event-place": "Limassol Cyprus",
+		"ISBN": "978-1-4503-4348-0",
+		"language": "en",
+		"page": "221-231",
+		"publisher": "ACM",
+		"publisher-place": "Limassol Cyprus",
+		"source": "DOI.org (Crossref)",
+		"title": "Pupillometry and Head Distance to the Screen to Predict Skill Acquisition During Information Visualization Tasks",
+		"URL": "https://dl.acm.org/doi/10.1145/3025171.3025187",
+		"author": [
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Lallé",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/C54948XU",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2019.2934668",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1-11",
+		"source": "DOI.org (Crossref)",
+		"title": "FlowSense: A Natural Language Interface for Visual Data Exploration within a Dataflow System",
+		"title-short": "FlowSense",
+		"URL": "https://ieeexplore.ieee.org/document/8807265/",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Yu",
+				"given": "Bowen"
+			},
+			{
+				"family": "Silva",
+				"given": "Claudio T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/MENJWCDP",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology",
+		"DOI": "10.1145/3332165.3347866",
+		"event": "UIST '19: The 32nd Annual ACM Symposium on User Interface Software and Technology",
+		"event-place": "New Orleans LA USA",
+		"ISBN": "978-1-4503-6816-2",
+		"language": "en",
+		"page": "549-561",
+		"publisher": "ACM",
+		"publisher-place": "New Orleans LA USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Is this Real?: Generating Synthetic Data that Looks Real",
+		"title-short": "Is this Real?",
+		"URL": "https://dl.acm.org/doi/10.1145/3332165.3347866",
+		"author": [
+			{
+				"family": "Mannino",
+				"given": "Miro"
+			},
+			{
+				"family": "Abouzied",
+				"given": "Azza"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/L4RLQJB5",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.211",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2217-2226",
+		"source": "DOI.org (Crossref)",
+		"title": "Using Interactive Visual Reasoning to Support Sense-Making: Implications for Design",
+		"title-short": "Using Interactive Visual Reasoning to Support Sense-Making",
+		"URL": "http://ieeexplore.ieee.org/document/6651935/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Kodagoda",
+				"given": "Neesha"
+			},
+			{
+				"family": "Attfield",
+				"given": "Simon"
+			},
+			{
+				"family": "Wong",
+				"given": "B. L. William"
+			},
+			{
+				"family": "Rooney",
+				"given": "Chris"
+			},
+			{
+				"family": "Choudhury",
+				"given": "Sharmin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/T8C23C3F",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2019.2933419",
+		"ISSN": "0272-1716, 1558-1756",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "30-45",
+		"source": "DOI.org (Crossref)",
+		"title": "Analytic Provenance in Practice: The Role of Provenance in Real-World Visualization and Data Analysis Environments",
+		"title-short": "Analytic Provenance in Practice",
+		"URL": "https://ieeexplore.ieee.org/document/8788592/",
+		"volume": "39",
+		"author": [
+			{
+				"family": "Madanagopal",
+				"given": "Karthic"
+			},
+			{
+				"family": "Ragan",
+				"given": "Eric D."
+			},
+			{
+				"family": "Benjamin",
+				"given": "Perakath"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/SFGPVJXT",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2014.2346250",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2003-2012",
+		"source": "DOI.org (Crossref)",
+		"title": "DimpVis: Exploring Time-varying Information Visualizations by Direct Manipulation",
+		"title-short": "DimpVis",
+		"URL": "http://ieeexplore.ieee.org/document/6875985/",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Kondo",
+				"given": "Brittany"
+			},
+			{
+				"family": "Collins",
+				"given": "Christopher"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QUIXW4QW",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2010.177",
+		"ISSN": "1077-2626",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "999-1008",
+		"source": "DOI.org (Crossref)",
+		"title": "Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective",
+		"title-short": "Mental Models, Visual Reasoning and Interaction in Information Visualization",
+		"URL": "http://ieeexplore.ieee.org/document/5613437/",
+		"volume": "16",
+		"author": [
+			{
+				"literal": "Zhicheng Liu"
+			},
+			{
+				"family": "Stasko",
+				"given": "J T"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/FQ4KTGUA",
+		"type": "article-journal",
+		"container-title": "ACM SIGMOD Record",
+		"DOI": "10.1145/3316416.3316418",
+		"ISSN": "0163-5808",
+		"issue": "3",
+		"journalAbbreviation": "SIGMOD Rec.",
+		"language": "en",
+		"page": "5-16",
+		"source": "DOI.org (Crossref)",
+		"title": "Data Provenance: What next?",
+		"title-short": "Data Provenance",
+		"URL": "https://dl.acm.org/doi/10.1145/3316416.3316418",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Buneman",
+				"given": "Peter"
+			},
+			{
+				"family": "Tan",
+				"given": "Wang-Chiew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QBRTU59H",
+		"type": "article-journal",
+		"container-title": "ACM Computing Surveys",
+		"DOI": "10.1145/1057977.1057978",
+		"ISSN": "03600300",
+		"issue": "1",
+		"journalAbbreviation": "ACM Comput. Surv.",
+		"language": "en",
+		"page": "1-28",
+		"source": "DOI.org (Crossref)",
+		"title": "Lineage retrieval for scientific data processing: a survey",
+		"title-short": "Lineage retrieval for scientific data processing",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1057977.1057978",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Bose",
+				"given": "Rajendra"
+			},
+			{
+				"family": "Frew",
+				"given": "James"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/73QMHDQD",
+		"type": "article-journal",
+		"container-title": "ACM SIGMOD Record",
+		"DOI": "10.1145/1084805.1084812",
+		"ISSN": "0163-5808",
+		"issue": "3",
+		"journalAbbreviation": "SIGMOD Rec.",
+		"language": "en",
+		"page": "31-36",
+		"source": "DOI.org (Crossref)",
+		"title": "A survey of data provenance in e-science",
+		"URL": "https://dl.acm.org/doi/10.1145/1084805.1084812",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Simmhan",
+				"given": "Yogesh L."
+			},
+			{
+				"family": "Plale",
+				"given": "Beth"
+			},
+			{
+				"family": "Gannon",
+				"given": "Dennis"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/JKC977BX",
+		"type": "article-journal",
+		"container-title": "The VLDB Journal",
+		"DOI": "10.1007/s00778-017-0486-1",
+		"ISSN": "1066-8888, 0949-877X",
+		"issue": "6",
+		"journalAbbreviation": "The VLDB Journal",
+		"language": "en",
+		"page": "881-906",
+		"source": "DOI.org (Crossref)",
+		"title": "A survey on provenance: What for? What form? What from?",
+		"title-short": "A survey on provenance",
+		"URL": "http://link.springer.com/10.1007/s00778-017-0486-1",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Herschel",
+				"given": "Melanie"
+			},
+			{
+				"family": "Diestelkämper",
+				"given": "Ralf"
+			},
+			{
+				"family": "Ben Lahmar",
+				"given": "Houssem"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/UY466PIK",
+		"type": "article-journal",
+		"container-title": "Computing in Science & Engineering",
+		"DOI": "10.1109/MCSE.2008.79",
+		"ISSN": "1521-9615",
+		"issue": "3",
+		"journalAbbreviation": "Comput. Sci. Eng.",
+		"page": "11-21",
+		"source": "DOI.org (Crossref)",
+		"title": "Provenance for Computational Tasks: A Survey",
+		"title-short": "Provenance for Computational Tasks",
+		"URL": "http://ieeexplore.ieee.org/document/4488060/",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Freire",
+				"given": "Juliana"
+			},
+			{
+				"family": "Koop",
+				"given": "David"
+			},
+			{
+				"family": "Santos",
+				"given": "Emanuele"
+			},
+			{
+				"family": "Silva",
+				"given": "Cl"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/6AWF56BQ",
+		"type": "article-journal",
+		"container-title": "ACM Computing Surveys",
+		"DOI": "10.1145/3184900",
+		"ISSN": "0360-0300, 1557-7341",
+		"issue": "3",
+		"journalAbbreviation": "ACM Comput. Surv.",
+		"language": "en",
+		"page": "1-25",
+		"source": "DOI.org (Crossref)",
+		"title": "Provenance Analytics for Workflow-Based Computational Experiments: A Survey",
+		"title-short": "Provenance Analytics for Workflow-Based Computational Experiments",
+		"URL": "https://dl.acm.org/doi/10.1145/3184900",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Oliveira",
+				"given": "Wellington"
+			},
+			{
+				"family": "Oliveira",
+				"given": "Daniel De"
+			},
+			{
+				"family": "Braganholo",
+				"given": "Vanessa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PVWCIEA7",
+		"type": "chapter",
+		"container-title": "Encyclopedia of Database Systems",
+		"event-place": "New York, NY",
+		"ISBN": "978-1-4899-7993-3",
+		"language": "en",
+		"note": "DOI: 10.1007/978-1-4899-7993-3_80747-1",
+		"page": "1-5",
+		"publisher": "Springer New York",
+		"publisher-place": "New York, NY",
+		"source": "DOI.org (Crossref)",
+		"title": "Provenance and Reproducibility",
+		"URL": "http://link.springer.com/10.1007/978-1-4899-7993-3_80747-1",
+		"editor": [
+			{
+				"family": "Liu",
+				"given": "Ling"
+			},
+			{
+				"family": "Özsu",
+				"given": "M. Tamer"
+			}
+		],
+		"author": [
+			{
+				"family": "Chirigati",
+				"given": "Fernando"
+			},
+			{
+				"family": "Freire",
+				"given": "Juliana"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/8WPTRQ9T",
+		"type": "article-journal",
+		"container-title": "ACM Computing Surveys",
+		"DOI": "10.1145/3186266",
+		"ISSN": "0360-0300, 1557-7341",
+		"issue": "3",
+		"journalAbbreviation": "ACM Comput. Surv.",
+		"language": "en",
+		"page": "1-36",
+		"source": "DOI.org (Crossref)",
+		"title": "Reproducibility in Scientific Computing",
+		"URL": "https://dl.acm.org/doi/10.1145/3186266",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Ivie",
+				"given": "Peter"
+			},
+			{
+				"family": "Thain",
+				"given": "Douglas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KW29N789",
+		"type": "article-journal",
+		"container-title": "Computing in Science & Engineering",
+		"DOI": "10.1109/MCSE.2007.106",
+		"ISSN": "1521-9615",
+		"issue": "5",
+		"journalAbbreviation": "Comput. Sci. Eng.",
+		"page": "82-89",
+		"source": "DOI.org (Crossref)",
+		"title": "Provenance for Visualizations: Reproducibility and Beyond",
+		"title-short": "Provenance for Visualizations",
+		"URL": "http://ieeexplore.ieee.org/document/4293741/",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Silva",
+				"given": "Claudio T."
+			},
+			{
+				"family": "Freire",
+				"given": "Juliana"
+			},
+			{
+				"family": "Callahan",
+				"given": "Steven P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/J7CILNG7",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2011 annual conference extended abstracts on Human factors in computing systems - CHI EA '11",
+		"DOI": "10.1145/1979742.1979570",
+		"event": "the 2011 annual conference extended abstracts",
+		"event-place": "Vancouver, BC, Canada",
+		"ISBN": "978-1-4503-0268-5",
+		"language": "en",
+		"page": "33",
+		"publisher": "ACM Press",
+		"publisher-place": "Vancouver, BC, Canada",
+		"source": "DOI.org (Crossref)",
+		"title": "Analytic provenance: process+interaction+insight",
+		"title-short": "Analytic provenance",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1979742.1979570",
+		"author": [
+			{
+				"family": "North",
+				"given": "Chris"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Dou",
+				"given": "Wenwen"
+			},
+			{
+				"family": "May",
+				"given": "Richard"
+			},
+			{
+				"family": "Pike",
+				"given": "Bill"
+			},
+			{
+				"family": "Fink",
+				"given": "Glenn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3Y9CTPRH",
+		"type": "article-journal",
+		"container-title": "IEEE Computer Graphics and Applications",
+		"DOI": "10.1109/MCG.2015.50",
+		"ISSN": "0272-1716",
+		"issue": "3",
+		"journalAbbreviation": "IEEE Comput. Grap. Appl.",
+		"page": "56-64",
+		"source": "DOI.org (Crossref)",
+		"title": "Analytic Provenance for Sensemaking: A Research Agenda",
+		"title-short": "Analytic Provenance for Sensemaking",
+		"URL": "http://ieeexplore.ieee.org/document/7111922/",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Xu",
+				"given": "Kai"
+			},
+			{
+				"family": "Attfield",
+				"given": "Simon"
+			},
+			{
+				"family": "Jankun-Kelly",
+				"given": "T.J."
+			},
+			{
+				"family": "Wheat",
+				"given": "Ashley"
+			},
+			{
+				"family": "Nguyen",
+				"given": "Phong H."
+			},
+			{
+				"family": "Selvaraj",
+				"given": "Nallini"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/FLPWT2RR",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467611",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "41-50",
+		"source": "DOI.org (Crossref)",
+		"title": "SensePath: Understanding the Sensemaking Process Through Analytic Provenance",
+		"title-short": "SensePath",
+		"URL": "http://ieeexplore.ieee.org/document/7194834/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Nguyen",
+				"given": "Phong H."
+			},
+			{
+				"family": "Xu",
+				"given": "Kai"
+			},
+			{
+				"family": "Wheat",
+				"given": "Ashley"
+			},
+			{
+				"family": "Wong",
+				"given": "B.L. William"
+			},
+			{
+				"family": "Attfield",
+				"given": "Simon"
+			},
+			{
+				"family": "Fields",
+				"given": "Bob"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/GUUPA7TU",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12924",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "481-490",
+		"source": "DOI.org (Crossref)",
+		"title": "AVOCADO: Visualization of Workflow-Derived Data Provenance for Reproducible Biomedical Research",
+		"title-short": "AVOCADO",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12924",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Stitz",
+				"given": "H."
+			},
+			{
+				"family": "Luger",
+				"given": "S."
+			},
+			{
+				"family": "Streit",
+				"given": "M."
+			},
+			{
+				"family": "Gehlenborg",
+				"given": "N."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/ACMJ78IV",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems  - CHI '19",
+		"DOI": "10.1145/3290605.3300360",
+		"event": "the 2019 CHI Conference",
+		"event-place": "Glasgow, Scotland Uk",
+		"ISBN": "978-1-4503-5970-2",
+		"language": "en",
+		"page": "1-14",
+		"publisher": "ACM Press",
+		"publisher-place": "Glasgow, Scotland Uk",
+		"source": "DOI.org (Crossref)",
+		"title": "Dynamic Network Plaid: A Tool for the Analysis of Dynamic Networks",
+		"title-short": "Dynamic Network Plaid",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3290605.3300360",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Alexandra"
+			},
+			{
+				"family": "Archambault",
+				"given": "Daniel"
+			},
+			{
+				"family": "Nacenta",
+				"given": "Miguel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/SGRVA9WX",
+		"type": "article-journal",
+		"DOI": "10.4230/DAGREP.8.11.35",
+		"language": "en",
+		"note": "dimensions: 28 pages\nmedium: application/pdf\npublisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany\nversion: 1.0",
+		"page": "28 pages",
+		"source": "DOI.org (Datacite)",
+		"title": "Provenance and Logging for Sense Making (Dagstuhl Seminar 18462)",
+		"URL": "http://drops.dagstuhl.de/opus/volltexte/2019/10355/",
+		"author": [
+			{
+				"family": "Fekete",
+				"given": "Jean-Daniel"
+			},
+			{
+				"family": "Jankun-Kelly",
+				"given": "T. J."
+			},
+			{
+				"family": "Tory",
+				"given": "Melanie"
+			},
+			{
+				"family": "Xi",
+				"given": "Kai"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/6EA9XBYL",
+		"type": "article-journal",
+		"abstract": "Dynamic graph visualization focuses on the challenge of representing the evolution of relationships between entities in readable, scalable, and effective diagrams. This work surveys the growing number of approaches in this discipline. We derive a hierarchical taxonomy of techniques by systematically categorizing and tagging publications. While static graph visualizations are often divided into node-link and matrix representations, we identify the representation of time as the major distinguishing feature for dynamic graph visualizations: either graphs are represented as animated diagrams or as static charts based on a timeline. Evaluations of animated approaches focus on dynamic stability for preserving the viewer's mental map or, in general, compare animated diagrams to timeline-based ones. Finally, we identify and discuss challenges for future research.",
+		"container-title": "EuroVis - STARs",
+		"DOI": "10.2312/EUROVISSTAR.20141174",
+		"language": "eng",
+		"note": "dimensions: 21 pages\nISBN: 9783038680284\npublisher: The Eurographics Association",
+		"page": "21 pages",
+		"source": "DOI.org (Datacite)",
+		"title": "The State of the Art in Visualizing Dynamic Graphs",
+		"URL": "http://diglib.eg.org/handle/10.2312/eurovisstar.20141174.083-103",
+		"author": [
+			{
+				"family": "Beck",
+				"given": "Fabian"
+			},
+			{
+				"family": "Burch",
+				"given": "Michael"
+			},
+			{
+				"family": "Diehl",
+				"given": "Stephan"
+			},
+			{
+				"family": "Weiskopf",
+				"given": "Daniel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KU3KD3DJ",
+		"type": "article-journal",
+		"container-title": "Foundations and Trends in Databases",
+		"DOI": "10.1561/1900000006",
+		"ISSN": "1931-7883, 1931-7891",
+		"issue": "4",
+		"journalAbbreviation": "FNT in Databases",
+		"language": "en",
+		"page": "379-474",
+		"source": "DOI.org (Crossref)",
+		"title": "Provenance in Databases: Why, How, and Where",
+		"title-short": "Provenance in Databases",
+		"URL": "http://www.nowpublishers.com/article/Details/DBS-006",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Cheney",
+				"given": "James"
+			},
+			{
+				"family": "Chiticariu",
+				"given": "Laura"
+			},
+			{
+				"family": "Tan",
+				"given": "Wang-Chiew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/DF98HRXS",
+		"type": "paper-conference",
+		"title": "Supporting Cognitive Models of Sensemaking in Analytics Systems",
+		"author": [
+			{
+				"family": "Janneck",
+				"given": "Christopher D."
+			},
+			{
+				"family": "Umoja",
+				"given": "Chinua"
+			},
+			{
+				"family": "Pottenger",
+				"given": "William M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/69QF5G63",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems - CHI '12",
+		"DOI": "10.1145/2207676.2208565",
+		"event": "the 2012 ACM annual conference",
+		"event-place": "Austin, Texas, USA",
+		"ISBN": "978-1-4503-1015-4",
+		"language": "en",
+		"page": "1159",
+		"publisher": "ACM Press",
+		"publisher-place": "Austin, Texas, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Interactive visualization for low literacy users: from lessons learnt to design",
+		"title-short": "Interactive visualization for low literacy users",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2207676.2208565",
+		"author": [
+			{
+				"family": "Kodagoda",
+				"given": "Neesha"
+			},
+			{
+				"family": "Wong",
+				"given": "B.L. William"
+			},
+			{
+				"family": "Rooney",
+				"given": "Chris"
+			},
+			{
+				"family": "Khan",
+				"given": "Nawaz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/RFW6DD94",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems - CHI '15",
+		"DOI": "10.1145/2702123.2702590",
+		"event": "the 33rd Annual ACM Conference",
+		"event-place": "Seoul, Republic of Korea",
+		"ISBN": "978-1-4503-3145-6",
+		"language": "en",
+		"page": "3251-3254",
+		"publisher": "ACM Press",
+		"publisher-place": "Seoul, Republic of Korea",
+		"source": "DOI.org (Crossref)",
+		"title": "Personality as a Predictor of User Strategy: How Locus of Control Affects Search Strategies on Tree Visualizations",
+		"title-short": "Personality as a Predictor of User Strategy",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2702123.2702590",
+		"author": [
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Yang",
+				"given": "Huahai"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PZJ4WQ4I",
+		"type": "paper-conference",
+		"container-title": "2017 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2017.8585669",
+		"event": "2017 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Phoenix, AZ",
+		"ISBN": "978-1-5386-3163-8",
+		"page": "104-115",
+		"publisher": "IEEE",
+		"publisher-place": "Phoenix, AZ",
+		"source": "DOI.org (Crossref)",
+		"title": "Warning, Bias May Occur: A Proposed Approach to Detecting Cognitive Bias in Interactive Visual Analytics",
+		"title-short": "Warning, Bias May Occur",
+		"URL": "https://ieeexplore.ieee.org/document/8585669/",
+		"author": [
+			{
+				"family": "Wall",
+				"given": "Emily"
+			},
+			{
+				"family": "Blaha",
+				"given": "Leslie M."
+			},
+			{
+				"family": "Franklin",
+				"given": "Lyndsey"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/PAHNDS7W",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2598468",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "111-120",
+		"source": "DOI.org (Crossref)",
+		"title": "Characterizing Guidance in Visual Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/7534883/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Ceneda",
+				"given": "Davide"
+			},
+			{
+				"family": "Gschwandtner",
+				"given": "Theresia"
+			},
+			{
+				"family": "May",
+				"given": "Thorsten"
+			},
+			{
+				"family": "Miksch",
+				"given": "Silvia"
+			},
+			{
+				"family": "Schulz",
+				"given": "Hans-Jorg"
+			},
+			{
+				"family": "Streit",
+				"given": "Marc"
+			},
+			{
+				"family": "Tominski",
+				"given": "Christian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/WN2TU4FY",
+		"type": "article-journal",
+		"container-title": "Visual Informatics",
+		"DOI": "10.1016/j.visinf.2018.09.003",
+		"ISSN": "2468502X",
+		"issue": "3",
+		"journalAbbreviation": "Visual Informatics",
+		"language": "en",
+		"page": "166-180",
+		"source": "DOI.org (Crossref)",
+		"title": "Guidance in the human–machine analytics process",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468502X1830041X",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Collins",
+				"given": "Christopher"
+			},
+			{
+				"family": "Andrienko",
+				"given": "Natalia"
+			},
+			{
+				"family": "Schreck",
+				"given": "Tobias"
+			},
+			{
+				"family": "Yang",
+				"given": "Jing"
+			},
+			{
+				"family": "Choo",
+				"given": "Jaegul"
+			},
+			{
+				"family": "Engelke",
+				"given": "Ulrich"
+			},
+			{
+				"family": "Jena",
+				"given": "Amit"
+			},
+			{
+				"family": "Dwyer",
+				"given": "Tim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/LVY9YN8K",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2016 International Conference on Management of Data - SIGMOD '16",
+		"DOI": "10.1145/2882903.2882919",
+		"event": "the 2016 International Conference",
+		"event-place": "San Francisco, California, USA",
+		"ISBN": "978-1-4503-3531-7",
+		"language": "en",
+		"page": "1363-1375",
+		"publisher": "ACM Press",
+		"publisher-place": "San Francisco, California, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Dynamic Prefetching of Data Tiles for Interactive Visualization",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2882903.2882919",
+		"author": [
+			{
+				"family": "Battle",
+				"given": "Leilani"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			},
+			{
+				"family": "Stonebraker",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EE9YJBEG",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.13405",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "111-120",
+		"source": "DOI.org (Crossref)",
+		"title": "Fast and Accurate CNN-based Brushing in Scatterplots",
+		"URL": "http://doi.wiley.com/10.1111/cgf.13405",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Fan",
+				"given": "Chaoran"
+			},
+			{
+				"family": "Hauser",
+				"given": "Helwig"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/BEV3RZEK",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.188",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2052-2059",
+		"source": "DOI.org (Crossref)",
+		"title": "Semantics of Directly Manipulating Spatializations",
+		"URL": "http://ieeexplore.ieee.org/document/6634115/",
+		"volume": "19",
+		"author": [
+			{
+				"literal": "Xinran Hu"
+			},
+			{
+				"family": "Bradel",
+				"given": "Lauren"
+			},
+			{
+				"family": "Maiti",
+				"given": "Dipayan"
+			},
+			{
+				"family": "House",
+				"given": "Leanna"
+			},
+			{
+				"family": "North",
+				"given": "Chris"
+			},
+			{
+				"family": "Leman",
+				"given": "Scotland"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3WIT8BPA",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2008.137",
+		"ISSN": "1077-2626",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1189-1196",
+		"source": "DOI.org (Crossref)",
+		"title": "Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation",
+		"title-short": "Graphical Histories for Visualization",
+		"URL": "http://ieeexplore.ieee.org/document/4658129/",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Heer",
+				"given": "J."
+			},
+			{
+				"family": "Mackinlay",
+				"given": "J."
+			},
+			{
+				"family": "Stolte",
+				"given": "C."
+			},
+			{
+				"family": "Agrawala",
+				"given": "M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/SMKUBFGP",
+		"type": "paper-conference",
+		"container-title": "2010 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2010.5652885",
+		"event": "2010 IEEE Symposium on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Salt Lake City, UT, USA",
+		"ISBN": "978-1-4244-9488-0",
+		"page": "155-162",
+		"publisher": "IEEE",
+		"publisher-place": "Salt Lake City, UT, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Click2Annotate: Automated Insight Externalization with rich semantics",
+		"title-short": "Click2Annotate",
+		"URL": "http://ieeexplore.ieee.org/document/5652885/",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Yang"
+			},
+			{
+				"family": "Barlowe",
+				"given": "Scott"
+			},
+			{
+				"family": "Yang",
+				"given": "Jing"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/DAUCPKHD",
+		"type": "article-journal",
+		"abstract": "Visualization research has made significant progress in demonstrating the value of graphical data representation. Even still, the value added by static visualization is disputed in some areas. When presenting Bayesian reasoning information, for example, some studies suggest that combining text and visualizations could have an interactive effect. In this paper, we use eye tracking to compare how people extract information from text and visualization. Using a Bayesian reasoning problem as a test bed, we provide evidence that visualization makes it easier to identify critical information, but that once identified as critical, information is more easily extracted from the text. These tendencies persist even when text and visualization are presented together, indicating that users do not integrate information well across the two representation types. We discuss these findings and argue that effective representations should consider the ease of both information identification and extraction.",
+		"container-title": "EuroVis 2019 - Short Papers",
+		"DOI": "10.2312/EVS.20191181",
+		"note": "dimensions: 5 pages\nISBN: 9783038680901\npublisher: The Eurographics Association\nversion: 121-125",
+		"page": "5 pages",
+		"source": "DOI.org (Datacite)",
+		"title": "The Curious Case of Combining Text and Visualization",
+		"URL": "https://diglib.eg.org/handle/10.2312/evs20191181",
+		"author": [
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Kaszowska",
+				"given": "Aleksandra"
+			},
+			{
+				"family": "Crouser",
+				"given": "R. Jordan"
+			},
+			{
+				"family": "Peck",
+				"given": "Evan M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/M4X6N9FV",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/j.1467-8659.2011.01928.x",
+		"ISSN": "01677055",
+		"issue": "3",
+		"language": "en",
+		"page": "791-800",
+		"source": "DOI.org (Crossref)",
+		"title": "A User Study of Visualization Effectiveness Using EEG and Cognitive Load",
+		"URL": "http://doi.wiley.com/10.1111/j.1467-8659.2011.01928.x",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Anderson",
+				"given": "E. W."
+			},
+			{
+				"family": "Potter",
+				"given": "K. C."
+			},
+			{
+				"family": "Matzen",
+				"given": "L. E."
+			},
+			{
+				"family": "Shepherd",
+				"given": "J. F."
+			},
+			{
+				"family": "Preston",
+				"given": "G. A."
+			},
+			{
+				"family": "Silva",
+				"given": "C. T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/RWQ2HXQB",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems - CHI '13",
+		"DOI": "10.1145/2470654.2470723",
+		"event": "the SIGCHI Conference",
+		"event-place": "Paris, France",
+		"ISBN": "978-1-4503-1899-0",
+		"language": "en",
+		"page": "473",
+		"publisher": "ACM Press",
+		"publisher-place": "Paris, France",
+		"source": "DOI.org (Crossref)",
+		"title": "Using fNIRS brain sensing to evaluate information visualization interfaces",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2470654.2470723",
+		"author": [
+			{
+				"family": "Peck",
+				"given": "Evan M M."
+			},
+			{
+				"family": "Yuksel",
+				"given": "Beste F."
+			},
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Jacob",
+				"given": "Robert J.K."
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/X27MBVMR",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2007.70515",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1224-1231",
+		"source": "DOI.org (Crossref)",
+		"title": "Toward a Deeper Understanding of the Role of Interaction in Information Visualization",
+		"URL": "https://ieeexplore.ieee.org/document/4376144/",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Yi",
+				"given": "Ji Soo"
+			},
+			{
+				"family": "Kang",
+				"given": "Youn",
+				"dropping-particle": "ah"
+			},
+			{
+				"family": "Stasko",
+				"given": "John"
+			},
+			{
+				"family": "Jacko",
+				"given": "J.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/JF99AU8X",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.124",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2376-2385",
+		"source": "DOI.org (Crossref)",
+		"title": "A Multi-Level Typology of Abstract Visualization Tasks",
+		"URL": "http://ieeexplore.ieee.org/document/6634168/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Brehmer",
+				"given": "Matthew"
+			},
+			{
+				"family": "Munzner",
+				"given": "Tamara"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/CC7W9ZDW",
+		"type": "article-journal"
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/8E7ZAEYW",
+		"type": "paper-conference",
+		"container-title": "Proceedings of International Conference on Intelligence Analysis",
+		"event": "International Conference on Intelligence Analysis",
+		"title": "The sensemaking process and leverage pointsfor analyst technology as identified through cognitive task analysis.",
+		"author": [
+			{
+				"family": "Pirolli",
+				"given": "Peter"
+			},
+			{
+				"family": "Card",
+				"given": "Stuart K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/FLXPCZHB",
+		"type": "article-journal",
+		"container-title": "KI - Künstliche Intelligenz",
+		"DOI": "10.1007/s13218-012-0167-6",
+		"ISSN": "0933-1875, 1610-1987",
+		"issue": "2",
+		"journalAbbreviation": "Künstl Intell",
+		"language": "en",
+		"page": "151-159",
+		"source": "DOI.org (Crossref)",
+		"title": "Analysing Interactivity in Information Visualisation",
+		"URL": "http://link.springer.com/10.1007/s13218-012-0167-6",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Pohl",
+				"given": "Margit"
+			},
+			{
+				"family": "Wiltner",
+				"given": "Sylvia"
+			},
+			{
+				"family": "Miksch",
+				"given": "Silvia"
+			},
+			{
+				"family": "Aigner",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Rind",
+				"given": "Alexander"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/4WDY9YHG",
+		"type": "paper-conference",
+		"container-title": "CHI '01 extended abstracts on Human factors in computing systems  - CHI '01",
+		"DOI": "10.1145/634067.634292",
+		"event": "CHI '01 extended abstracts",
+		"event-place": "Seattle, Washington",
+		"ISBN": "978-1-58113-340-0",
+		"language": "en",
+		"page": "381",
+		"publisher": "ACM Press",
+		"publisher-place": "Seattle, Washington",
+		"source": "DOI.org (Crossref)",
+		"title": "Sketching a graph to query a time-series database",
+		"URL": "http://portal.acm.org/citation.cfm?doid=634067.634292",
+		"author": [
+			{
+				"family": "Wattenberg",
+				"given": "Martin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/WX5DB34F",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 15th annual international ACM SIGIR conference on Research and development in information retrieval  - SIGIR '92",
+		"DOI": "10.1145/133160.133216",
+		"event": "the 15th annual international ACM SIGIR conference",
+		"event-place": "Copenhagen, Denmark",
+		"ISBN": "978-0-89791-523-6",
+		"language": "en",
+		"page": "338-346",
+		"publisher": "ACM Press",
+		"publisher-place": "Copenhagen, Denmark",
+		"source": "DOI.org (Crossref)",
+		"title": "The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system",
+		"title-short": "The dynamic HomeFinder",
+		"URL": "http://portal.acm.org/citation.cfm?doid=133160.133216",
+		"author": [
+			{
+				"family": "Williamson",
+				"given": "Christopher"
+			},
+			{
+				"family": "Shneiderman",
+				"given": "Ben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/CJF6D7VE",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL '11",
+		"DOI": "10.1145/1926385.1926423",
+		"event": "the 38th annual ACM SIGPLAN-SIGACT symposium",
+		"event-place": "Austin, Texas, USA",
+		"ISBN": "978-1-4503-0490-0",
+		"language": "en",
+		"page": "317",
+		"publisher": "ACM Press",
+		"publisher-place": "Austin, Texas, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Automating string processing in spreadsheets using input-output examples",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1926385.1926423",
+		"author": [
+			{
+				"family": "Gulwani",
+				"given": "Sumit"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KBBXNSVJ",
+		"type": "article-journal",
+		"container-title": "Communications of the ACM",
+		"DOI": "10.1145/2240236.2240260",
+		"ISSN": "0001-0782, 1557-7317",
+		"issue": "8",
+		"journalAbbreviation": "Commun. ACM",
+		"language": "en",
+		"page": "97-105",
+		"source": "DOI.org (Crossref)",
+		"title": "Spreadsheet data manipulation using examples",
+		"URL": "https://dl.acm.org/doi/10.1145/2240236.2240260",
+		"volume": "55",
+		"author": [
+			{
+				"family": "Gulwani",
+				"given": "Sumit"
+			},
+			{
+				"family": "Harris",
+				"given": "William R."
+			},
+			{
+				"family": "Singh",
+				"given": "Rishabh"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/EUMMPVQ6",
+		"type": "paper-conference",
+		"container-title": "2006 IEEE Symposium On Visual Analytics And Technology",
+		"DOI": "10.1109/VAST.2006.261436",
+		"event": "2006 IEEE Symposium On Visual Analytics And Technology",
+		"event-place": "Baltimore, MD, USA",
+		"ISBN": "978-1-4244-0591-6",
+		"page": "107-114",
+		"publisher": "IEEE",
+		"publisher-place": "Baltimore, MD, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Enhancing Visual Analysis of Network Traffic Using a Knowledge Representation",
+		"URL": "http://ieeexplore.ieee.org/document/4035754/",
+		"author": [
+			{
+				"family": "Xiao",
+				"given": "Ling"
+			},
+			{
+				"family": "Gerth",
+				"given": "John"
+			},
+			{
+				"family": "Hanrahan",
+				"given": "Pat"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/9YQ6V9PB",
+		"type": "paper-conference",
+		"container-title": "2008 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2008.4677352",
+		"event": "2008 IEEE Symposium on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Columbus, OH, USA",
+		"ISBN": "978-1-4244-2935-6",
+		"page": "19-26",
+		"publisher": "IEEE",
+		"publisher-place": "Columbus, OH, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Model-driven Visual Analytics",
+		"URL": "http://ieeexplore.ieee.org/document/4677352/",
+		"author": [
+			{
+				"family": "Garg",
+				"given": "Supriya"
+			},
+			{
+				"family": "Nam",
+				"given": "Julia Eunju"
+			},
+			{
+				"family": "Ramakrishnan",
+				"given": "I.V."
+			},
+			{
+				"family": "Mueller",
+				"given": "Klaus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/M4NQEZB4",
+		"type": "paper-conference",
+		"container-title": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"DOI": "10.1109/VAST.2009.5333564",
+		"event": "2009 IEEE Symposium on Visual Analytics Science and Technology",
+		"event-place": "Atlantic City, NJ, USA",
+		"ISBN": "978-1-4244-5283-5",
+		"page": "203-210",
+		"publisher": "IEEE",
+		"publisher-place": "Atlantic City, NJ, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Iterative integration of visual insights during patent search and analysis",
+		"URL": "http://ieeexplore.ieee.org/document/5333564/",
+		"author": [
+			{
+				"family": "Koch",
+				"given": "Steffen"
+			},
+			{
+				"family": "Bosch",
+				"given": "Harald"
+			},
+			{
+				"family": "Giereth",
+				"given": "Mark"
+			},
+			{
+				"family": "Ertl",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/H8SSFEYY",
+		"type": "article-journal",
+		"container-title": "Proceedings of the VLDB Endowment",
+		"DOI": "10.14778/3025111.3025126",
+		"ISSN": "21508097",
+		"issue": "4",
+		"journalAbbreviation": "Proc. VLDB Endow.",
+		"language": "en",
+		"page": "457-468",
+		"source": "DOI.org (Crossref)",
+		"title": "Effortless data exploration with zenvisage: an expressive and interactive visual analytics system",
+		"title-short": "Effortless data exploration with zenvisage",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3025111.3025126",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Siddiqui",
+				"given": "Tarique"
+			},
+			{
+				"family": "Kim",
+				"given": "Albert"
+			},
+			{
+				"family": "Lee",
+				"given": "John"
+			},
+			{
+				"family": "Karahalios",
+				"given": "Karrie"
+			},
+			{
+				"family": "Parameswaran",
+				"given": "Aditya"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/L8T9XVBB",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2599030",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "341-350",
+		"source": "DOI.org (Crossref)",
+		"title": "Vega-Lite: A Grammar of Interactive Graphics",
+		"title-short": "Vega-Lite",
+		"URL": "http://ieeexplore.ieee.org/document/7539624/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Satyanarayan",
+				"given": "Arvind"
+			},
+			{
+				"family": "Moritz",
+				"given": "Dominik"
+			},
+			{
+				"family": "Wongsuphasawat",
+				"given": "Kanit"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/55BMZXV6",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12391",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "351-360",
+		"source": "DOI.org (Crossref)",
+		"title": "Lyra: An Interactive Visualization Design Environment: Lyra: An Interactive Visualization Design Environment",
+		"title-short": "Lyra",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12391",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Satyanarayan",
+				"given": "Arvind"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/FASGVT42",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467091",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "659-668",
+		"source": "DOI.org (Crossref)",
+		"title": "Reactive Vega: A Streaming Dataflow Architecture for Declarative Interactive Visualization",
+		"title-short": "Reactive Vega",
+		"URL": "http://ieeexplore.ieee.org/document/7192704/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Satyanarayan",
+				"given": "Arvind"
+			},
+			{
+				"family": "Russell",
+				"given": "Ryan"
+			},
+			{
+				"family": "Hoffswell",
+				"given": "Jane"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/TDC2HDHR",
+		"type": "paper-conference",
+		"container-title": "2011 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2011.6102449",
+		"event": "2011 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Providence, RI, USA",
+		"ISBN": "978-1-4673-0014-8",
+		"page": "121-130",
+		"publisher": "IEEE",
+		"publisher-place": "Providence, RI, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Observation-level interaction with statistical models for visual analytics",
+		"URL": "http://ieeexplore.ieee.org/document/6102449/",
+		"author": [
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Han",
+				"given": "Chao"
+			},
+			{
+				"family": "Maiti",
+				"given": "Dipayan"
+			},
+			{
+				"family": "House",
+				"given": "Leanna"
+			},
+			{
+				"family": "Leman",
+				"given": "Scotland"
+			},
+			{
+				"family": "North",
+				"given": "Chris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/B2N48WGU",
+		"type": "paper-conference",
+		"container-title": "IEEE Visualization Workshop on Machine Learning from User Interactions for Visualization and Analytics",
+		"title": "ModelSpace : Visualizing the Trails of Data Models in Visual Analytics Systems",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Eli T."
+			},
+			{
+				"family": "Yarlagadda",
+				"given": "Sriram"
+			},
+			{
+				"family": "Cook",
+				"given": "Kristin A."
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/25W9KDL8",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2019.2934609",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1-1",
+		"source": "DOI.org (Crossref)",
+		"title": "VASABI: Hierarchical User Profiles for Interactive Visual User Behaviour Analytics",
+		"title-short": "VASABI",
+		"URL": "https://ieeexplore.ieee.org/document/8807354/",
+		"author": [
+			{
+				"family": "Nguyen",
+				"given": "Phong H."
+			},
+			{
+				"family": "Henkin",
+				"given": "Rafael"
+			},
+			{
+				"family": "Chen",
+				"given": "Siming"
+			},
+			{
+				"family": "Andrienko",
+				"given": "Natalia"
+			},
+			{
+				"family": "Andrienko",
+				"given": "Gennady"
+			},
+			{
+				"family": "Thonnard",
+				"given": "Olivier"
+			},
+			{
+				"family": "Turkay",
+				"given": "Cagatay"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KG4UQ27J",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2014.2346573",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1633-1642",
+		"source": "DOI.org (Crossref)",
+		"title": "Supporting Communication and Coordination in Collaborative Sensemaking",
+		"URL": "http://ieeexplore.ieee.org/document/6875986/",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Mahyar",
+				"given": "Narges"
+			},
+			{
+				"family": "Tory",
+				"given": "Melanie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3WT4L4CG",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2017.2745279",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "340-350",
+		"source": "DOI.org (Crossref)",
+		"title": "Supporting Handoff in Asynchronous Collaborative Sensemaking Using Knowledge-Transfer Graphs",
+		"URL": "http://ieeexplore.ieee.org/document/8017596/",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Zhao",
+				"given": "Jian"
+			},
+			{
+				"family": "Glueck",
+				"given": "Michael"
+			},
+			{
+				"family": "Isenberg",
+				"given": "Petra"
+			},
+			{
+				"family": "Chevalier",
+				"given": "Fanny"
+			},
+			{
+				"family": "Khan",
+				"given": "Azam"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/NXA56QSF",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems - CHI '12",
+		"DOI": "10.1145/2207676.2208293",
+		"event": "the 2012 ACM annual conference",
+		"event-place": "Austin, Texas, USA",
+		"ISBN": "978-1-4503-1015-4",
+		"language": "en",
+		"page": "1663",
+		"publisher": "ACM Press",
+		"publisher-place": "Austin, Texas, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "GraphTrail: analyzing large multivariate, heterogeneous networks while supporting exploration history",
+		"title-short": "GraphTrail",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2207676.2208293",
+		"author": [
+			{
+				"family": "Dunne",
+				"given": "Cody"
+			},
+			{
+				"family": "Henry Riche",
+				"given": "Nathalie"
+			},
+			{
+				"family": "Lee",
+				"given": "Bongshin"
+			},
+			{
+				"family": "Metoyer",
+				"given": "Ronald"
+			},
+			{
+				"family": "Robertson",
+				"given": "George"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/8XLYZXH8",
+		"type": "paper-conference",
+		"container-title": "Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems  - CHI '08",
+		"DOI": "10.1145/1357054.1357247",
+		"event": "Proceeding of the twenty-sixth annual CHI conference",
+		"event-place": "Florence, Italy",
+		"ISBN": "978-1-60558-011-1",
+		"language": "en",
+		"page": "1237",
+		"publisher": "ACM Press",
+		"publisher-place": "Florence, Italy",
+		"source": "DOI.org (Crossref)",
+		"title": "Supporting the analytical reasoning process in information visualization",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1357054.1357247",
+		"author": [
+			{
+				"family": "Shrinivasan",
+				"given": "Yedendra Babu"
+			},
+			{
+				"family": "Wijk",
+				"given": "Jarke J.",
+				"non-dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/368YIB8Q",
+		"type": "paper-conference",
+		"container-title": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2016.7883515",
+		"event": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Baltimore, MD, USA",
+		"ISBN": "978-1-5090-5661-3",
+		"page": "91-100",
+		"publisher": "IEEE",
+		"publisher-place": "Baltimore, MD, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "SenseMap: Supporting browser-based online sensemaking through analytic provenance",
+		"title-short": "SenseMap",
+		"URL": "http://ieeexplore.ieee.org/document/7883515/",
+		"author": [
+			{
+				"family": "Nguyen",
+				"given": "Phong H."
+			},
+			{
+				"family": "Xu",
+				"given": "Kai"
+			},
+			{
+				"family": "Bardill",
+				"given": "Andy"
+			},
+			{
+				"family": "Salman",
+				"given": "Betul"
+			},
+			{
+				"family": "Herd",
+				"given": "Kate"
+			},
+			{
+				"family": "Wong",
+				"given": "B.L. William"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/RTCBAB98",
+		"type": "article-journal",
+		"container-title": "Journal of Cognitive Engineering and Decision Making",
+		"DOI": "10.1177/1555343416672782",
+		"ISSN": "1555-3434",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Cognitive Engineering and Decision Making",
+		"language": "en",
+		"page": "23-41",
+		"source": "DOI.org (Crossref)",
+		"title": "Using Machine Learning to Infer Reasoning Provenance From User Interaction Log Data: Based on the Data/Frame Theory of Sensemaking",
+		"title-short": "Using Machine Learning to Infer Reasoning Provenance From User Interaction Log Data",
+		"URL": "http://journals.sagepub.com/doi/10.1177/1555343416672782",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Kodagoda",
+				"given": "Neesha"
+			},
+			{
+				"family": "Pontis",
+				"given": "Sheila"
+			},
+			{
+				"family": "Simmie",
+				"given": "Donal"
+			},
+			{
+				"family": "Attfield",
+				"given": "Simon"
+			},
+			{
+				"family": "Wong",
+				"given": "B. L. William"
+			},
+			{
+				"family": "Blandford",
+				"given": "Ann"
+			},
+			{
+				"family": "Hankin",
+				"given": "Chris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/V47KHJCE",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2019.2934556",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1246-1255",
+		"source": "DOI.org (Crossref)",
+		"title": "The Role of Latency and Task Complexity in Predicting Visual Search Behavior",
+		"URL": "https://ieeexplore.ieee.org/document/8809742/",
+		"volume": "26",
+		"author": [
+			{
+				"family": "Battle",
+				"given": "Leilani"
+			},
+			{
+				"family": "Crouser",
+				"given": "R. Jordan"
+			},
+			{
+				"family": "Nakeshimana",
+				"given": "Audace"
+			},
+			{
+				"family": "Montoly",
+				"given": "Ananda"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			},
+			{
+				"family": "Stonebraker",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/WJL9W75X",
+		"type": "chapter",
+		"container-title": "Mining Text Data",
+		"event-place": "Boston, MA",
+		"ISBN": "978-1-4614-3222-7",
+		"language": "en",
+		"note": "DOI: 10.1007/978-1-4614-3223-4_6",
+		"page": "163-222",
+		"publisher": "Springer US",
+		"publisher-place": "Boston, MA",
+		"source": "DOI.org (Crossref)",
+		"title": "A Survey of Text Classification Algorithms",
+		"URL": "http://link.springer.com/10.1007/978-1-4614-3223-4_6",
+		"editor": [
+			{
+				"family": "Aggarwal",
+				"given": "Charu C."
+			},
+			{
+				"family": "Zhai",
+				"given": "ChengXiang"
+			}
+		],
+		"author": [
+			{
+				"family": "Aggarwal",
+				"given": "Charu C."
+			},
+			{
+				"family": "Zhai",
+				"given": "ChengXiang"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/H8WMKJLK",
+		"type": "article-journal",
+		"container-title": "Journal of Multimedia",
+		"DOI": "10.4304/jmm.9.5.635-643",
+		"ISSN": "1796-2048",
+		"issue": "5",
+		"journalAbbreviation": "JMM",
+		"page": "635-643",
+		"source": "DOI.org (Crossref)",
+		"title": "Short Text Classification: A Survey",
+		"title-short": "Short Text Classification",
+		"URL": "http://ojs.academypublisher.com/index.php/jmm/article/view/12635",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Song",
+				"given": "Ge"
+			},
+			{
+				"family": "Ye",
+				"given": "Yunming"
+			},
+			{
+				"family": "Du",
+				"given": "Xiaolin"
+			},
+			{
+				"family": "Huang",
+				"given": "Xiaohui"
+			},
+			{
+				"family": "Bie",
+				"given": "Shifu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/IBC732DB",
+		"type": "article-journal",
+		"container-title": "International Journal of Remote Sensing",
+		"DOI": "10.1080/01431160600746456",
+		"ISSN": "0143-1161, 1366-5901",
+		"issue": "5",
+		"journalAbbreviation": "International Journal of Remote Sensing",
+		"language": "en",
+		"page": "823-870",
+		"source": "DOI.org (Crossref)",
+		"title": "A survey of image classification methods and techniques for improving classification performance",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/01431160600746456",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Lu",
+				"given": "D."
+			},
+			{
+				"family": "Weng",
+				"given": "Q."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/NT7MUUJU",
+		"type": "paper-conference",
+		"container-title": "2014 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT)",
+		"DOI": "10.1109/ICCICCT.2014.6993023",
+		"event": "2014 International Conference on Control, Instrumentation, Communication and Computational Technologies (ICCICCT)",
+		"event-place": "Kanyakumari District, India",
+		"ISBN": "978-1-4799-4190-2",
+		"page": "554-557",
+		"publisher": "IEEE",
+		"publisher-place": "Kanyakumari District, India",
+		"source": "DOI.org (Crossref)",
+		"title": "A survey of image classification methods and techniques",
+		"URL": "http://ieeexplore.ieee.org/document/6993023/",
+		"author": [
+			{
+				"family": "Nath",
+				"given": "Siddhartha Sankar"
+			},
+			{
+				"family": "Mishra",
+				"given": "Girish"
+			},
+			{
+				"family": "Kar",
+				"given": "Jajnyaseni"
+			},
+			{
+				"family": "Chakraborty",
+				"given": "Sayan"
+			},
+			{
+				"family": "Dey",
+				"given": "Nilanjan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/N59Z575S",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Information Theory",
+		"DOI": "10.1109/TIT.1982.1056489",
+		"ISSN": "0018-9448",
+		"issue": "2",
+		"journalAbbreviation": "IEEE Trans. Inform. Theory",
+		"language": "en",
+		"page": "129-137",
+		"source": "DOI.org (Crossref)",
+		"title": "Least squares quantization in PCM",
+		"URL": "http://ieeexplore.ieee.org/document/1056489/",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Lloyd",
+				"given": "S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/KCQY9KIX",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems  - CHI '19",
+		"DOI": "10.1145/3290605.3300892",
+		"event": "the 2019 CHI Conference",
+		"event-place": "Glasgow, Scotland Uk",
+		"ISBN": "978-1-4503-5970-2",
+		"language": "en",
+		"page": "1-12",
+		"publisher": "ACM Press",
+		"publisher-place": "Glasgow, Scotland Uk",
+		"source": "DOI.org (Crossref)",
+		"title": "VizNet: Towards A Large-Scale Visualization Learning and Benchmarking Repository",
+		"title-short": "VizNet",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3290605.3300892",
+		"author": [
+			{
+				"family": "Hu",
+				"given": "Kevin"
+			},
+			{
+				"family": "Demiralp",
+				"given": "Çağatay"
+			},
+			{
+				"family": "Gaikwad",
+				"given": "Snehalkumar 'Neil' S."
+			},
+			{
+				"family": "Hulsebos",
+				"given": "Madelon"
+			},
+			{
+				"family": "Bakker",
+				"given": "Michiel A."
+			},
+			{
+				"family": "Zgraggen",
+				"given": "Emanuel"
+			},
+			{
+				"family": "Hidalgo",
+				"given": "César"
+			},
+			{
+				"family": "Kraska",
+				"given": "Tim"
+			},
+			{
+				"family": "Li",
+				"given": "Guoliang"
+			},
+			{
+				"family": "Satyanarayan",
+				"given": "Arvind"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/MZNNWQHZ",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.273",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2908-2916",
+		"source": "DOI.org (Crossref)",
+		"title": "The User Puzzle—Explaining the Interaction with Visual Analytics Systems",
+		"URL": "http://ieeexplore.ieee.org/document/6327297/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Pohl",
+				"given": "Margit"
+			},
+			{
+				"family": "Smuc",
+				"given": "Michael"
+			},
+			{
+				"family": "Mayr",
+				"given": "Eva"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/5YQ2CVUI",
+		"type": "article-journal",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12631",
+		"ISSN": "01677055",
+		"issue": "3",
+		"journalAbbreviation": "Computer Graphics Forum",
+		"language": "en",
+		"page": "191-200",
+		"source": "DOI.org (Crossref)",
+		"title": "Rationale Visualization for Safety and Security",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12631",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Scheepens",
+				"given": "Roeland"
+			},
+			{
+				"family": "Michels",
+				"given": "Steffen"
+			},
+			{
+				"family": "Wetering",
+				"given": "Huub",
+				"non-dropping-particle": "van de"
+			},
+			{
+				"family": "Wijk",
+				"given": "Jarke J.",
+				"non-dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/QNFUIEJF",
+		"type": "paper-conference",
+		"container-title": "2015 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"DOI": "10.1109/VAST.2015.7347627",
+		"event": "2015 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+		"event-place": "Chicago, IL, USA",
+		"ISBN": "978-1-4673-9783-4",
+		"page": "25-32",
+		"publisher": "IEEE",
+		"publisher-place": "Chicago, IL, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Collaborative visual analysis with RCloud",
+		"URL": "http://ieeexplore.ieee.org/document/7347627/",
+		"author": [
+			{
+				"family": "North",
+				"given": "Stephen"
+			},
+			{
+				"family": "Scheidegger",
+				"given": "Carlos"
+			},
+			{
+				"family": "Urbanek",
+				"given": "Simon"
+			},
+			{
+				"family": "Woodhull",
+				"given": "Gordon"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/N82BS578",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467153",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "877-885",
+		"source": "DOI.org (Crossref)",
+		"title": "Visualization-by-Sketching: An Artist's Interface for Creating Multivariate Time-Varying Data Visualizations",
+		"title-short": "Visualization-by-Sketching",
+		"URL": "http://ieeexplore.ieee.org/document/7185456/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Schroeder",
+				"given": "David"
+			},
+			{
+				"family": "Keefe",
+				"given": "Daniel F."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3UGQN2RR",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2016.2598839",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "331-340",
+		"source": "DOI.org (Crossref)",
+		"title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration",
+		"title-short": "Visualization by Demonstration",
+		"URL": "http://ieeexplore.ieee.org/document/7539327/",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Saket",
+				"given": "Bahador"
+			},
+			{
+				"family": "Kim",
+				"given": "Hannah"
+			},
+			{
+				"family": "Brown",
+				"given": "Eli T."
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3VL58XP9",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2018.2864836",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "759-768",
+		"source": "DOI.org (Crossref)",
+		"title": "Design Exposition with Literate Visualization",
+		"URL": "https://ieeexplore.ieee.org/document/8440080/",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Wood",
+				"given": "Jo"
+			},
+			{
+				"family": "Kachkaev",
+				"given": "Alexander"
+			},
+			{
+				"family": "Dykes",
+				"given": "Jason"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/2BU972WA",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2007.70589",
+		"ISSN": "1077-2626",
+		"issue": "6",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1129-1136",
+		"source": "DOI.org (Crossref)",
+		"title": "Scented Widgets: Improving Navigation Cues with Embedded Visualizations",
+		"title-short": "Scented Widgets",
+		"URL": "http://ieeexplore.ieee.org/document/4376132/",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Willett",
+				"given": "Wesley"
+			},
+			{
+				"family": "Heer",
+				"given": "Jeffrey"
+			},
+			{
+				"family": "Agrawala",
+				"given": "Maneesh"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/D3TT5M9U",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2014.2346321",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "2161-2170",
+		"source": "DOI.org (Crossref)",
+		"title": "Visual Parameter Space Analysis: A Conceptual Framework",
+		"title-short": "Visual Parameter Space Analysis",
+		"URL": "http://ieeexplore.ieee.org/document/6876043/",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Sedlmair",
+				"given": "Michael"
+			},
+			{
+				"family": "Heinzl",
+				"given": "Christoph"
+			},
+			{
+				"family": "Bruckner",
+				"given": "Stefan"
+			},
+			{
+				"family": "Piringer",
+				"given": "Harald"
+			},
+			{
+				"family": "Moller",
+				"given": "Torsten"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/3Y7FBVYP",
+		"type": "article-journal",
+		"container-title": "Information Visualization",
+		"DOI": "10.1057/ivs.2008.31",
+		"ISSN": "1473-8716, 1473-8724",
+		"issue": "1",
+		"journalAbbreviation": "Information Visualization",
+		"language": "en",
+		"page": "42-55",
+		"source": "DOI.org (Crossref)",
+		"title": "Characterizing Users' Visual Analytic Activity for Insight Provenance",
+		"URL": "http://journals.sagepub.com/doi/10.1057/ivs.2008.31",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Gotz",
+				"given": "David"
+			},
+			{
+				"family": "Zhou",
+				"given": "Michelle X."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/VCCNYE2I",
+		"type": "article-journal",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2468078",
+		"ISSN": "1077-2626",
+		"issue": "1",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"page": "1-10",
+		"source": "DOI.org (Crossref)",
+		"title": "Reducing Snapshots to Points: A Visual Analytics Approach to Dynamic Network Exploration",
+		"title-short": "Reducing Snapshots to Points",
+		"URL": "http://ieeexplore.ieee.org/document/7192717/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Elzen",
+				"given": "Stef",
+				"non-dropping-particle": "van den"
+			},
+			{
+				"family": "Holten",
+				"given": "Danny"
+			},
+			{
+				"family": "Blaas",
+				"given": "Jorik"
+			},
+			{
+				"family": "Wijk",
+				"given": "Jarke J.",
+				"non-dropping-particle": "van"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/2WDQWUU6",
+		"type": "book",
+		"call-number": "QA76.9.H85 H856 2004",
+		"edition": "3rd ed",
+		"event-place": "Harlow, England ; New York",
+		"ISBN": "978-0-13-046109-4",
+		"number-of-pages": "834",
+		"publisher": "Pearson/Prentice-Hall",
+		"publisher-place": "Harlow, England ; New York",
+		"source": "Library of Congress ISBN",
+		"title": "Human-computer interaction",
+		"editor": [
+			{
+				"family": "Dix",
+				"given": "Alan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/5824505/items/6SBU6UQR",
+		"type": "book",
+		"edition": "Fourth edition",
+		"event-place": "Chichester",
+		"ISBN": "978-1-119-02075-2",
+		"language": "eng",
+		"note": "OCLC: 903427599",
+		"number-of-pages": "567",
+		"publisher": "Wiley",
+		"publisher-place": "Chichester",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Interaction design: beyond human-computer interaction",
+		"title-short": "Interaction design",
+		"author": [
+			{
+				"family": "Preece",
+				"given": "Jenny"
+			},
+			{
+				"family": "Rogers",
+				"given": "Yvonne"
+			},
+			{
+				"family": "Sharp",
+				"given": "Helen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

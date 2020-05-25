@@ -32,6 +32,21 @@ table{
     padding:0px;
 } */
 
+html {
+    scroll-behavior: smooth;
+}
+
+#referenceList{
+    margin-top:100px;
+}
+
+#referenceList .citation{
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+
 .objecttable{
     font-family: "Roboto Slab", Trebuchet, sans-serif;
 }
@@ -52,6 +67,13 @@ table{
     padding-right:20px;
     font-size: 12px;
 }
+.objecttable tbody tr .literature_col{
+    /* color:black; */
+    text-decoration: none;
+}
+/* .objecttable tbody tr td:last-child {
+    display: none;
+} */
 
 .objecttable .categories th{
     font-weight: bold;

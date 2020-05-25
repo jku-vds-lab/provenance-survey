@@ -23,7 +23,7 @@ d3.csv('../assets/data/header.csv')
         $('.cbFilter').click(update_filter_mask);
     });
 
-d3.csv('../assets/data/table2-noCite.csv')
+d3.csv('../assets/data/table2-combCite.csv')
     .then((data) => { // wait until loading has finished, then ...
         // console.log(data);
         all_data = data;
@@ -84,7 +84,7 @@ function updateTable(data) {
                     case '3':
                         return `<img height=15px src='../assets/images/ReferenceTable/yes3.png' alt='yes'/>`;
                     default:
-                        return d;
+                        return `<a class='literature_col' href='#${d.split('#')[1]}'>${d.split('#')[0]}</a>`;
                 }
                 return td_enter;
             }
@@ -117,7 +117,108 @@ function update_filter_mask() {
     });
 
     filtered_data = all_data.filter((d, idx) => filtered[idx]);
-    // console.log(filtered_data);
     updateTable(filtered_data);
+
+    filtered_refs = all_ref_data.filter((d, idx) => filtered[idx]);
+    updateRefList(filtered_refs);
 }
 
+// --------References-------
+
+// #referenceList
+
+const ref_list = d3.select('#referenceList');
+all_ref_data = []
+
+d3.json('../assets/data/main_clean.json')
+    .then((data) => {
+        // console.log(data);
+        all_ref_data = data;
+        update_filter_mask();
+    });
+
+
+function updateRefList(data){
+    // add a div for each item in the dataset
+    var divs = ref_list.selectAll(".citation")
+        .data(data, d => {
+            if (d === undefined) {
+                return d;
+            }
+            return d.id;
+        }) //...which column is the identifier
+        .join(
+        (enter) => {
+            const div_enter = enter.append('div');
+            div_enter.attr('class', 'citation');
+            div_enter.attr('id', (d) => d.id);
+            const p_enter = div_enter.append('p');
+
+            p_enter.html((d) => {
+                var authors = "";
+                var first = true;
+                for (const i in d.author) {
+                    if (d.author.hasOwnProperty(i)) {
+                        const author = d.author[i];
+
+                        if(!first){
+                            authors += ", "
+                        }else{
+                            first = false;
+                        }
+                        authors += author.family;
+                        // if(author.given != undefined){ // 2 authors had "literal" instead of first and last name => changed it
+                        authors += "&nbsp;";
+                        authors += author.given.substr(0,1);
+                        // }
+                        authors += ".";
+                    }
+                }
+
+                var html = `${authors} (${d.issued["date-parts"][0][0]}).`;
+                return html;
+            });
+
+            const span_title_enter = p_enter.append("span");
+            span_title_enter.attr('class', 'paper-title');
+            span_title_enter.html((d) => ` <b>${d.title}</b> `);
+            
+            const em_enter = p_enter.append("em");
+            em_enter.html((d) => d['container-title']);
+
+            const span_doi_enter = p_enter.append("span");
+            span_doi_enter.html((d) => {
+                var ret_str = ", "
+                if(d.volume != undefined){
+                    ret_str += `${d.volume} `;
+                }
+                if(d.issue != undefined){
+                    ret_str += `(${d.issue})`;
+                }
+                if((d.volume != undefined || d.issue != undefined) && d.page != undefined){
+                    ret_str += `:${d.page}`
+                }
+                if(d.volume != undefined || d.issue != undefined || d.page != undefined){
+                    ret_str += '.';
+                }
+                return ret_str;
+            });
+            const a_doi_enter = span_doi_enter.append('a');
+            a_doi_enter.attr('href', (d) => d.URL);
+            a_doi_enter.attr('target', '_blank');
+            a_doi_enter.html((d) => ` doi:${d.DOI}`);
+
+            // <em>Computer Graphics Forum</em>,
+            //     <span class="paper-citation">
+            //         38 (3):41-52.
+            //         <a href="http://dx.doi.org/10.1111/cgf.13670" target="_blank">doi:10.1111/cgf.13670</a>.
+            //     </span>
+
+            return div_enter;
+        },
+        (update) => update,
+        (exit) => {
+            return exit.transition().remove();//duration(500).attr("height", 0).remove();
+        }
+        );
+}
