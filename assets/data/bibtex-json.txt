@@ -1,0 +1,2 @@
+https://github.com/inukshuk/bibtex-ruby 
+https://stackoverflow.com/questions/5507512/how-to-write-to-a-json-file-in-the-correct-format
