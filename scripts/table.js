@@ -188,7 +188,10 @@ function updateRefList(data){
 
             const span_doi_enter = p_enter.append("span");
             span_doi_enter.html((d) => {
-                var ret_str = ", "
+                var ret_str = ""
+                if(d.volume != undefined || d.issue != undefined || d.page != undefined){
+                    ret_str += ', ';
+                }
                 if(d.volume != undefined){
                     ret_str += `${d.volume} `;
                 }
@@ -196,7 +199,9 @@ function updateRefList(data){
                     ret_str += `(${d.issue})`;
                 }
                 if((d.volume != undefined || d.issue != undefined) && d.page != undefined){
-                    ret_str += `:${d.page}`
+                    ret_str += `: ${d.page}`
+                }else{
+                    ret_str += d.page;
                 }
                 if(d.volume != undefined || d.issue != undefined || d.page != undefined){
                     ret_str += '.';

@@ -26,6 +26,12 @@
     <!-- Fav and touch icons -->
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico" />
     <link rel="apple-touch-icon" href="../../favicon.png" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <!-- include D3 library -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- include the main script -->
+    <script src="../../scripts/references.js" defer async></script>
 </head>
 
 
@@ -214,86 +220,11 @@
                 <h1>Example Papers</h1>
 
                 <!-- Sort refs to show up from oldest to newest -->
-
-                <ul>
-                    <div class="citation">
-                        <p>
-                            <!-- Only use initial of first Name -->
-                            Dabek&nbsp;F.,
-                            <!-- Only use initial of first Name -->
-                            Caban&nbsp;J.
-
-                            (2016).
-
-                            <!-- <br/> -->
-                            <span class="paper-title">
-                                <b>A Grammar-based Approach for Modeling User Interactions and Generating Suggestions
-                                    During the Data Exploration Process</b>.
-                            </span>
-
-                            <em>IEEE Transactions on Visualization and Computer Graphics</em>.
-                            <!-- <br/> -->
-
-                            <span class="paper-citation">
-                                23
-                                1-1.
-                                <!-- (2016) -->
-                                <a href="http://dx.doi.org/10.1109/TVCG.2016.2598471"
-                                    target="_blank">doi:10.1109/TVCG.2016.2598471</a>.
-                            </span>
-                    </div>
-                    </a>
-                </ul>
-
-                <ul>
-                    <div class="citation">
-                        <p>
-
-                            <!-- Only use initial of first Name -->
-                            Mutlu&nbsp;B.,
-                            <!-- Only use initial of first Name -->
-                            Veas&nbsp;E.,
-                            <!-- Only use initial of first Name -->
-                            Trattner&nbsp;C.
-
-                            (2016).
-
-                            <!-- <br/> -->
-                            <span class="paper-title">
-                                <b>VizRec: Recommending Personalized Visualizations</b>.
-                            </span>
-
-                            <em>ACM Trans. Interact. Intell. Syst</em>,
-                            <!-- <br/> -->
-
-                            <span class="paper-citation">
-                                6 (4),
-                                31:1-31.39.
-                                <a href="http://dx.doi.org/10.1145/2983923" target="_blank">doi:10.1145/2983923</a>.
-                            </span>
-                    </div>
-                    </a>
-                </ul>
-
-
+                <div id="referenceList"></div>
 
             </div>
 
         </section>
-
-        <script src="../../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
-        <script src="../../scripts/technique_scores.js"></script>
-
-        <script>
-            let scores = JSON.parse((
-                '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>2, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>2, "network"=>2}}'
-                .replace(/=>/g, ':')));
-            let labels = JSON.parse((
-                '{"Size"=>{"<!-- order"=>"1 -->", "keys"=>["size"]}, "Type"=>{"<!-- order"=>"2 -->", "keys"=>["type"]}, "Node Attributes"=>{"<!-- order"=>"3 -->", "keys"=>["node_attr_size", "node_attr_type"]}, "Edge Attributes"=>{"<!-- order"=>"4 -->", "keys"=>["edge_attr_size", "edge_attr_type"]}, "Structures"=>{"<!-- order"=>"5 -->", "keys"=>["structure"]}}'
-                .replace(/=>/g, ':')));
-            technique_scores(scores, labels);
-        </script>
-
 
         <footer>
             <div class="footer-content">
@@ -358,8 +289,6 @@
         </footer>
     </div>
 
-    <script src="../../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
-    <script src="../../scripts/vdl_logo_script.js"></script>
 </body>
 
 </html>

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Replication, Verification, and Re-Application</title>
+    <title>Replication</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description"
         content="Partner website for STAR on the Analysis of User Interactions and Visualization Provenance">
@@ -26,6 +26,12 @@
     <!-- Fav and touch icons -->
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico" />
     <link rel="apple-touch-icon" href="../../favicon.png" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <!-- include D3 library -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- include the main script -->
+    <script src="../../scripts/references.js" defer async></script>
 </head>
 
 
@@ -215,93 +221,12 @@
                 <h1>Example Papers</h1>
 
                 <!-- Sort refs to show up from oldest to newest -->
-
-                <ul>
-                    <div class="citation">
-                        <p>
-
-                            <!-- Only use initial of first Name -->
-                            Gotz&nbsp;D.,
-                            <!-- Only use initial of first Name -->
-                            Sun&nbsp;S.,
-                            <!-- Only use initial of first Name -->
-                            Cao&nbsp;N.,
-                            <!-- Only use initial of first Name -->
-                            Kundu&nbsp;R.,
-                            <!-- Only use initial of first Name -->
-                            Meyer&nbsp;A.-M.
-
-                            (2017).
-
-                            <!-- <br/> -->
-                            <span class="paper-title">
-                                <b>Adaptive Contextualization Methods for Combating Selection Bias During
-                                    High-Dimensional Visualization</b>.
-                            </span>
-
-                            <em>ACM Trans. Interact. Intell. Syst</em>.
-                            <!-- <br/> -->
-
-                            <span class="paper-citation">
-                                7,
-                                1-23.
-                                <a href="http://dx.doi.org/10.1145/3009973" target="_blank">doi:10.1145/3009973</a>.
-                            </span>
-                    </div>
-                    </a>
-                </ul>
-
-
-                <ul>
-                    <div class="citation">
-                        <p>
-
-                            <!-- Only use initial of first Name -->
-                            Boukhelifa&nbsp;N.,
-                            <!-- Only use initial of first Name -->
-                            Cancino&nbsp;W.,
-                            <!-- Only use initial of first Name -->
-                            Bezerianos&nbsp;A.,
-                            <!-- Only use initial of first Name -->
-                            Lutton&nbsp;E.
-
-                            (2013).
-
-                            <!-- <br/> -->
-                            <span class="paper-title">
-                                <b>Evolutionary Visual Exploration: Evaluation With Expert Users</b>.
-                            </span>
-
-                            <em>Computer Graphics Forum</em>,
-                            <!-- <br/> -->
-
-                            <span class="paper-citation">
-                                32.
-                                <a href="http://dx.doi.org/10.1111/cgf.12090"
-                                    target="_blank">doi:10.1111/cgf.120903</a>.
-                            </span>
-                    </div>
-                    </a>
-                </ul>
-
+                <div id="referenceList"></div>
 
 
             </div>
 
         </section>
-
-        <script src="../../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
-        <script src="../../scripts/technique_scores.js"></script>
-
-        <script>
-            let scores = JSON.parse((
-                '{"size"=>{"small"=>3, "medium"=>2, "large"=>1}, "type"=>{"sparse"=>3, "dense"=>1, "layered"=>3, "trees"=>3}, "node_attr_size"=>{"few"=>2, "several"=>1}, "node_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>2}, "edge_attr_size"=>{"few"=>2, "several"=>1}, "edge_attr_type"=>{"homogeneous"=>3, "heterogeneous"=>1}, "structure"=>{"single"=>3, "neighbor"=>3, "path"=>2, "cluster"=>2, "network"=>2}}'
-                .replace(/=>/g, ':')));
-            let labels = JSON.parse((
-                '{"Size"=>{"<!-- order"=>"1 -->", "keys"=>["size"]}, "Type"=>{"<!-- order"=>"2 -->", "keys"=>["type"]}, "Node Attributes"=>{"<!-- order"=>"3 -->", "keys"=>["node_attr_size", "node_attr_type"]}, "Edge Attributes"=>{"<!-- order"=>"4 -->", "keys"=>["edge_attr_size", "edge_attr_type"]}, "Structures"=>{"<!-- order"=>"5 -->", "keys"=>["structure"]}}'
-                .replace(/=>/g, ':')));
-            technique_scores(scores, labels);
-        </script>
 
 
         <footer>
@@ -367,9 +292,6 @@
         </footer>
     </div>
 
-
-    <script src="../../../../cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
-    <script src="../../scripts/vdl_logo_script.js"></script>
 </body>
 
 </html>
